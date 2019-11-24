@@ -1,7 +1,6 @@
 FROM LOCAL TO GLOBAL. CURRENT PERSPECTIVES ON EDUCATION AND CULTURAL HERITAGE
 Theme: Archaeological heritage and museum management: future chances, future risks
-Organisers: Farrujia de la Rosa, Jose (Universidad de La Laguna) - Hernández-Ojeda, María (Hunter College. City University of
-New York)
+Organisers: Farrujia de la Rosa, Jose (Universidad de La Laguna) - Hernández-Ojeda, María (Hunter College. City University of New York)
 Format: Regular session
 Cultural heritage can only function as a conduit of sustainable development through proper education, in order to raise awareness of its importance. But cultural heritage also has a dual character whereby it can, at the same time, be celebrated for its
 outstanding universal value while having a special meaning and value for local and, in particular, bearer communities.

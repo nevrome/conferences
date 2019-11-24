@@ -1,5 +1,4 @@
-INTRASITE SPATIAL ANALYSIS: A BRANCHED PATH TO UNDERSTANDING SOCIAL PATTERNS OF
-BEHAVIOUR
+INTRASITE SPATIAL ANALYSIS: A BRANCHED PATH TO UNDERSTANDING SOCIAL PATTERNS OF BEHAVIOUR
 Author(s): Lucci, Enrico (Dipartimento di Scienze dell’Antichità, Sapienza - Università di Roma)
 Presentation Format: Oral
 The relationship between spatial organization and social life is a meaningful scope of investigation for social science. Cross-influences between space organisation and cultural choices reflect a wide range of social behaviours; in this sense, considering
@@ -8,3 +7,11 @@ decades, spatial analysis has stepped-up our knowledge about settlements and com
 and the central Mediterranean. Analyses have been carried out on different kind of archaeological contexts, from those affected
 by sudden destructive events, falling into the “Pompeii premise” cases (Binford 1981), to those resulting from the progressive
 growth of refusal elements, apparently affected by a high degree of entropy. While the first yield significant information about
+organization of the space, the latter reflect repeated activities performed in a given space. Therefore, different methodological
+approaches to distribution analysis, from simple graphical representation to geostatistical analysis, have prompted different
+interpretative models of the spatial organization and patterns of use. However, the vast majority of the studies have focused on
+well-preserved suddenly destroyed contexts close to the “Pompeii premise”.
+This presentation seeks to give a critical review of the use of intra-site spatial analysis to understand social patterns of behaviour. Cases-study from Italy and the central Mediterranean, either characterized by sudden destructive events or progressive
+growth of refusal elements, will be specifically discussed. The significance and suitability of both types of contexts as pointers
+for socially accepted behavioural patterns will be also investigated. Furthermore, a focus will be addressed to the spatial analysis of botanical and faunal refuse, proxy data for a wide range of human activities of production and management of primary and
+secondary goods.

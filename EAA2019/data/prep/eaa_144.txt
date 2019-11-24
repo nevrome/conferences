@@ -1,5 +1,4 @@
-ARCHAEOLOGY ‘OFF THE RECORD’ – ETHICAL AND METHODOLOGICAL CHALLENGES WHEN STUDYING
-UP
+ARCHAEOLOGY ‘OFF THE RECORD’ – ETHICAL AND METHODOLOGICAL CHALLENGES WHEN STUDYING UP
 Author(s): Niklasson, Elisabeth (Stanford University) - Hølleland, Herdis (Norwegian Institute for Cultural Heritage Research)
 Presentation Format: Oral
 The past is no longer what it used to be, and neither is archaeological fieldwork. Over the last decade archaeologists studying the
@@ -10,3 +9,7 @@ meetings, EU panels and national parliamentary sessions, examining by what means
 now. This new focus on institutions and people of power has paved the way for a deeper understanding of the inner workings of
 heritage politics and governance, including the conditions that make (mis)uses of the past possible. It has also, however, meant
 stepping onto a minefield of ethical and methodological issues that archaeologists are often ill-prepared to navigate. In this contribution we draw on our experiences studying the politics of the past in UNESCO and the EU to address two such interconnected
+issues: firstly, how to acquire empirical material that tells you not just what people are up to, but what they “think they are up to”,
+and secondly, how to deal with such unofficial and sometimes sensitive information once you have it. Alongside examples of our
+own failures and successes, we draw on the growing body of policy research and propose multi-methodological strategies that
+can strengthen interpretations and claims based on such information.
