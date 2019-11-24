@@ -1,0 +1,16 @@
+HIGH-RESOLUTION GEOCHEMICAL EVIDENCE FOR THE USE OF INDOOR SPACE IN VIKING-AGE RIBE,
+DENMARK, USING A HANDHELD XRF
+Author(s): Trant, Pernille - Kristiansen, Søren (Department of Geoscience, Aarhus University; Centre for Urban Network Evolutions, Aarhus University) - Wouters, Barbora - Sindbæk, Søren (Centre for Urban Network Evolutions, Aarhus University)
+Presentation Format: Oral
+Faster and cheaper methods allow us to increase the amount of samples from archaeological excavations and materials which
+can be processed in a cost-efficient way. Here, we present the use of a handheld (x-ray fluorescence) pXRF for the laboratory
+analysis of bulk sediment samples from an activity layer excavated inside a 9th-century CE market place house in the emporium
+of Ribe, Denmark.
+The house was sampled during the Northern Emporium Project excavation (2017-2018) in a closely spaced grid of 0.25 x 0.25 m
+(a total of 1108 samples), which allowed us to sample approximately half of the surface area of the house. This high-resolution
+sampling strategy poses an opportunity to obtain a better understanding of the use of indoor space at this early point of urbanism in the Viking world.
+A high spatial resolution data set such as the one created here makes it possible to 1) include a thorough statistical analysis on
+the use of pXRF for this type of study, 2) examine how more traditional, coarser sample spacing can influence interpretations,
+and 3) potentially create better archeological evidence of different activity areas within this house when combined with the
+excavation results and other scientific analyses. In this paper we will present the first results and on this basis discuss new
+methodological considerations for sampling soils from archaeological settlement contexts.

@@ -1,0 +1,5 @@
+δ13C and δ15N of collagen from teeth and bone are used to study human nutrition and health. As bones are constantly remodelling throughout life, isotopic values of bone collagen represent an average of several years. In contrast, human teeth do
+not remodel, and their primary dentine contains only the isotopic data from the time of formation. Novel techniques using micro-sampling of dentine have allowed better temporal resolution and the examination of tissue formed in utero as a proxy for
+maternal diet and physiology.
+Contrary to all other bones, human auditory ossicles also do not remodel. As they develop in utero and finish formation in the first
+two years of life, their collagen should represent isotopic values of these two relatively short periods. By comparing δ13C and

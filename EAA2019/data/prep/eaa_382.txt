@@ -1,0 +1,13 @@
+reflecting the number of individuals by age and the fact that the samples do not represent a population from which they are
+drawn. Researchers have omitted paledemographic methods and have searched for a new methodological approach. In the light
+of the above criticism of paleodemographic methods, in this work the following issues will be discussed:
+1) Paleodemographic research is still an important part of studies of skeletal populations; 2) It is worth looking for new methodological solutions provided that there is a certain criticism of the results interpretation. In order to address the above excursus
+different research approaches will be applied (classical methods and new ones with the use of software) and possibilities of
+interpreting the results will be proposed. For this purpose the cremated human remains (N=438 individuals with age and sex
+determined) excavated from the cemetery at Wicina (the Lusatian Culture), Poland, will be used. Life tables will be built using the
+classic Halley’s method, without/ with the corrected number of the individuals deceased, and without/ with the introduction of
+the values of natural growth, estimated on the basis of the parameters of the Bocquet-Appel regression function and from the
+model life tables proposed by Weiss (1973). The biological status will be assessed using the measures of the opportunity for natural selection (biological state index and potential reproductive growth) and the parameters of fertility will be estimated. Next,
+survival analysis will be applied. This method is useful since there are observation only partially known (underestimated number
+of children) and the grouping of the time of events into intervals of equal length is not required. Ultimately, the Bayesian models
+will be used for assessing the uncertainty in the resulting estimates of age.

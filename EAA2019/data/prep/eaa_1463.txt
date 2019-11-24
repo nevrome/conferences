@@ -1,0 +1,12 @@
+PERCEPTION AND MIGRATION: PREHISTORIC STUDIES
+Author(s): Zubrow, Ezra (University at Buffalo; University at Toronto) - Leavitt, Jay (University at Buffalo) - Diachenko, Oleksandr (Institute of Archaeology)
+Presentation Format: Oral
+This paper considers the role of perception in prehistoric migratory decisions. It is part of a series of papers that the authors are
+writing on a general theory of migration and its application to prehistory.
+Migratory decisions are examined from both the individual (agency) and aggregate level. Migratory decisions are considered
+from the perspective of the migrant (individual) and the migrant group (population):, from the perspective of individuals and
+the community from which emigration takes place; and from the perspective of the individual and the community to which the
+immigrant moves.
+Temporally, these perceptions may be different prior to; during; and after the migration events take place.
+A simulation model has been developed and has been tested with a limited number of assumptions regarding the number of locations, migratory events, and interactions among the communities and the migrants. It has been tested using prehistoric data
+from Cucuteni-Trypillia settlements dated 3600 to 3700 BC.

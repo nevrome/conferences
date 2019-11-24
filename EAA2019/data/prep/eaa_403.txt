@@ -1,0 +1,13 @@
+but still poorly studied within a solid theoretical framework considering landscape, human cognition and behaviour. The current
+debate for this area is still stuck to the mere, though essential, description of the material culture. This is partially due to the early
+discoveries of many archaeological contexts in this area, such as the statue-stelae and many of the caves considered in this
+study, but some preliminary results have proved to be fruitful.
+The first step concerns a critical review of the already-known archaeological sites in North-Western Tuscany, in order to set
+up a reliable basis for the following analyses within a GIS environment. Thereafter, we will build a model to track mobility and
+perception throughout the landscape in the study area, trying to understand diachronic patterns, since many variations in the
+use of cave settings or statue-stelae are recorded. Moreover, we will propose a reconstruction of the visualscape, following the
+evidences from cave settings (ritual and funerary) and other important landmarks (statue-stelae).
+Finally, we will test and further develop the well-established idea of a pastoralist society, building an optimal grazing model. This
+will be based on environmental conditions, ethnohistorical information and archaeological data. The most probable path followed
+(“transhumance route”) will be based on two different cost surfaces: one anisotropic and energy-based and one based on the
+previously defined visualscape. This will permit to address the social complexity in a more robust and quantitative way, contributing to the current archaeological debate.

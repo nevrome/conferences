@@ -1,0 +1,14 @@
+JOINT NATIONAL OWNERSHIP THROUGH WIDELY VARIED CONNECTIONS. THE FUTURE OF PORTABLE
+ANTIQUITIES OF THE NETHERLANDS (PAN)
+Author(s): Heeren, Stijn (Vrije Universiteit Amsterdam)
+Presentation Format: Oral
+The project Portable Antiquities of the Netherlands (PAN) studies archaeological finds discovered by private individuals, often
+using a metal detector, and publishes these online, with the help of both volunteers and professionals. The system uses uniform
+descriptions (‘reference types’) in order to process the high volume of finds in a structured way. PAN is therefore both a digital
+thesaurus for archaeological material culture and a digital publication of collections of antiquities. The database can be searched
+by the wider public, bulk datasets can be extracted by academics, and connections with DANS (the national trusted repository)
+ensures the long-term storage and delivery to search engines such as Ariadne.
+Although the long-term availability of the digital infrastructure is safeguarded by the National Heritage Agency of the Netherlands, keeping the staff for the data collection is a challenge. Help comes from partners in the regions: even before the setup-phase of the PAN-projects will end, various parties expressed interest to continue the data collection. It involves many volunteers in various bodies (museums, associations). The local demand for co-creation (real citizen science) provides the clue to
+solve this particular challenge.
+The future looks bright for PAN because of the joint national ownership. This ownership is felt by all parties involved because the
+system caters for needs of various interest groups at varying levels.

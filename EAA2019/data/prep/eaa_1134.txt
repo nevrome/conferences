@@ -1,0 +1,14 @@
+LEATHER DEGRADATION: AN EXPERIMENTAL APPROACH USING PXRF
+Author(s): Halldórsdóttir, Hrafnhildur - Taylor, Gillian (Teesside University)
+Presentation Format: Poster
+Archaeological leather from wet soil environments is commonly contaminated with inorganic particles from the burial medium,
+such as iron and silica. Once excavated, these inclusions can contribute to ongoing degradation of the leather through oxidation,
+posing problems for conservators working to stabilise the artefacts. Furthermore, soil inclusions complicate the identification
+of pigments and dye in leather using approaches such as pXRF, as separating endogenous from exogenous inorganic chemicals
+becomes increasingly difficult. Especially as little is known about the processes and nature of soil leaching into leather artefacts
+and its effects collagen and dye preservation. This investigation explores the inorganic elemental concentrations in soil and
+leather samples from experimental burials. The leather samples were dyed using oil, madder and vinegaroon, and buried under
+different soil conditions for eight months. The samples were excavated at a two month interval and analysed using a portable
+X-Ray Fluorescence detector (pXRF) and a Fourier-Transform Infrared Spectrometer (FTIR). The pXRF elemental concentrations
+of the leather samples were compared to those of the soil, in an attempt to follow the process of soil and dye interactions. Further, they were compared to FTIR spectra of the leather amide bonds, to inspect whether a relationship may exist between the
+presence of specific inorganic chemicals in buried leather and collagen degradation.

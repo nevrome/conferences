@@ -1,0 +1,18 @@
+CREATING REUSABLE DATA: A VIEW FROM THE TRENCHES
+Author(s): Austin, Anne (University of Missouri - St. Louis) - Kansa, Sarah (Alexandria Archive Institute)
+Presentation Format: Oral
+Archaeologists share an ethical obligation to publish, archive, and share their field data and research results. One expectation
+of making archaeological data publicly available is its eventual reuse. Yet, research into archaeological data reuse demonstrates
+that building accessible data repositories does not necessarily result in substantial reuse of archaeological data (Huggett
+2018). What limitations prevent archaeological data from reuse and how can these be addressed during and after archaeological
+fieldwork?
+The Secret Life of Data (SLO-data) project follows the lifecycle of data from the field to the digital repository to better understand opportunities and challenges in data interpretation, publication, and reuse. We use a mixed-methods approach of interviews, field observations, and excavation data assessments to identify the challenges faced by four different archaeological
+sites around the world. Our subjects are international teams comprised of senior excavation staff, students, registrars, and
+specialists, all engaged with data creation, but sometimes asynchronously and with personnel changes from year to year. In this
+paper, we report common findings that impeded archaeological data reuse across these four projects based on interviews and
+observations conducted during the 2016-2018 field seasons. We then review how technical and organizational adjustments
+that resulted from these findings impacted data creation and management practices at each site. We conclude with a discussion of how these findings can be applied to archaeological projects more broadly to better streamline data collection during
+fieldwork and in the lab for project sharing and eventual reuse.
+Works Cited
+Huggett, J. (2018). Reuse Remix Recycle: Repurposing Archaeological Digital Data. Advances in Archaeological Practice, 6(2),
+93-104. doi:10.1017/aap.2018.1

@@ -1,0 +1,17 @@
+3D MODELING OF ROCK ART SITES: CLARIFICATION OF DETAILS AND REVEALING OF PREVIOUSLY
+UNKNOWN IMAGES
+Author(s): Levanova, Elena - Laskin, Artur (Institute of Archaeology Russian Academy of Sciences) - Svoisky, Yuri - Romanenko, Ekaterina (RSSDA Lab)
+Presentation Format: Oral
+Work on the contactless documentation of boulders and rock surfaces in petroglyphic sites of the Far East (Sikachi-Alyan,
+Sheremetyevo, and Kiya on the Amur and Ussuri) is carried out as part of projects funded by the Institute of Archaeology RAS and
+the Russian Foundation for Basic Research.
+To document the surfaces of basalt boulders and vertical rock outcrops with petroglyphs, a new technique for analyzing the
+model surface was developed, which made it possible to significantly increase image recognition and tracing elaboration. Fragments of polygonal surface models with images were converted into topographic models (elevation maps), which were used
+for tracing proper. The contours of the processed and unprocessed surface were recorded not along the illumination border, as
+when dealing with a conventional photograph, but along the bends of the surface identified by mathematical visualization of the
+model’s relief. The use of this technique made it possible to perform a three-dimensional drawing of the contours of petroglyphs,
+compare known images with tracings from the 1960s – 1970s, and reveal previously unknown drawings.
+As a result of the works in 2017–2018 polygonal textured models of 81 boulders and surfaces with petroglyphs were obtained.
+The total surface area of the models is 211.5 m², the average modeling detail is 3.2 thousand polygons per cm². 17 previously
+unknown images were identified conclusively.
+The study was funded by the Russian Foundation for Basic Reseach # 17-29-04389, # 17-01-00511-ОГН.

@@ -1,0 +1,12 @@
+COMPARATIVE ARCHAEOACOUSTIC STUDY OF PREHISTORIC ROCK PAINTINGS IN FINLAND
+Author(s): Rainio, Riitta - Lassfolk, Kai (University of Helsinki)
+Presentation Format: Oral
+Since 2013, our archaeoacoustics research project in Finland has explored the acoustic properties of prehistoric Finnish rock
+paintings, presumable sacred sites of Neolithic hunter-fisher-gatherers. The in situ impulse response measurements and computational signal analyses indicate that the painted lake-shore cliffs reflect sound efficiently generating strong and sharp discrete echoes as well as illusions in which sound appears to emanate from the painted figures. This paper will present the results
+of the new comparative measurements performed during the field seasons 2018 and 2019. We will use pairwise comparison of
+spectrum analysis plots to differentiate between the wintertime and summertime acoustics, the acoustics of well-preserved
+sites and partly destroyed sites, and the acoustics of rock painting sites and random reference points. The new larger body of
+data provides a more accurate picture of the echoes at Finnish rock paintings, and helps to assess their distinctive acoustical
+features, elements that distinguish the echoes of the sacred sites from other echoes heard in the lake environment. The paper
+seeks to establish criteria for “special acoustics” at the sites that feature only one or two echoes and a moderate reverberation
+time.

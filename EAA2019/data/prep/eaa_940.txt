@@ -1,0 +1,11 @@
+IS MODELLING THE PAST LESS COMPLICATED THAN WE THINK?
+Author(s): Rivers, Ray - Evans, Tim (Imperial College London)
+Presentation Format: Oral
+It is a truism that modelling the past, by adopting simplifying assumptions, provides a caricature of the society it purports to describe. However, the old adage that ‘I can describe an elephant with four parameters and with five make it wave its trunk’ means
+that the theoretical modelling which we adopt to describe systems for which the data is limited must not be too epicyclic, adding
+wheels on wheels to ‘save the phenomena’. If so it becomes useless, merely data fitting.
+In this talk we shall argue that accommodating increasing complexity to provide a more realistic description of society does not
+necessarily demand accretion of model components and parameters. For example, when describing exchange networks it might
+be possible to conflate different categories of exchange (e.g. slaves, oil, pottery) under the single banner of elasticity of substitution. As another example, multiscale social networks might be reconfigured as effective single scale networks with a different
+understanding as to what constitutes information.
+In summary, we shall argue that a primary-coloured model may be a better description of a multi-hued world than first appearances suggest if we choose our colours carefully.

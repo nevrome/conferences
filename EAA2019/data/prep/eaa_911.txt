@@ -1,0 +1,12 @@
+AN INVESTIGATION OF DIGITAL AUTHENTICITY THROUGH USE OF GLITCHES FOR CREATING
+INTERACTIVE HERITAGE ENVIRONMENTS
+Author(s): Özdemir, Zeynep (Glasgow School of Art) - Aydın, Serdar (Mardin Artuklu University)
+Presentation Format: Oral
+This paper discusses glitches that occur as part of polygon mesh processing in 3D photogrammetry. The production of 3D geometries in photogrammetry is relevant to the object(s) being photographed or device-related parameters, e.g. camera lens and
+shutter speed. In this context, there are several determinants regarding the modelling of 3D mesh geometries, including transparency and brightness of objects and subtlety between repetitive elements. Data transformation from 2D images to 3D objects
+frequently changes the message and the glitch appears as part of the process. We present the results of a two-day workshop
+attended by four participants. We experimented the generation and the dissemination of glitches as both scholarly and creative
+products. The workshop showed how glitches (digital errors) could be exploited to rather catalyse communication between the
+machine and the audience. During the workshop, photographs were converted into 3D sculptures with ‘errors’ or as we define
+‘glitches’ that appear like holes or dislocation of pixel’s colour values. Such internal errors were taken as potentially representative of a gap in knowledge where users must project their own conceptual understanding to complete it. Decentralisation of the
+artefact from its materiality, by tolerating glitches of the digital transcoding processes, led us to evolution of means for stimulating the subjective performance of users whereby emotions and intertextual narratives can be represented.

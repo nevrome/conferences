@@ -1,0 +1,14 @@
+KNOWLEDGE DISCOVERY IN DATABASES (KDD) REVEALS NEW INSIGHTS INTO MULTI-ISOTOPE DATA
+Author(s): Göhring, Andrea (Ludwig Maximilian University Munich, Faculty of Biology, Anthropology and Human Genomics) Mauder, Markus - Kröger, Peer (Ludwig Maximilian University Munich, Faculty of Mathematics, Computer Science and Statistics, Database Systems Group) - Grupe, Gisela (Ludwig Maximilian University Munich, Faculty of Biology, Anthropology and
+Human Genomics)
+Presentation Format: Oral
+Knowledge Discovery in Databases (KDD) describes the process of gaining knowledge from a data set including Data Mining
+techniques (e. g. cluster analysis, feature ranking). KDD can be applied on multi-isotope data sets and reveals new information on
+specific questions, such as habitat choice or import. The huge multi-isotope data set from Viking Haithabu and medieval Schleswig in northern Germany allows for the application of KDD. Due to the location close to the Baltic sea a complex ecosystem is
+reflected by the isotopic signature, which cannot be discovered in total using common bivariate isotope analyses. However, i. e.
+cluster analysis using a Gaussian Mixture Model (GMM) is able to reveal new information. Furthermore, KDD can help to select
+certain isotopic systems containing more information than others for answering specific questions. This can be helpful if only
+few material is available, which is often the case in archaeological contexts. However, when material is limited (i. e. archaeological
+remains) it is obligatory to decide a priori which isotopic system(s) could be omitted from extraction without losing information.
+Feature ranking techniques allow to choose the most informative isotopic systems, depending on the research question to be
+answered

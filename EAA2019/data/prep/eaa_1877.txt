@@ -1,0 +1,13 @@
+DIGITAL PHOTOGRAPHY AND OBJECT CHEMISTRY IN MEDIEVAL ARCHAEOLOGY
+Author(s): Christie, Heather (Glasgow School of Art)
+Presentation Format: Oral
+Archaeological digital photography, particularly that relating to objects, is often employed for largely documentary purposes.
+While this type of photography is extremely valuable in archaeology, our tendency to focus largely or entirely on documentary photography limits the information we gain from archaeological photographs. My PhD research has found that a standard
+dSLR camera converted for full-spectrum photography (300 – 1000nm) can identify chemical relationships between objects by
+comparing their differential reactions to near ultraviolet (300 – 400nm) and near infrared light (950 – 1000nm). In applying this
+technique to glass objects, I have identified chemical differences between naturally-coloured Medieval glass from Scottish,
+Anglo-Saxon and medieval English contexts that suggest either differences in glass recycling or in the manufacture or origin of
+the glass itself. While comparison of object chemistry can be done through chemical analysis or multispectral or hyperspectral
+imaging, the cost of such studies is often prohibitively expensive for many archaeological projects. The type of spectral photography employed here is more affordable and is an entirely non-contact and non-destructive method for determining relative
+chemical data between objects. Spectral photography with a dSLR therefore serves as a valuable new technique for understanding manufacture and trade of archaeological objects through comparison of their relative chemical data, and it has much to offer
+in the study of Medieval artefacts.

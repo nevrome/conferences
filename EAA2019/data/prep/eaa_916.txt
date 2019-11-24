@@ -1,0 +1,18 @@
+ANDEAN CEREMONIAL LANDSCAPE, DIGITAL TOOLS ON THE EXAMPLE OF THE PRE-COLUMBIAN
+ORACLE APU COROPUNA, MODERN TECHNOLOGIES IN DIFFICULT TERRAIN
+Author(s): Sobczyk, Maciej (Center for Precolumbian Study University of Warsaw) - Ćmielewski, Bartłomiej (Laboratory of 3D
+Scanning and Modeling, Wroclaw University of Science and Technology)
+Presentation Format: Oral
+The Nevado Coropuna (Peru) is surrounded by numerous archaeological sites. This mountain was mentioned many times by Spanish chroniclers and documents (Pedro Cieza de León, Phelipe Guaman Poma de Ayala, Cristóbal de Albornoz). Coropuna oracle as
+the place where the human capacocha type offerings arrived, authors mention the temple of Nevado Coropuna. Undoubtedly,
+the important huaca in the Inca beliefs needed its own place, dedicated to its service, the place where the pilgrims could arrive
+and where the rites and offerings could be made. According to our research, this place was the monumental site now known as
+Maucallacta-Pampacolca (over 50 hectares). It was founded at an altitude of between 3,600 - 3,800 meters above sea level.
+Maucallacta contains more than 250 stone buildings, well adapted to the unevenness of the terrain, are characterized by their
+large dimensions - with a rectangular floor plan - and spatial planning in sets - that surround the squares. The system of narrow
+paths with ramps and stairs allows communication between the squares located in the different reliefs. Maucallacta, by the
+visual contact, the complexity of the plane, and also by the elaborated character of several of its structures, could have been
+the place mentioned by the chroniclers and the main administrative-religious center, related to the cult of the Apu: the oracle of
+Coropuna. Another question is how were the relations with the rest of the network of sites, the pilgrimages, and their ceremonies. High mountains are becoming an interesting challenge. Among the tools used in the research, remote sensing techniques
+were found with different effectiveness. Because of that, some comparison was performed to check the spatial accuracy of
+architectural elements, vertical accuracy of terrain reconstruction obtained by classical survey, terrestrial and aerial (UAV): photogrammetry, lidar.

@@ -1,0 +1,13 @@
+LIFE-EXPECTANCY AND ECONOMIC GROWTH ASSESSING THE WELL-BEING OF PAST POPULATIONS
+WITH SETTLEMENT-SCALING THEORY (EARLY IRON AGE ITALY AND GERMANY)
+Author(s): Fulminante, Francesca (University Roma Tre) - Müller-Scheeßel, Nils (Christian-Albrechts-Universität zu Kiel)
+Presentation Format: Oral
+In this paper we propose to use life-expectancy as indicator of well-being and therefore of economic prosperity in past population. By using Early Iron Age Italy and Germany as case studies we test this novel approach.
+Applying the R-package mortAAR, we use life-expectancy at different age-levels as indicator of economic growth and we test
+it by applying settlement scaling theory. This theory correlates settlement (or in our case burial community) size with economic
+outputs (e.g. GDP per capita and/or morbidity in our case). While the theory predicts that GDP per capita should scale supra-linearly with increased degree of urbanization it is more difficult to predict the relationship to mortality rates.
+Before modern medicine there is some evidence that death rates were higher in larger cities, but also some evidence that people that survived contagious diseases in childhood, may have gained some immunity. In contemporary cities, larger cities have
+typically younger populations, because they attract professional age people, and often people retire away from them. In ancient
+cities we might expect an analogous situation, but it is hard to know the magnitude of these migration flows.
+To conclude this paper will test and discuss issues and/or advantages of a new approach to identify the link between sustainable
+development, on one hand, and growth and health, on the other, hopefully to provide a new tool for wider comparative perspectives in urbanization and/or demographic studies.

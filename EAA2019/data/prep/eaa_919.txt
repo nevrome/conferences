@@ -1,0 +1,20 @@
+AMPHITHEATER OF SAINTES ( FRANCE, CHARENTE-MARITIME): A 3D DATA MANAGEMENT FOR
+ARCHITECTURAL PROJECT AND ARCHAEOLOGICAL STUDY
+Author(s): Fouriaux, François - Nadeau, Antoine - Piat, Jean-Luc (Bureau d’études Éveha) - Ricaud, Elsa (Agence SUNMETRON)
+- Saulière, Nicolas - Tendron, Graziella (Bureau d’études Éveha)
+Presentation Format: Oral
+As part of a project to restore and enhance the amphitheater of Saintes, an archaeological survey campaign and architectural
+study prior to the development work was conducted by the team of Eveha in collaboration with the architectural preservation
+agency Sunmetron in November 2017. An innovative method of investigation, combining digital surveying and GIS, documentary
+research, architectural observations and archaeological excavations, allowed a global and detailed reading of the monument.
+This show building of the ancient Roman city of Mediolanum Santonum was the subject of many archaeological excavations from
+1877 until today. Many uncertainties about its architecture remain, and a detailed survey of the entire monument was necessary
+in order to identify the different phases of antic constructions and modern restorations.
+Uniform documentation for the entire monument was made by photogrammetric and topographic surveys and collected in a GIS.
+In this way, we dispose of 2 complementary tools to perform the study of the monument, that composes a permanent dialogue.
+In one hand we have a 3D photogrammetric model from which we can export different geolocalised documents likes orthophotography and DEM. On the other hand, the GIS into all the documentation is integrated and permits to question the monument.
+News hypothesis thereby produced are integrated into the 3D model.
+This method allowed us to perform an analysis of the amphitheater in volume, to confront the documents produced during a
+century and a half, and to produce a critical plan of the authenticity of elevations. The new archaeological observations have also
+been integrated into this system, and have made it possible to highlight new elements on the general organization of the building.
+This presentation presents a case of data management using photogrammetric survey and 3D reconstruction, not only for archaeological study but also for architectural conservation and rehabilitation of the amphitheater.

@@ -1,0 +1,8 @@
+use of copyright material in Digital Heritage projects. The ArchAIDE project is a Horizon 2020 project that has the main goal to digitally support archaeologists in recognising and classifying pottery sherds during excavation and post-excavation analysis. This
+allows them to reduce time and costs of delivering an accurate and quick classification of archaeological pottery artefacts. As
+in many Digital Heritage projects, the correct management of the material which falls under copyright or database protection is
+fundamental for the implementation of the project itself. Therefore, special attention has been given with regard to open licensing, intellectual property rights and exploitation, due to the fact that the comparative data necessary to the implementation of
+the ArchAIDE database and app have been derived from a variety of sources, each with different advantages and restrictions.
+From this point of view, ArchAIDE provides an important proof of concept by showing the potential of digitising paper catalogues
+in a way that demonstrates how their content can be actively re-used, and has allowed ArchAIDE to open a discussion with publishers and other data providers around the importance of making their resources available in new ways with a concrete example
+(seeing their data in use within the app), furthering the long-term discourse around making research data open and accessible.

@@ -1,0 +1,14 @@
+STRATEGIES AND CHALLENGES IN THE ARCHIVE OF BIOMOLECULAR DATA
+Author(s): Hendy, Jessica (Department of Archaeology, University of York; Max Planck Institute for the Science of Human
+History)
+Presentation Format: Oral
+The field of ancient DNA has made a profound impact on the field of archaeology, and the ever-increasing production of DNA
+data, as well as the emergence of “genomics factory” laboratories, is a divisive subject in archaeology (Lewis-Kraus 2019). One
+issue in this divide surrounds how genomics data should be archived and distributed; who owns this data, and how can it be made
+accessible (or should it be made accessible) for multiple, differing interest groups? This paper articulates some of the approaches that the field of biomolecular archaeology utilizes to archive and access data, and reflects on some of the challenges in this
+archiving and distribution, especially with regards to communication with colleagues in adjacent disciplines and different interest groups. In the experiences of the author, while there is a general willingness to make raw data available, alienation between
+different research groups can arise due to a lack of mutual understanding or appreciation about terminologies or jargon, differing
+approaches to research conduct, and what is deemed a productive research output in different academic environments. Moreover, such raw biomolecular data may only be of use, at least at present, to other groups working with similar data types, and who
+have the financial and computational capacity to re-analyse such data. Fundamentally, data archiving should not simply be a “tick
+box” exercise, and is a research step that requires forethought, careful consideration of different interest groups and flexibility.
+Lewis-Kraus, G., 2019. Is Ancient DNA Research Revealing New Truths — or Falling Into Old Traps? The New York Times.

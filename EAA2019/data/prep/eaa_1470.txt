@@ -1,0 +1,17 @@
+ANALYSIS OF CELLULOSIC WRITING AND GRAPHIC ARTS SUBSTRATES VIA RESONANT CAVITY
+DIELECTRIC SPECTROSCOPY
+Author(s): Kombolias, Mary (United States Government Publishing Office, Washington; National Institute of Standards and
+Technology, Gaithersburg) - Obrzut, Jan - Postek, Michael- Poster, Dianne - Obeng, Yaw (National Institute of Standards and
+Technology, Gaithersburg)
+Presentation Format: Oral
+Traditional means of analyzing the chemical composition of writing and graphic arts substrates result in mutilation, degradation,
+or destruction of some part of the specimen under investigation. Because the integrity of the substrate is threatened by repeated analysis, the size of the data sets collected are automatically restricted, thereby limiting their statistical relevance. We propose the use of dielectric spectroscopy as a means to overcome these limitations in the analysis of unique and rare writing and
+graphic arts substrates of historical and cultural value. Dielectric spectroscopy is a powerful analytical tool which utilizes the
+response of individual molecules to microwaves to elicit both chemical and structural information simultaneously. It has already
+been used to study modern day materials, such as semi-conductor devices and mono- and multilayer graphene nanomaterials.
+We have adapted dielectric spectroscopy with the use of a resonant cavity to enable contactless, non-destructive, quantitative
+measurements of printing and graphic arts substrates. Measurements can be performed in minutes and do not require specialized training, and our technique is easily automated and amenable to statistical process control. Furthermore, results can be encoded with appropriate data descriptors for inverse analysis via Artificial Neural Networks computational techniques from which
+selective calibration models can be built. This makes the entire analysis easier and more reliable and calibration models can be
+built to accommodate specific writing and graphic arts substrates. In this talk, we demonstrate how the resonant cavity-based
+technique can distinguish between papers of different compositions and also between the relative ages of papers of the same
+fiber composition.

@@ -1,0 +1,14 @@
+THE 3 DIMENSIONS OF DIGITALIZED ARCHAEOLOGY – DATA MANAGEMENT, SCIENTIFIC BENEFIT
+AND RISKS OF DATA STORAGE IN ARCHAEOLOGICAL IMAGE-BASED 3D-DOCUMENTATION
+Theme: Digital archaeology, science and multidisciplinarity: new methods, new challenges
+Organisers: Hostettler, Marco (University of Bern) - Buhlke, Anja (Freelancer) - Reich, Johannes - Stäheli, Corinne (University
+of Bern) - Drummer, Clara (Institute for Pre- and Protohistoric Archaeology, Christian-Albrechts-Universität zu Kiel/ CRC 1266
+Scales of Transformation)
+Format: Regular session
+Using just a smartphone and the right software, we can reproduce a 3-dimensional model of an excavation site in a highly-detailed
+resolution. Up to date, we are able to generate 3D-models of objects in different scales, of excavations on land and underwater,
+buildings, ruins or even whole landscapes. Today the creation of 3D-data is a widely accepted and an established procedure in
+Archaeology without being standardized yet.
+While drawing with a pencil is becoming an obsolete technique, we instead face new challenges of creating reproducible workflows, how fully exploit and how to store digital data: After data-production, the question rises what scientific benefit can the
+data provide for research? What yet unsolved questions can be addressed with the analysis of 3D-data? In short: Does the
+acquisition of 3D-data have an additional scientific value?

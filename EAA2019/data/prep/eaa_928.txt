@@ -1,0 +1,12 @@
+IN ROCK WE TRUST? EXPLORING THE DOCUMENTATION, ANALYSIS, PUBLICATION AND ARCHIVING OF
+3D DATA OF ENDANGERED ALPINE ROCK ART
+Author(s): Reinhard, Jochen (archaeobotics)
+Presentation Format: Poster
+With the advent of easy-to-use image based modelling software packages ranging from free and open source tools to commercial solutions, 3D photogrammetry has become simple for everybody with just a camera and a computer. Even though larger
+projects still require more investment in equipment, time and knowledge, good results can today easily be achieved using just
+a smartphone camera and a standard off-the-shelf laptop following a video tutorial. Consequently, more and more use of 3D
+photogrammetry can be observed in archaeological publications as it slowly grows into a standard method. Still, the application
+of 3D modelling rarely exceeds basic documentation, it is often simply used as a vehicle to create 2D or 2.5D data (e. g. True Orthophotos or Digital Surface Models) – the full use of 3D data for archaeological purposes is still largely underexplored.
+A stone slab from Zermatt-Hubelwäng (Canton of Valais, Switzerland) covered with cup marks and petroglyphs will serve as a test
+bed for visualising its rock art with different methods. Techniques from both the GIS world and 3D computer graphics are compared for their suitability to make the petroglyphs legible and to assess the state of the monument which is under pressure by
+touristic activities including a nearby hiking path. Finally, aspects of publishing and long-time-archiving of 3D data are discussed.

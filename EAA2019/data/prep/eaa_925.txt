@@ -1,0 +1,13 @@
+DIGITAL CASTING: FROM THE STONE MOULDS TO THE 3D ARTEFACT
+Author(s): Sannito, Matilde - Quaglio, Valentina - Faresin, Emanuela - Salemi, Giuseppe (Università degli Studi di Padova)
+Presentation Format: Poster
+The evolution of the 3D modelling techniques and the development of more efficient systems for the visualization of digital data,
+highlight the added value given by the use of these methods in the archaeological field. This technology can be applied to the
+world of Cultural Heritage as a vessel for preservation, reconstruction, documentation, research and promotion.
+This paper presents a workflow methodology in order to obtain the casted object from eight moulds, found during the excavation
+activities of the Iron Age site of the Questura in Padua, Italy. These objects, dating to the VIII century BC, were recovered from
+a pyrothecnological productive area of the site, which gave back many elements of the metallurgic workflow, but an extremely
+limited number of bronze artefacts.
+The eight moulds, carved on one or more surfaces to allow the maximum exploitation of the lithic support, were acquired with
+a 3D scanning system. With the 3D high resolution models, obtained from the post processing phase, the carved valves were
+isolated and treated with a Reverse Engineering procedure in order to “digitally” cast the artefacts.

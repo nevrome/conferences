@@ -1,0 +1,18 @@
+HOW SHOULD WE STUDY PREHISTORIC ECONOMY?
+Author(s): Tóth, Peter (Masaryk University)
+Presentation Format: Oral
+According to Ian Hodder (1982), there are three basic approaches in analyses of human economic behavior in the past: substantivism, formalism, and social exchange. The substantivists tends to focus on relationships between people and on the different
+types of exchange mechanisms such as reciprocity, redistribution, and market systems. The formalism focuses on analytical
+techniques that would allow particular modes of distribution to be identified (e.g. regression analyses), assuming that universal
+concepts of economic theory - scarcity, maximization, surplus - are applicable in economic anthropology. Finally, social exchange
+studies, mixing both formalism and substativism, involve social strategies, and functional interrelationships, such as the availability of resources, and control over production.
+Formal mathematical approaches to the study of prehistoric exchange are of value in that they allow a better description of functional relationships. In this presentation, I discuss spatio-temporal modeling as a method of choice able to interconnect social
+and economic processes of larger territories.
+Spatio-temporal modeling relates to problems where we want to analyze and predict how something varies over space and/or
+time. Such problems can exist in widely different spatial and temporal scales. It is based on a gradual transformation of relative
+dating of archaeological sites into a temporal scale. As a result, each site has assigned a temporal uncertainty in a predefined
+temporal block. The transformed datasets can be used for more advanced analysis, such as an investigation of cultural, social
+and economic processes as well as a comparison of settlement dynamics by interpolation of temporal uncertainty. This background can be also used in subsequent agent-based modeling.
+For archaeologists, the combination of spatio-temporal modeling and agent-based modeling can be very useful, because we can
+simulate and observe human behavior in changing social, economic, environmental and cultural conditions across space and
+time.

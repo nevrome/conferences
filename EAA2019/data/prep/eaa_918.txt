@@ -1,0 +1,13 @@
+3 DIMENSIONAL DIGITIZING OF UNDERWATER EXCAVATIONS: APPLICATION OF COMPUTER VISION FOR
+THE RECORDING AND ANALYSIS OF LAKESHORE SITES IN AUSTRIA
+Author(s): Dworsky, Cyril - Seidl da Fonseca, Helena - Pohl, Henrik (Kuratorium Pfahlbauten) - Weßling, Ronny (Crazy Eye OG) Leskovar, Jutta (Landesmuseum Oberösterreich)
+Presentation Format: Oral
+Since 2015 every year an underwater excavation on lakeshore sites took place at the Lakes Attersee and Mondsee in Upper Austria. The excavations are part of the national research project “Zeitensprung”. The main focus of the project is to gain new data for
+a large exhibition about the UNESCO World Heritage “Pile dwellings around the Alps” in Upper Austria in 2027.
+Therefore, the sites are recorded using Structure from Motion (SfM) and Multi View Stereo (MVS) not only for documentation
+purposes, but also with the goal of an appealing visualisation of the excavation process for the public.
+Until now, three prehistoric sites were excavated: Seewalchen I, Weyregg II and Mooswinkel. All sites are located in shallow water
+of about 2 to 3 meters depth. As all of them were systematically recorded, using an image based modelling approach, the time
+has come to show the benefits and the challenges of this technique. This paper presents not only the recording workflow or the
+final results, but is asking what the added value of the application of SfM and MVS is. We will present our insights in handling SfM
+and MVS derived data during the excavation and post excavation process.

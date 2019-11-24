@@ -1,0 +1,17 @@
+NEW APPROACHES IN BIOARCHAEOLOGY
+Theme: Digital archaeology, science and multidisciplinarity: new methods, new challenges
+Organisers: Wärmländer, Sebastian (Cotsen Institute of Archaeology, UCLA, Los Angeles) - Rannamäe, Eve (BioArCh, Department of Archaeology, University of York; Department of Archaeology, Institute of History and Archaeology, University of Tartu)
+- Petaros, Anja (Department of Forensic Medicine, National Board of Forensic Medicine, Sweden)
+Format: Regular session
+Technical advances in the last decades have provided bioarchaeologists with numerous new techniques for analysis of skeletal remains and other bioarchaeological material. This includes analysis of biomolecules such as proteins, DNA, and hormones,
+stable isotopes and trace elements, 3D-scanning, and other digital morphometrics approaches. While such techniques increase
+the scope of archaeological information that can be obtained from bioarchaeological samples, they are not unproblematic and
+have limitations. They can be misused for sensational research or to hype a technique without providing useful archaeological
+knowledge. Methods such as DNA sequencing and 3D modelling generate large data sets, which creates problems in terms of
+data storing, sharing, and standardization, but also provides new research avenues by allowing big data analysis.
+In this session we welcome all kinds of papers on bioarchaeological analysis employing “new” technologies or a multidisciplinary
+approach, regardless of geographic region or time period. As we do not necessarily believe that “new” equals “better”, however,
+we also welcome papers employing “old-fashioned” approaches to bioarchaeology, especially when the author(s) can show why
+the “old-fashioned” method still remains relevant, difficult to replace, or can be combined with “new” techniques. We particularly
+welcome papers discussing the scopes and limits of new bioarchaeological methods in relation to fundamental archaeological
+questions, and papers that aim to bridge the gap between archaeologists with and without a background in the natural sciences.

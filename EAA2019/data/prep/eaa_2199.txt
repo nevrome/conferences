@@ -1,0 +1,11 @@
+ANTHROPOCENE OR URBANOCENE?
+Author(s): Hanson, John (John Hanson)
+Presentation Format: Oral
+One of the most important variables in our assessment of the impact of human activities on the environment is the extent to
+which the number of people living in cities changed over time. In this talk, I will begin by offering new evidence for the estimated
+numbers of residents in individual cities, which attempts to go beyond earlier work by drawing on multiple lines of evidence based
+on the built environment. I will then discuss how we can use a combination of this evidence and a chain of statistical techniques
+to not only suggest new estimates for the size of the urban population in different periods and estimate the growth rates of individual cities, but also to assess our degree of uncertainty, i.e. the margin of error, in these estimates. I will then reflect on what
+having a better sense of the sizes of cities can tell us about some of our most important proxies for how the socio-economic
+conditions of the Roman world changed over time, such as the recent evidence for lead-pollution from ice-cores, and what bearing this has on the complex inter-dependencies and inter-relationships between people, cities, and resources that characterised
+the Roman Empire.

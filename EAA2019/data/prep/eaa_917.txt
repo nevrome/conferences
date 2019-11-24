@@ -1,0 +1,16 @@
+AZTECS IN THE POINT CLOUD. DOCUMENTATION AND ANALYSIS OF AZTEC ARCHITECTURE AT THE
+SITE OF TETZCOTZINCO
+Author(s): Prusaczyk, Daniel - Juszczyk, Karolina (Institute of Iberian and Ibero-American Studies, University of Warsaw)
+Presentation Format: Oral
+Tetzcotzinco is one of the most important and best preserved archaeological sites of the Aztec area. Tetzcotzinco is mainly
+known for a monumental garden complex planned by the ruler of the city of Texcoco – Nezahualcoyotl. This enormous complex
+served for entertainment of the royal family. This garden also was one of the largest botanical collections of the world in 15th
+century. Like other Mexican garden complexes, Tetzcotzinco also served for symbolic functions, expressed the worldview and
+acted as place of celebrating the rituals. Today, Tetzcotzinco is an archaeological site with the most numerous remains of a hydraulic system and various stone and monolithic buildings from the Aztec times.
+The paper aims to present the results of the documentation of the Tetzcotzinco site, using 3D scanning, photogrammetry, and
+photography. The three-dimensional models create a rich base for researches on the issues of construction and renovation of
+Aztec remnants on this site. We will also present one of the main goals of our researches: the reconstruction of the actual form
+of the architecture at Tetzcotzinco and the attempt to trace the changes and damages that affected it. In addition, the effects
+of documentation and 3D scanning will be used to reproduce the plans of the entire rich hydraulic system at Tetzcotzinco. All
+the collected materials were used to create an interactive GIS database, which collects all the data on the construction of this
+pre-Hispanic complex.

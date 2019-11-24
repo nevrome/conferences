@@ -1,0 +1,18 @@
+REASSESSING CALIBRATION OF LA-MC-ICP-MS SR ISOTOPE ANALYSIS OF LOW STRONTIUM TOOTH
+ENAMEL
+Author(s): Rogers, Bryony (Department of Archaeology, Durham University; NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham) - Pashley, Vanessa - Horstwood, Matt (NERC Isotope Geosciences Laboratory, British
+Geological Survey, Keyworth, Nottingham) - Nowell, Geoff (Department of Earth Sciences, Durham University) - Evans, Jane
+(NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham) - Montgomery, Janet (Department
+of Archaeology, Durham University)
+Presentation Format: Oral
+Variations in the 87Sr/86Sr ratio in archaeological tooth enamel are regularly used to study past mobility. While removing enamel
+samples by micro-drilling and analysing the chemically prepared strontium using TIMS is both reliable and accurate, laser ablation-multi collector-inductively coupled plasma-mass spectrometry (LA-MC-ICP-MS) has been proposed, and used to a limited
+degree and success, as an alternative method for the rapid in-situ analysis of strontium isotopes. However, some studies report
+the presence of molecular interferences on all the Sr masses, with additional interference in bio-apatites of CaPO+ or ArPO+
+on mass 87. This is particularly apparent in low strontium samples, such as enamel, and which cannot be chemically removed
+during LA-MC-ICP-MS. Without adequate elimination of, and/or correction for these molecular interferences strontium isotope
+ratios will be artificially high. Human and terrestrial animal tooth enamel typically have very low strontium concentrations (c.50300ppm), which are considerably below the concentration required to swamp the effect of this interference (c.1900ppm and
+above). While tuning for low oxides and using a collision cell can limit the formation of certain molecular interferences, this rarely
+removes them entirely and calibration to a set of preferably matrix-matched reference materials may still be required. Here we
+present recent work using a calibration set of low [Sr] human tooth enamels previously characterised isotopically by TIMS and
+investigate whether geogenic apatites can be used, to accurately correct for remaining interferences on mass 87.

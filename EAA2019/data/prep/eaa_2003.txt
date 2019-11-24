@@ -1,0 +1,20 @@
+SIZE MATTERS! - METRIC AND MORPHOLOGICAL SEX MARKERS AND THEIR VALUE IN
+ARCHAEOANTHROPOLOGICAL ANALYSES OF HUMAN SKELETAL REMAINS
+Author(s): Navitainuck, Denise - Vach, Werner (University Hospital Basel) - Alt, Kurt (University of Basel; Danube Private University)
+Presentation Format: Oral
+Biological sex, alongside age at death, is among the most essential information about an individual from an archaeological context, and a key building block for population studies. An accurate assessment of these parameters is highly dependent on the
+preservation and integrity of human remains.
+This study analyses different metric and morphological traits previously utilised for sex determination of human skeletons.
+Based on an early medieval skeletal series (Mannheim-Bösfeld, Germany), the authors’ aim is to develop a recommendation for
+a minimal set of traits which allows sufficiently accurate sex determination for a maximum of individuals. In this session, study
+design will be presented.
+First, the sex-specific population means and standard deviations have been compared with those from the original publications
+in order to evaluate the likelihood that standards developed based on other populations are transferable to the population of
+the Bösfeld site. An additional, indirect approach is also applied: a test’s accuracy is compared with measured accuracy when
+a new test is constructed on the basis of the trait (or score) in the Bösfeld data, and the proportion of the population for whom
+determined sex changes is calculated.
+Secondarily, test accuracy is gauged on the basis of determined sex. Sex determination is based on three independent reference
+standards: Diagnose Sexuelle Probabiliste (DSP; Murail et al. 2005), using the subjects with a posterior probability for male or
+female above 0.95 based on metric pelvis traits; latent class analysis (LCA) of all traits to obtain a posterior probability for each
+individual; and an archaeological assessment based on gender-specific grave goods.
+Finally, the utility of traits and trait groups, defined as the probability of obtaining a posterior probability above 0.95 for a randomly selected individual, is evaluated.

@@ -1,0 +1,19 @@
+PORTABLE XRF ON PREHISTORIC BRONZE ARTEFACTS: LIMITATIONS AND USE FOR THE DETECTION OF
+BRONZE AGE METAL WORKSHOPS
+Author(s): Noergaard, Heide (Aarhus University, Dep. Culture and Society)
+Presentation Format: Oral
+Bronze Age metal workshops are identifiable through mistakes and traces of the crafting process on metal artefacts (Nørgaard
+2018). During a study on bronze artefacts of the Nordic Bronze Age, the question arose if these workshops are also unique in
+their metal –the trace elemental composition of the artefacts –as the theoretical assumption of a technical fingerprint suggests. A case study tested scientific devices that can be used to collect data for such a study – EDXRF, SEM and pXRF. The
+investigated material are bronze artefacts of defined workshops between 1500-1100 BC in Denmark and northern Germany. In
+this presentation, the results of three analytical methods are compared, and the limitations of every method are demonstrated.
+In order to investigate the use of portable XRF technologies for the detection of crafting-related differences in the alloys, an
+experiment was conducted on corroded bronze artefacts. Two different scientific analyses—one destructive (sampling and
+SEM) and one non-destructive (pXRF)—were carried out on two artefact assemblages each related to a specific technological
+tradition (workshops). Results documented on the thin-sections of the first artefact group highlight a distinct change measured
+within the elemental composition from the bulk metal to the surface in the corrosion crust of the copper-tin alloy. These documented changes greatly influenced the interpretation of the data obtained by the pXRF. A third artefact assemblage consisting
+of artefacts of a distinct workshop on Zealand was analysed via EDXRF by using drilled samples. The results obtained here clearly
+show the assumed similarities in metal use.
+This study defines the possibilities and limits of non-destructive analytical techniques using a specific example. The elemental
+changes that can occur on the surface of corroded bronze ornaments change the element composition in such a manner that the
+original alloy cannot be traced via a non-destructive pXRF method.

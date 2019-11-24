@@ -1,0 +1,10 @@
+The Antiquities Authority, local community, and many international cultural institutions showed a clear desire in the reconstruction of Aleppo. Unfortunately, there is no systematic database for the archaeological heritage in the city of Aleppo and its surroundings at the Antiquities Service in Aleppo due to their strictly limited financial, technical and staff resources. For that, the
+Antiquities Service will only be able to respond to the forthcoming rehabilitation and infrastructural measures instead of co-decide about them.
+In November 2017 the Gerda Henkel Foundation approved the archaeological cultural heritage in Aleppo and the surrounding
+area project.
+The aim of the project is to supply the Antiquities Service in Aleppo with professional support for documenting the archaeological relics before and during soil intervention measures, and during construction projects of any kind, also for recovering or in-situ
+conservation of the relics in the case of relevant structures. The collection of data helps to evaluate the archaeological findings,
+and aids in determining the appropriate methods for documenting or conserving the archaeological findings, and implementing
+them.
+In this Presentation, we will discuss the current state of our project and demonstrate the possible entries for archaeological
+remains and their location in the topographical map in a geographic information system in different scales.

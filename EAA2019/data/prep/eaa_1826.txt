@@ -1,0 +1,14 @@
+A LEGACY WORTH COLLABORATING WITH/OVER
+Author(s): van Helden, Daniël (University of Leicester)
+Presentation Format: Oral
+Material excavated a century ago has no less bearing on the past than newly unearthed data. So archaeology is in the relatively
+rare position that century-old data is relevant to our current questions. Of course, today we excavate –and administrate! – to
+different standards and with very different questions in mind, but problematically, we cannot re-excavate old data. If we are to
+capitalise on archaeology’s extraordinary position of an ever expanding dataset, we need to include these legacy data into our
+analyses.
+The upshot of this ever expanding mound of data is that it increasingly requires multiple people to effectively collate and analyse
+it. Using experience gained while developing an ontological database in the context of the Big Data on the Roman Table research
+network as illustration, I will touch on important issues of collaboration (streamlining goals within the project) and usability within
+and beyond a particular project. The latter two lead to the importance of flexible tools that will bear adaptation to use disparate
+data for different aims and questions. In other words, not only do we need to cooperate within a given project, but ideally also
+across projects and time if we are to avoid re-treading the same ground over and over again. In this paper, the tool I will be illustrating these points with will be the ontological database developed for the BDRT research network.

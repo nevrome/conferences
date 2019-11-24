@@ -1,0 +1,9 @@
+WHERE CREDIT IS DUE: CITING DIGITAL RESOURCES IN COLLABORATIVE PROJECTS
+Author(s): Kansa, Sarah (Open Context)
+Presentation Format: Oral
+Increasingly, archaeologists are sharing the results of their research in both conventional publishing venues and digital formats.
+Approaches for disseminating digital content vary widely, from institutional archives to custom-built web sites. Citation expectations similarly vary widely across digital resources. This paper uses examples of open access data published with Open Context to discuss how online dissemination raises issues that can challenge normative citation practices and offer new opportunities for broadening and diversifying how we recognize and credit the contributions of our colleagues. Open Context’s high level
+of granularity and use of persistent identifiers in the publication of projects that sometimes involve large and multidisciplinary
+teams, offers important examples of how researchers reference and can reference digital resources in more conventional publications. This paper will discuss ethical considerations involved in legacy projects where participants had no expectation that
+their field observations would be made public. In recognition of these challenges, we will offer recommendations on licensing and
+attribution practices to guide expectations and citation practices for current field projects.

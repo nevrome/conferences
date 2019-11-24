@@ -1,0 +1,11 @@
+ENHANCING SMALL MUSEUMS THROUGH DIGITAL APPROACHES: THE CASTELNOVO DEL FRIULI
+MULTIMEDIA EXHIBITION PROJECT
+Author(s): Sarcinelli, Irene (University of Primorska) - Sartori, Elisa (University of Trieste)
+Presentation Format: Poster
+The project’s idea springs from the small archaeological collection of Villa Sulis (Castelnovo del Friuli, Italy), in which only a selection of the over 5000 post-medieval pottery sherds found on site are displayed, and might stand as a good practice for other
+small historical, artistic or archaeological collections.
+The project’s main purpose is to restore to the community a piece of its otherwise not accessible cultural heritage and enhance
+its attractiveness to the public, using digital technologies.
+3D models of a selection of unexposed ceramic finds, currently preserved in a closed depot, will be produced using photogrammetric techniques: models will become part of a virtual exhibition developed using the cross-platform game-engine Unity 3D
+that will be accessible through a specifically equipped area in the exposition hall. The visitor experience will also be integrated
+with an AR app which will provide him with extended captions, maps, 360° photos and educational videos. Both AR and VR experiences will be combined with traditional workshops targeted for children and adults.

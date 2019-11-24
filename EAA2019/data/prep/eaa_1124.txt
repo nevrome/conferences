@@ -1,0 +1,13 @@
+COMPARISON OF RAW MATERIAL DETERMINATIONS WITH PXRF AND MICROFACIES METHODS
+Author(s): Wehren, Helena (University of Bern, Institute of Archaeological Sciences) - Affolter, Jehanne (Ar-Geo-Lab) - Hinz,
+Martin (University of Bern, Institute of Archaeological Sciences)
+Presentation Format: Oral
+“In this presentation the microfacies and pXRF analyses for the identification of silicite sources of archeological artefacts are
+compared. Microfacies analyses is a proved nondestructive geological method. pXRF is as completely non-destructive alternative for investigation of the fingerprint of archeologic artefacts and could be used for linking the artefact found in an archeologic
+site to the outcrop where it was gathered.
+The main issues that are addressed by the ongoing research are: Is pXRF a valid investigation method for silicites? Does the very
+high Silicium content hinder the detection of elements which are present in low concentrations? Are the inhomogeneities within
+the same piece smaller than between pieces of different origin? Can the measuring mode or protocol be improved?
+The archaeological artefacts analysed, stem of dryland sites from the Mesolithic to the Neolithic time in western Ukraine and of
+a Neolithic wetland site in Switzerland. Because of the environmental difference in the storage conditions of the artefacts we
+can furthermore test if the applicability of the pXRF method is depending on environmental conditions of archaeological sites.”

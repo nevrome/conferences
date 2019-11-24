@@ -1,0 +1,14 @@
+MODELLING AND THEORY: SHAPING INTEGRATIVE WORKFLOWS AND CONCEPTS IN ARCHAEOLOGY
+Author(s): Nakoinz, Oliver (Johanna Mestorf Academy, University of Kiel)
+Presentation Format: Oral
+The leftovers of the once powerful paradigms left us with the naive assumption that modelling and quantitative approaches
+allow to answer historical, social, cultural and even economic questions directly at the one hand and the fact, that the striking
+evidence of observations can not be used as long as we do not explore the data internal structures to their full extent. We know
+that both extremes are not contributing to valid research and that an combination of paradigms and approaches is required. The
+integration is obviously a problem of developing concepts, practices, and workflows of an integrated approach.
+Since we tend to stick to the concepts of our academic socialisation, we usually prefer one of the paradigmatic workflows of
+sciences and humanities instead of integrating them. This integration has to address the question of integrating the narrative
+into science based workflows. Models not understood only as tool for simulations and regression but as a conceptual framework
+useful for communication between different communities, academic or not, can help do put the required integration into practice. In addition to the two traditional paradigms we have to face the changes induced by digital data and workflows. Automation
+and handling of digital data changes the focus of the researcher and hence research practice. This paper aims to explore the
+different workflows and develop a concept for shaping new workflows according to the new requirements.

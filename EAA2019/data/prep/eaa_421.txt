@@ -1,0 +1,9 @@
+allowing on-site measurements. However, multiple single point analyses are still needed to identify the materials used and to obtain a correct interpretation of individual spectra. The recent development of the macro X-ray fluorescence mapping technique
+brings new interesting opportunities for textile research. With this technique, it is not only possible to characterize the different
+elements on a single spot in a non-invasive way but also to visualize the element distribution over the whole investigated area.
+In the presentation, we will discuss the application and the possibilities of the imaging technique for the study of metal threads
+present in two extremely fine reliquary purses, belonging to the collection of the Provincial Museum of Ancient Art of Namur
+(Belgium), whose current state of preservation is a major obstacle to sample-taking. In addition to the analyses of the dyes of
+only a few samples, macro X-ray fluorescence scanning is used to define the composition of the remaining metal threads, to
+reveal details of the textile composition by visualizing the patterns made by the metal treads, and to evaluate the condition of
+the textile as the XRF-images clearly illustrate the metal treads missing in the patterns.

@@ -1,0 +1,22 @@
+STABLE ISOTOPE RANGES IN MODERN DOMESTIC PIGS COMPARED WITH THEIR DIET AND
+ENVIRONMENTAL SURROUNDINGS
+Author(s): Anders, Dominic - Vohberger-Herles, Marina - Osmanovic, Amira (Ludwig-Maximilans-Universität München)
+Presentation Format: Oral
+The analysis of stable isotopes in bioarchaeology was established as an important tool over the past decades. In general, stable
+isotope ratios serve as natural markers for different transport processes of matter through the geosphere, hydrosphere and
+biosphere.
+In physical anthropology, stable isotope ratios can be used to detect possible migrations or trading of ancient populations or
+individuals, for the reconstruction of dietary habits, palaeobiodiverstity and climatic conditions.
+However there is a lack of experimental data to verify existing models to distinguish local from non-local individuals. Various
+species specific physiological and metabolic peculiarities are unknown. One such specific concern is the source partitioning of
+stable isotopic ratios into the different consumers’ tissues such as bone, teeth, blood, and meat, as well as the natural variation
+of isotopic ratios within one species at one location.
+The SPOCK-project (Source partitioning of stable isotopes in the body tissues of livestock) aims to fill this knowledge gap by
+analysing stable strontium and oxygen isotopes in domestic pigs which are commonly used for reconstructing migratory events.
+Strontium results show that there is a relation between water source, food and body tissue but no influence by underlying soil.
+The effect of biopurification can be observed and there is evidence that even small proportions of non-local food components
+can noticeably alter the isotopic composition of body tissues.
+First oxygen results indicate that the nursing effect might be much higher in pigs, than what is known for humans. Several linear
+regression and mass balance models are applied to the oxygen data, leading to more or less promising results.
+This research project was funded by LMU Munich‘s Institutional Strategy LMUexcellent within the framework of the German
+Excellence Initiative.

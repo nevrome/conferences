@@ -1,0 +1,11 @@
+HOW TO RECONSTRUCT THE NEOLITHIC LAND USE? LINKING THE LARGE-SCALE ARCHAEOLOGICAL
+DATASETS, DATA ON SUBSISTENCE STRATEGIES AND MODELLING APPROACHES
+Author(s): Kolar, Jan (Institute of Botany of the Czech Academy of Sciences; Masaryk University) - Abraham, Vojtech (Institute of Botany of the Czech Academy of Sciences; Charles University) - Tkac, Peter (Institute of Botany of the Czech Academy
+of Sciences) - Macek, Martin (Institute of Botany of the Czech Academy of Sciences; Charles University)
+Presentation Format: Oral
+In contrast to most of the 20th century, archaeology is nowadays working with large-scale datasets comprising diverse information on artefacts, sites, radiocarbon dates, or archaeobotanical and archaeozoological samples. Due to the current development
+of the computational techniques and capacities, these datasets can be also processed, analysed and used in diverse ways.
+The current globalized society is facing major environmental changes and it is concluded that human activities stand behind it.
+One of the most significant anthropogenic transformations of the environment was the change of land cover through land use.
+With the beginning of the Neolithic, humans significantly cleared forests for setting up their fields and pastures, they managed
+the woodland in order to gain firewood and fodder, and all this had an impact on the vegetation and climate. In this paper we will

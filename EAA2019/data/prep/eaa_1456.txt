@@ -1,0 +1,19 @@
+PAST AND MODERN FUZZINESS: HOW TO FIND OUT MORE ABOUT FINAL PALAEOLITHIC MOBILITY
+PATTERNS
+Author(s): Grimm, Sonja (ZBSA - Centre for Baltic and Scandinavian Archaeology; CRC 1266 “Scales of Transformation”) Knitter, Daniel (CRC 1266 “Scales of Transformation”; CAU Kiel, Institute of Geography, research group physical geography,
+landscape ecology, and geoinformation) - Hamer, Wolfgang (CRC 1266 “Scales of Transformation”; CAU Kiel, Institute of Geography, research group physical geography, landscape ecology, and geoinformation) - Serbe, Benjamin - Eriksen, Berit (ZBSA
+- Centre for Baltic and Scandinavian Archaeology; CRC 1266 “Scales of Transformation”)
+Presentation Format: Oral
+The Final Palaeolithic record of northern Germany is relatively scarce and despite the famous Ahrensburg Tunnel Valley sites poor
+in organic preservation. On these few sites with good organic preservation, seasonal indicators suggest that hunter-gatherer
+groups were present there during the autumn season. Hence, a picture was occasionally developed of seasonal incursions into
+this landscape by hunter-gatherers. This picture is contrasted by the number and distribution of sites leaving the question of
+how we envisage the settlement patterns of these hunter-gatherers in the south-western Baltic region.
+We approached this in three different chronological slices during the Weichselian Lateglacial in northern German: The Hamburgian period (GI-1e-d), the Federmesser-Gruppen/Brommean period (GI-1c-a), and the Ahrensburgian (GS-1). These three periods
+are also related with different stage in the environmental development and that may have a first influence on the preservation,
+identification, and distribution of the sites.
+We fed our knowledge about the site distributions and the landscape into geospatial analyses using R to identify non-random
+parameters. Furthermore, we phrased hypotheses about the Final Palaeolithic settlement behaviour and tested them against
+our landscape models. Based on the different results, we developed fuzzy based scenarios for the mobility strategies of Final
+Palaeolithic hunter-gatherers. The archaeological interpretation of these mathematical results of geographic models explicitly
+show how our decisions and theoretical pre-conceptions as modern-day scientists influence the results. Hence, we should always be aware of these to prevent mis-guided interpretations of the past.

@@ -1,0 +1,16 @@
+SEMANTIC WEB APPLICATIONS AND PUBLIC OUTREACH. EXPLORING THE ÇATALHÖYÜK DATABASE
+Author(s): Marciniak, Arkadiusz - Filipowicz, Patrycja - Harabasz, Katarzyna - Hordecki, Jędrzej (Adam Mickiewicz University)
+Presentation Format: Oral
+The storage, curation and sharing of large, complex and diverse data acquired during 25 years of excavations at Çatalhöyük poses a real challenge. In this paper we aim at discussing the relevance of this multifaceted database for the purposes other than
+research goals advocated by the Çatalhöyük Research Project and not explicitly designed by its creators. It will exemplified by
+the analysis of two major applications: Seshat and Hatch.
+Seshat is the massive collection of historical information allowing the rigorous testing of different hypotheses about large-scale
+societies across the globe and human history. It was developed in the era of big-data. It extracts the data from a combination of
+databases, Linked Data, web sites, academic publications and human experts. The paper shall discuss possibilities of harvesting
+complex archaeological databases, such as Çatalhöyük datasets, and conforming information to other structured or semi-structured formalisms and map it to the RDF data model. Some emerging challenges comprise e.g. changing research perspectives
+from micro (site) to macro levels or transition from ‘raw’ excavation data to more complex variables.
+Hatch it is an advanced and innovative class of systems designed to create and maintain digital collections. It is aimed at presenting a wide range of data about Çatalhöyük in a multiscalar and interactive form, linking information of different characters
+(types of objects, relations among them, etc.) with different forms of their presentation (text, photographs, graphics, etc.). It has
+didactic objectives and is designed to meet the needs and expectations of both professionals and the general public interested
+in the human past. The paper will discuss the relevance and usefulness of Çatalhöyük datasets for the purpose of this multi-dimensional interactive open digital educational collection. In both cases, the multiscalar problems of intellectual property right
+will be critically evaluated.

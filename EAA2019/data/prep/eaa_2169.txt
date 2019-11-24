@@ -1,0 +1,3 @@
+The paper wants to give an outline of the current state of research of crypt burials and open up future research perspectives. It
+will be shown that to date studies in this area have hardly been exhaustive and that interdisciplinary approaches will absolutely
+be essential.

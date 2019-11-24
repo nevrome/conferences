@@ -1,0 +1,16 @@
+WHY WE WANT TO KNOW WHAT THEY DID: MODELERS AND THE MODELS BEHIND THEIR MODELS
+Author(s): Laabs, Julian (Institute of Archaeological Sciences, University of Bern; Oeschger Center for Climate Change Research, University of Bern) - Baum, Tilman (Landesamt für Denkmalpflege Baden-Württemberg)
+Presentation Format: Oral
+As modelers of Neolithic socioecological systems we want to design well-informed computer simulations of past economic,
+social and environmental processes and their reciprocal relations. The reason to do so is to gain an understanding of past shortterm and long-term dynamics we cannot study or easily explain with the help of the rather static archaeological and palaeoecological record. But we need those records and even more to start, enhance and evaluate the work on socioecological simulation
+models.
+In order to conceptualize and later formalize a representation of a past complex system there is the need to employ and gather
+relevant data and existing models about the researched topic. Archaeology and ethnology provide ideas about social behavior,
+bioarchaeological and paleoenvironmental studies fuel discussions about past human-environment relations, aDNA and isotope
+research bring new evidence about the mobility of past communities. The data and models used for computer models originate
+from a diverse set of scientific disciplines which are not necessarily concerned with the past. Socioecological simulation models
+often need to borrow from contemporary research related to and dealing with topics like crop yield or vegetation modeling.
+The agent-based simulation models WELASSIMO (Wetland Settlement Simulator) and LUTES (Land Use and Technological Evolution Simulator) are used as examples to exercise some lines of thought involved in the modeling process of socioecological
+systems. WELASSIMO has been developed to simulate the land use of Neolithic wetland settlements under disputed scenarios
+of different husbandry regimes on a local scale. Built upon WELASSIMO and GLUES (Global Land Use and technological Evolution
+Simulator), LUTES operates on a regional scale and investigates long-term land use and settlement dynamics. In our presentation, we will offer a glimpse of what is needed and what is taken from the diverse contributions of the different disciplines involved in the (re)production of the past.

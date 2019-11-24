@@ -1,0 +1,13 @@
+POPULATION DYNAMICS IN EUROPEAN PREHISTORY – DEMOGRAPHY AND HUMAN RESILIENCE
+Author(s): Schmidt, Isabell - Scharl, Silviane - Zimmermann, Andreas (University of Cologne)
+Presentation Format: Oral
+Interdisciplinary research on human-environment interaction has been the focus of the Collaborative Research Centre 806 “Our
+Way to Europe”, University of Cologne, funded by the German Research Foundation since 2009. Within this framework, Project
+E1 (“Population dynamics”) established a protocol to calculate site-density based population estimates for Upper and Late Paleolithic hunter-gatherer societies. The outputs are high resolution maps of population size, density and distribution in Europe for a
+succession of nine Paleolithic periods. These data are temporally extended into the Holocene by estimates for central European
+Mesolithic and Neolithic populations (Project D4 and LUCIFS, University of Cologne).
+Population dynamics in Europe during the last 40,000 years, as observed by this approach, are presented and discussed. While
+interdisciplinary work on palaeoenvironmental modeling, age models, and spatial analysis allows for testing of hypothesis on
+human-environment interaction, we also discuss results in terms of socio-cultural dynamics. Modelling long term population
+dynamics is accomplished by interpolating between our estimates with Logistic Equation. Our long-durée perspective on population dynamics in prehistory confirms Child’s scenario of “revolutions” with stepwise increases in human population between
+epochs, as well as oscillating/cyclic changes occurring during such epochs. We understand these big transformations of human

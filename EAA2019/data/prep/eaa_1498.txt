@@ -1,0 +1,17 @@
+USING GEOMETRIC MORPHOMETRICS IN EVALUATION OF INTRAGROUP VARIABILITY: DENTAL
+MORPHOLOGY IN HUMAN POSTMEDIEVAL POPULATION OF IAȘI (ROMÂNIA)
+Author(s): Bejenaru, Luminita (Faculty of Biology, Alexandru Ioan Cuza University of Iași; “Olga Necrasov” Center of Anthropological Research, Romanian Academy – Iași Branch) - Popovici, Mariana - Groza, Vasilica-Monica (“Olga Necrasov” Center of Anthropological Research, Romanian Academy – Iași Branch) - Petraru, Ozana-Maria (“Olga Necrasov” Center of Anthropological
+Research, Romanian Academy – Iași Branch; Faculty of Biology, Alexandru Ioan Cuza University of Iași)
+Presentation Format: Poster
+The archaeological excavations carried out in 2008, in Iași România (N47.156392, E27.587453), in a urban necropolis of 17th
+century, revealed a human skeletal sample of great importance for studying typological diversity. The sample is represented
+by 111 skeletons unearthed from 60 inhumation tombs, belonging to 96 adults and 15 teenagers. This study addresses issues
+related to intragroup variability using as phenotypic marker occlusal groove patterns of second molars of adults. Geometric Morphometric technique was applied for this purpose. The quantitative data were collected by means of a set of landmarks located
+at groove intersections, and a set of semilandmarks located at the molar periphery. The coordinate data were used to Generalized Procrustes Analysis, thus obtaining Procrustes coordonates and Centroid Size. Principal Components Analysis was carried
+out on the partial warp scores and uniform components obtained from the partial Procrustes aligned landmark and semi-landmark coordinates using thin-plate spline decomposition based on the bending energy matrix. The PCA results and Centroid Size
+was performed in order to define the trends in second molar form.
+Results reveal an important intragroup variability derived from dental morphology: the discriminative function of the upper second molar is mainly determined by the mesiobuccal surface and the fovea formed by the intersection of central, buccal and
+mesial grooves. In female, the buccomesial surface is more pronounced with a tendency to increase of paracone; more flattened
+in buccolingually plane. In male, the hypocone is smaller and more flattened in mesiodistal plane.
+Statistical approaches used provide evidences that may be used to infer relationships between local biological human groups
+correlated with historical events.

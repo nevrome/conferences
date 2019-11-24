@@ -1,0 +1,15 @@
+NON-BINARY LIFE CONDITIONS STUDIES: APPLYING “GENDER” AS METHODOLOGY
+Author(s): Goulart, Luana (Université Côte d’Azur; CNRS; CEPAM)
+Presentation Format: Oral
+When studying life conditions of past populations one must consider the interaction of both biological and cultural factors, since
+nutritional status and biological well-being are also influenced by environmental factors and social inequalities, which can lead to
+differential access to nourishments and to medical care.
+In bioarchaeological works, researchers use stature and body shape (or directly bone measurements) to evaluate populations’
+life conditions, usually dividing the sample according to biological sex, since stature is considered dimorphic in our species. However, considering biological sex as an ”a priori” category can force a binary division of the sample and hide a more diverse variability. Not all females and all males are subject to the same life conditions, since many elements interact and shape the gender experience someone lives (intersectionality). Hence, we propose the observation of the biological sex as an ”a posteriori” category.
+In this paper we applied a clustering method (factor analysis of mixed data) to anthropometric values from individuals (n=96)
+exhumed from the archaeological site Capuccin de Ferrières (south of France – 1720-1721). We conducted three experiments,
+firstly using as variables just anthropometrical data (femur length and transverse femoral shaft diameter); secondly, we added
+the biological sex divided in four classes (female, probable female, male and probable male); and thirdly we considered a binary
+sex (female, male) variable. The three tests yielded different group compositions: in the first one, even though there was a sex
+predominance, all groups were mixed; in the second test, only three individuals were classified with the opposite sex; and the
+third analysis presented female-only or male-only groups, forcing a binary division that is not present in the anthropometric data.

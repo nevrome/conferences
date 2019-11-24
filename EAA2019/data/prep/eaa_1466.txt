@@ -1,0 +1,14 @@
+MAPPING POLISHED STONES : METADOLERITE AXES AND ADZES FROM THE ARMORICAN MASSIF
+Author(s): Beneteaud, Lucie (pHd student, UMR 6566 CReAAH, Université Rennes 1)
+Presentation Format: Oral
+Prehistorians try to respond questions about the supply of raw materials, the shaping of the tools, the presence of different
+types of tools and furthermore the way in which these artefacts participate in the life of Neolithic societies. In the case of artefacts like polished stones, we also discuss the variations of the morphology and the types in relation to their functions and the
+environment they are used.
+Thanks to eighty years of studies, a great many polished stones form the Armorican Massif have been collected and analysed.
+The first relational database dedicated to these axes and adzes was created in 2016, as part of a doctoral thesis. Nearly four
+thousands of tools have been inventoried so far.
+From all the artefacts regristred, we have produce statistics that allow us for further fine-tuning typological features ever
+known. As well, we have been able to do chemical analysis, by X-ray fluorescence (XRF) notably, in order to identify the raw material sources.
+Linked to a geographical information system (GIS), we are now able to produce a precise cartography of the metadolerite polished
+stones from western France. The maps, which show a very large use and diffusion of the axes and azdes, help us to understand
+Neolithic communities and their choices.

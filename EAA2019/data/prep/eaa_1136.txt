@@ -1,0 +1,26 @@
+TRACEOLOGY 2.0: DEVELOPING EXPERIMENTAL PROGRAMS COMBINING MATERIAL PROPERTIES,
+VARIABLE CONTROL AND USE-WEAR QUANTIFICATION
+Author(s): Marreiros, Joao (TraCEr, Laboratory for Traceology and Controlled Experiments at MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM; ICArEHB, Interdisciplinary Center for Archaeology and
+Evolution Human Behaviour, University of Algarve; Institute for Prehistoric and Protohistoric Archaeology, Johannes Gutenberg University) - Calandra, Ivan - Gneisinger, Walter - Pedergnana, Antonella (TraCEr, Laboratory for Traceology and Controlled
+Experiments at MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM) - Schunk,
+Lisa (TraCEr, Laboratory for Traceology and Controlled Experiments at MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM; Institute for Prehistoric and Protohistoric Archaeology, Johannes Gutenberg
+University) - Paixao, Eduardo (TraCEr, Laboratory for Traceology and Controlled Experiments at MONREPOS Archaeological
+Research Centre and Museum for Human Behavioural Evolution, RGZM; ICArEHB, Interdisciplinary Center for Archaeology and
+Evolution Human Behaviour, University of Algarve)
+Presentation Format: Oral
+Investigating how artifacts were produced and used by past Humans is a key research area in the study of human behavioral
+evolution. Use-wear analysis, as part of functional studies, has the clear potential to significantly contribute.
+Common approaches within archaeological traceological studies harness life-like experimentation, which changes the sample
+surfaces through use, followed by comparison with wear-patterns on archaeological artifacts. In recent years, controlled experiments and methods to quantify use-wear have been developed and increasingly applied to address these issues. However,
+researchers are still debating how the coexistence of multiple variables in actualistic experiments makes quantification, comparison and interpretation of the results challenging. The present discussion aims to improve on standardization, repeatability
+and reproducibility during experiments and analyses.
+Following this approach, from our perspective, experimental planning in traceological studies should rely on four main aspects: 1)
+material properties, 2) experimental design, 3) sample preparation, and 4) experiments under controlled conditions.
+In this talk, we present our research on use-wear formation that can be used to interpret tool use from the archaeological record.
+Driven by questions raised from archaeological research, our talk will be focused on this research workflow, illustrated by case
+studies on understanding stone tool selection, production, use, durability and efficiency. Using standard stone tools, where
+edge angles and morphology are controlled, here different types of raw materials will be used and tested on cutting and scraping
+movements. Edge durability and tool efficiency will be measured and compared against the different variables.
+Here we also aim to disseminate standards and protocols on traceological experiments recently developed in the Laboratory for
+Traceology and Controlled Experiments at MONREPOS, allowing repeatable and reproducible research and comparison between
+researchers and laboratories focusing on use-wear.

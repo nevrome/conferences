@@ -1,0 +1,17 @@
+DISCUSSING THE PUBLIC AVAILABILITY OF ARCHAEOLOGY
+Author(s): Lodwick, Lisa (University of Oxford)
+Presentation Format: Oral
+In order for archaeology to be utilised by the broader public, research outputs have to first be accessible, that is not behind a
+pay-wall. This paper seeks to assess the current availability of archaeological research, data and analytical methods in the light
+of current debates surrounding open access, open science and the reproducibility crisis.
+Access to digital journal articles can be seen as the first step towards research availability. Yet being located at the intersection
+of the humanities, social sciences and life sciences, movements towards open access in archaeology must negotiate a lack of
+funding for article processing charges and a reliance of learned societies on publishing incomes. Key examples of open access
+publication venues in archaeology are discussed and the broader open access landscape assessed.
+Beyond research articles themselves, much reuse of archaeology requires access to primary data. This paper provides one of
+the few assessments of data sharing in archaeological research publications, reviewing the sharing of archaeobotanical data
+across specialist and general archaeology journals over the last decade. Archaeobotanical evidence provides a key data set for
+the assessment of human interactions with the environment, and being based upon biological categories, negates many of the
+difficulties of standardisation of material culture categories. However, only around 50% of research outputs provided their data.
+To enable full reproducibility of archaeological research, the underlying analysis, ideally in the form of script, must also be provided. Whilst increasing, the availability of analytical methods in archaeological research is currently limited. Finally, this paper
+considers what archaeology can learn from other disciplines such as psychology which have made bigger steps towards reproducibility.

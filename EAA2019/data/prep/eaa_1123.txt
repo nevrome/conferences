@@ -1,0 +1,8 @@
+of geological source attribution and socioeconomic distribution and trade interpretation, especially when nondestructive surface analyses are conducted.
+Over the past 12 years, more than 17,000 obsidian and ceramic artifacts were analyzed using three models of a portable XRF
+spectrometer that developed over that time. While the increased number of measurable elements and better detection limits
+of the most recent versions of pXRFs has not made a big impact on obsidian sourcing studies, it clearly has for pottery analyses.
+Obtaining results while using a vacuum on all of the major elements, and on more trace elements than before with detection limits
+in single digit ppm, can definitely indicate when ceramic artifacts are non-local, and the use of appropriate calibration software
+enables comparison with published data for other sites and regions. Examples from studies in the central Mediterranean will be
+presented.

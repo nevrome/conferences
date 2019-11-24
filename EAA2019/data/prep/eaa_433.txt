@@ -1,0 +1,7 @@
+of Aegean glyptic.
+In order to facilitate the achievement of these tasks, an Open Access data base has been designed specifically for this project
+through the services of the Digital Humanities Laboratory of the University of Warsaw. In this paper, I will briefly demonstrate
+the structure of this data base and the possibilities of its search engine. Although the data entry has not yet been finished, this
+new comparative approach to investigate the relationships between different kinds of evidence, i.e. the imagery of seals, textile
+imprints and seal-impressed textile tools, has already proved to be a powerful tool. It offers new interpretations based on a large
+number of records and, until now, unexplored combinations of various data.

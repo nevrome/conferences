@@ -1,0 +1,16 @@
+THE CRYSTALLINE STATE OF EXPERIMENTALLY CREMATED BONE
+Author(s): Greiner, Martina (Department für Geo- und Umweltwissenschaften, Ludwig-Maximilians-Universität München) Rodríguez-Navarro, Alejandro (Departamento Mineralogía y Petrología, Facultad de Ciencias, Universidad de Granada) - Heinig,
+Mario (Department für Geo- und Umweltwissenschaften, Ludwig-Maximilians-Universität München) - Mayer, Katrin (Fakultät
+für Biologie, Anthropologie und Humangenomik, Ludwig-Maximilians-Universität, Planegg-Martinsried) - Kocsis, Balazs (Department für Geo- und Umweltwissenschaften, Ludwig-Maximilians-Universität München) - Göhring, Andrea - Toncala, Anita
+- Grupe, Gisela (Fakultät für Biologie, Anthropologie und Humangenomik, Ludwig-Maximilians-Universität, Planegg-Martinsried) - Schmahl, Wolfgang (Department für Geo- und Umweltwissenschaften, Ludwig-Maximilians-Universität München)
+Presentation Format: Oral
+We studied the crystallographic change occurring during experimental cremation of fresh biological bone mineral (bioapatite)
+with different heating times and temperatures. We combined various complementary analytical methods to the same raw and
+heat treated material such as X-ray powder diffraction (XRPD) with Rietveld refinement, Fourier Transform Infrared Spectroscopy
+(FTIR), and Infrared-coupled Thermogravimetric Analysis (TGA-FTIR). In addition, we correlated the analytical results with empirical indicators such as crystallinity indices and bone colour changes in consequence of heat treatment.
+We observe a structural change of bone during cremation, most profoundly at temperatures from 700 °C after 30 minutes of
+heating. At those conditions, a considerable recrystallization reaction from bioapatite to hydroxyapatite occurs accompanied
+by a pronounced increase of the apatite crystallite size. However, already at temperatures below 700 °C, the bone carbonate
+content is reduced and the amount of hydroxyl groups increases. This transformation reaction mainly sets in after organic compounds in the bone have been combusted which enables direct contact between the apatite grains. Moreover, above 800 °C the
+mineral buchwaldite (NaCaPO4) is formed from the Na component within the bone. Our results can be applied to determine the
+cremation conditions of archaeological bone finds.

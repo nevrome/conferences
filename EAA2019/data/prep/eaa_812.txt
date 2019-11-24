@@ -1,0 +1,16 @@
+GOLDEN NETWORKS - AN INTERDISCIPLINARY APPROACH TO IDENTIFY PRODUCER AND CONSUMER
+RELATIONS IN THE EARLY LATÈNE PERIOD
+Author(s): Fuerst, Sebastian (Curt-Engelhorn Zentrum Archäometrie gGmbH, Mannheim; Römisch-Germanisches Zentralmuseum, Mainz) - Armbruster, Barbara (CNRS) - Lockhoff, Nicole - Schwab, Roland (Curt-Engelhorn-Zentrum Archäometrie
+gGmbH)
+Presentation Format: Oral
+From the mid-5th c. BC onwards, a new élite emerged in an area that reached from Luxembourg in the west to the Glauberg in the
+east, mainly covering almost all parts of todays Rhineland-Palatinate, Saarland and parts of Hessen. This élite is reflected by rich
+burials that usually contain drinking vessels from the Mediterranean world, two-wheeled wagons and above all gold jewellery.
+In context of the ANR/DFG Project CELTIC GOLD, we were able to analyze the gold objects from various research perspectives:
+scientifically regarding the material composition, technologically regarding the applied crafting techniques, and from a cultural
+history point of view regarding the different stylistic features. In this paper we would like to present our preliminary results with
+focus on our interdisciplinary approach to integrate all the different research findings ranging from scientific analyses and technical investigations to sylistic art interpretation. We suggest a twofold theoretical framework: At first we distinguish between
+composition groups, manufacturing techniques, and stylistic features. In a second step we perform a network analysis for each
+different aspect (composition, technology and stylistics). Our first results suggest different topological features of each network like centrality degrees or clustering coefficents. These different networks improve our understanding of the differences
+and yet interlocking of the distribution, production and consumption systems during that time. This example illustrates that,
+paradoxically, a separate conceptualization of the different dimensions of metalworking enables an integrative perspective.

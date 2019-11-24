@@ -1,0 +1,13 @@
+SURVEY AND ANALYSIS METHODS FOR STUDY OF THE EARLY BRONZE AGE OBSERVATION SITE OF
+LINSMEAU AND BONLEZ (BELGIUM)
+Author(s): Heller, Frederic (Public Service of Wallonia) - Anslijn, Jean-Noël (Awap) - Broes, Frédéric (Inrap) - Gaspani, Adriano
+(Inaf) - Motta, Silvia (Inaf)
+Presentation Format: Oral
+Presentation of the methods used for the survey and analysis of the astronomical observation site of the Early Bronze Age of
+Linsmeau and the Ground Lidar survey methods of the Middle Bronze Age site of the Bonlez bell barrows (Bt ).
+We used and mixed data from the total station, Drone, Lidar and photographic surveying to create a precise 3D model of the
+archaeological site of Linsmeau in its geographical context. These results were incorporated during a joint work week with the
+Boltzmann Institute Vienna (Austria). We then used the Stellarium software, an astronomical simulator, which allowed us to verify and validate our hypotheses regarding the astronomical marker function of the Linsmeau posts alignments in 1800 BCE.
+Following our study of Linsmeau, we carried out conservative Lidar surveys on the Bonlez Bell Barrows, it is part of the same
+process of using new technologies for the study of archaeological sites. We then treated the data using various open source
+softwares.

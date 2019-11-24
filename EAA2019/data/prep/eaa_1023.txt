@@ -1,0 +1,29 @@
+‘UBIQUITOUS MONUMENTS, UBIQUITOUS PLACES’. CURRENT RESEARCH IN BARROW LANDSCAPES
+FROM PREHISTORIC TO MODERN TIMES
+Theme: Interpreting the archaeological record: artefacts, humans and landscapes
+Organisers: Carrero-Pazos, Miguel (University of Santiago de Compostela, GEPN-AAT; Leiden University, Faculty of Archaeology) - Rodríguez-Del Cueto, Fernando (University of Oviedo) - Szubski, Michał (Cardinal Stefan Wyszynski University, Institute
+of Archaeology)
+Format: Regular session
+This session aims the historical and archaeological analysis of one of the most common archaeological remains in Europe, such
+as the barrow monuments are.
+The presence of similarity in monumental architecture and interchange of material culture in long-distanced territories of modern days Europe was used to indicate a common world of shared beliefs, not only as a remarkable thread of cultural similarity
+across Europe but also as a result of a high probable degree of connectivity between these territories during prehistoric times
+and afterwards.
+All of this has led as well to common archaeological problems in the research of barrow landscapes, and the aim of this session
+is to share both historical and methodological problems, no matter the chronology of the monuments. The proposed session will
+bring together specialists from different periods and regions with the aim of discussing, through a variety of case studies and
+methodological approaches, the analysis of such moundscapes.
+The session will be structured in the following topics:
+•
+Data acquisition and dissemination. From archaeological survey to excavation: remote prospection, teledetection
+(LiDAR, aerial photography, drones), and new ways to get archaeological data - 3D modelling, automatic and semi-automatic archaeological detection. Also problems in heritage management and difficulties to preserve a high number of
+newly detected structures.
+•
+Identification: similarity in barrow morphology and modern mounds (such as kilns, boundary features) - how to distinguish them and investigate.
+•
+Time: Problems in dating cluster of barrows and possible solutions without excavations - e.g. Bayesian approaches.
+•
+Monument: Specific case studies which show the results of excavations and reutilisation processes in modern times.
+•
+Monumental landscapes: Case studies at landscape scale, with integration of GIS and statistical approaches to model
+locational preferences and human behaviour, computationally-informed landscape archaeology.

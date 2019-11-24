@@ -1,0 +1,17 @@
+LONGUE DURÉE VS REAL-TIME. EXPLORATIONS IN THE TEMPORALITY OF (DIGITAL) ARCHAEOLOGICAL
+OBJECTS
+Author(s): Stobiecka, Monika (University of Warsaw)
+Presentation Format: Oral
+A recent interest in material culture, entanglements, new materialisms, and object-oriented approaches visible in contemporary
+archaeology occurs concurrently with discipline’s gravitation towards digital, virtual and cyber practices. This interesting clash
+of two, apparently antagonistic paradigms, calls for a theoretical reflection upon archaeology’s central object of inquiry: an archaeological artifact and its temporal character.
+Central to my considerations will be the notion of “real-time,” widely present in digital and cyber archaeology. I will treat this term,
+originating from computer application, as an opportunity to ask questions about the temporal character of (digital) archaeological objects.
+“Real-time” in the first place refers to the questions of reality, hyperreality, representation, subjectivism and objectivism. As
+digital archaeological objects are being rendered in real-time, they encourage us to investigate the actual character and status
+of obtained data. What does this mean for an artifact or an archaeological site to be recorded in real-time? To be a timeless simulacrum (Baudrillard) with material references that no longer matter?
+Secondly, “real-time” invites us to think about time, temporalities and events. Assuming that archaeologists are working on vibrant matter (Bennett), we can investigate the relation between real-time technologies and materiality. Is real-time truly a form
+of registering unstable reality, or rather a form of stopping time? The questions of time and temporality incorporate also notions
+on widely understood materiality and metamorphosis.
+Treating “real-time” as a theoretical metaphor and a fertile ground for methodological explorations, I will investigate the temporal
+character of (digital) archaeological objects.

@@ -1,0 +1,17 @@
+VIRTUAL ARCHAEOASTRONOMY WITH STELLARIUM: AN OVERVIEW
+Author(s): Zotti, Georg (Ludwig Boltzmann Inst. f. Archaeological Prospection and Virtual Archaeology)
+Presentation Format: Oral
+Archaeoastronomy combines skills of both archaeologists and astronomers, researchers looking mostly into the ground for material evidence of human culture with those observing and studying celestial phenomena. One important field in archaeoastronomy deals with the orientation of architecture, like temple axes or building entrances, towards particular phenomena observed in
+the past skies, like solstitial sunrises or sunsets, extreme points in the path of the Moon, or rising and setting points of particular
+bright stars.
+In the past decades both disciplines have created or adopted particular software tools and workflows. Archaeologists are using
+CAD (Computer-Aided Design) or GIS (Geographical Information System) software to document their finds, and some create
+simple 3D models as visualization aid just from vertically extruded feature polygons. With advanced reconstructions, nowadays
+created usually in a team including 3D artists and architects, whole cities from antiquity can be reconstructed on the screen, and
+the use of 3D computer game technology allows the creation of lively scenes enriched with sounds, animated objects, or virtual
+characters in virtual environments that can be explored interactively.
+In the last few years the author has joined the development team of the Stellarium open-source desktop planetarium and extended it with unique features geared towards archaeoastronomical applications. The most ambitious improvement was the addition of a time-aware 3D rendering module which allows interactive walkthroughs of virtual landscapes, so that georeferenced
+and time-aware site reconstructions can be combined with the simulated skies of past millennia. While simple models may be
+enough for scientific analysis, the rendering quality is also sufficient for higher quality models geared towards public outreach.
+This presentation will give an overview of the various aspects in which Stellarium can help scientists to recreate past views of
+the sky over landscapes and cultures of the past and discuss a few pitfalls and open questions.

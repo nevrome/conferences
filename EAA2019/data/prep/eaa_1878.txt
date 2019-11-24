@@ -1,0 +1,12 @@
+GROOVY GOVAN: DIGITAL IMAGING IN THE ANALYSIS OF EARLY MEDIEVAL CARVED STONES
+Author(s): Kasten, Megan (University of Glasgow)
+Presentation Format: Oral
+Pursuant to the author’s contribution to ‘…In with the New!’ last year, the results from the research applications of digital imaging to the early medieval carved stones from Govan in Glasgow, Scotland, will be summarized. The recovery of worn patterns via
+digital imaging techniques has led to the identification of several themes of standardization in the design of the understudied
+recumbent cross-slabs. During one of these phases, proportionally identical crosses were replicated at different scales on pairs
+of cross-slabs. Each of these pairs shares similar interlace patterns, so it was thought that a single carver may have created
+each pair. To test this, Groove Analysis was applied to the 3D models of two of the paired stones. Groove Analysis is a statistical
+approach developed by Laila Kitzler Åhfeldt that measures and quantifies the cross-section and rhythm of a carved groove with
+ten variables; these can then be used to identify individual carving styles through multivariate statistics. The results indicate
+that, while the two stones share several traits in terms of ornament and cross-shape, they were most likely carved by different
+sculptors. This presentation will conclude with a discussion of these results in the context of the ‘Govan School of carving’.

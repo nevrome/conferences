@@ -1,0 +1,17 @@
+GEOINFORMATION SYSTEM FOR SIBERIAN ROCK ART
+Author(s): Kazakov, Vladislav (Novosibirsk State University; Novosibirsk State University of Economics and Management)
+- Kovalev, Vasily - Zhumadilov, Kair - Lbova, Lyudmila (Novosibirsk State University) - Simukhin, Aleksandr (Institute for Mongolian, Buddhist and Tibetan Studies SB RAS)
+Presentation Format: Oral
+A special task of archaeological researches is the mapping of rock art, which is impossible without the use of modern geoinformation technologies. Geoinformation systems (GIS) not only realize the needs of data mapping, but also solves the problems of
+statistical, demographic analysis, spatial patterns identification. To date, the GIS use in archaeology is rarely sufficiently developed, the created projects are often either highly specialized or have not been supported for a long time. At the same time, the
+application of the GIS technologies in archaeological researches, as well as in the field of cultural heritage, has now been formed
+as an independent interdisciplinary research area.
+To effectively conserve and present data on rock art images and their location, an advanced geoinformation system is required,
+coupled with a content management system published in web access. At the same time, the openness of databases on petroglyphs in the absence of a complex of protective measures (establishing the open-air museums with a regime of controlled
+cultural tourism) can lead to the destruction of the most important examples of rock art. Archaeologists, with good reason, refuse to publish the exact geographical coordinates of the petroglyphic monuments studied, whether they are compact clusters,
+perhaps related to ancient sanctuaries, or scattered in large area image ensembles.
+The presentation shows a geographic information system on the petroglyphs of the Southern Siberia – project artemiris.org that
+includes an interactive map with rock images locations, their description, dating, cultural and methodological attribution etc. The
+GIS shows the location, attribution and description of individual rock art panels. There is implemented user access model that
+hides monuments locations from broad user groups, allowing it only for science organizations staff by e-mail request.
+This work is supported by the Russian Science Foundation under grant 18-78-10079.

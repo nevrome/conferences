@@ -1,0 +1,17 @@
+FROM PAPER TO DIGITAL FIELD DOCUMENTATION
+Author(s): Kucharik, Milan (Labrys o.p.s.) - Sabol, Martin (Archeospace)
+Presentation Format: Poster
+Institute Labrys, o.p.s. was founded in 2007 and it primarily focuses on rescue archaeological excavations. From the beginning
+we are striving for a gradual transition from paper to digital documentation used in field excavations. We have tried a number
+of workflows and technologies in field documentation over the past 12 years. Some of them have worked well, some of them
+required gradual modifications, and another have been rejected.
+Currently the most important tasks for our research are: intersectional photogrammetry, geodetic measurement using the
+GNSS technology, and online database of stratigraphic units, including records of research documentation units (tranches, sections etc.).
+The main requirements for digital technology in archaeological excavation are: easy and efficient data collection, spatial identification, clarity and unity of rules and data formats above all. The goal of this documentation workflow is possibility of easy
+sharing of data while processing and evaluating. And of course cost savings during field works and data postprocessing. The big
+advantage is, that data do not have to be transcripted and also there works automatic duplicate control above all.
+While this is a very tempting technological progress, we are facing a number of obstacles such as unwillingness to accept new
+technologies. And there are also many various non-standard technologies and data formats used by individual archaeological
+companies. And last but not least the problem is also the willingness of workers to learn to new workflows.
+We are currently testing “ArcheoPteryx“ information system, which is used for online data collection in the field during our large
+scale rescue excavation with using tablets, GNSS kit and also photography and photogrammetry sets.

@@ -1,0 +1,9 @@
+THREE-DIMENSIONAL MODELING OF PETROGLYPHS OF SOUTH SIBERIA
+Author(s): Kovalev, Vasily - Kazakov, Vladislav - Zhumadilov, Kair - Lbova, Lyudmila (Novosibirsk State University) - Simukhin,
+Aleksandr (Institute for Mongolian, Buddhist and Tibetan Studies SB RAS)
+Presentation Format: Oral
+Traditional methods of documenting petroglyphs have several disadvantages. Thus, redrawing onto a transparent film gives inaccurate and subjective reproduction of the drawings, and when photographing, rock drawings are usually in insufficient resolution and geometrically distorted.
+Over the past few years, attempts have been made to fix petroglyphs in digital form, including 3D scanning. These methods allow
+getting a digital image with the better quality and accuracy. Up to now methods of digital documentation of petroglyphs, including 3D have been testing on single separate objects. The task of large-scale working on hundreds and thousands of objects is
+not set yet.
+At the same time, such work would make it possible to increase the accuracy of documentation of rock art monuments: with high

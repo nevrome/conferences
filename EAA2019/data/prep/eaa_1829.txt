@@ -1,0 +1,17 @@
+WORKING TOGETHER TOWARDS BETTER STEWARDSHIP OF DIGITAL ARCHAEOLOGICAL DATA WITH
+SEADDA
+Author(s): Wright, Holly - Richards, Julian (University of York) - Ronzino, Paola (PIN S.c.r.l., Polo Universitario di Prato)
+Presentation Format: Oral
+Making archaeological data open and freely accessible is a priority across Europe, but the domain lacks appropriate, persistent
+repositories. Due to the fragility of digital data and non-repeatable nature of most archaeological research, archaeology is poised
+to lose a generation of research to the Digital Dark Age. The key to mitigating this crisis is to bring archaeologists and data
+management specialists together to share expertise, and create resources that allow them to address problems in the most
+appropriate way within their own countries. While important international standards exist and should be used, there is no single
+way to build a repository. To be successful, archaeologists must be at the decision-making heart of how their data is archived
+to ensure re-use is possible. This paper will introduce the newly funded COST Action SEADDA (Saving European Archaeology
+from the Digital Dark Age) which will work to create a priority research network on the archiving, dissemination and open access
+re-use of archaeological data, and includes participation from over 30 countries. SEADDA brings together an interdisciplinary
+network of archaeologists and computer scientists; experts in archaeological data management and open data dissemination
+and re-use. SEADDA will allow archaeologists from countries with archiving expertise to work with archaeologists with few or no
+available options, so they may share knowledge, create dialogue within their countries, and move forward to address the crisis.
+This paper will also discuss ways in which EAA members can participate and benefit from the Action.

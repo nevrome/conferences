@@ -1,0 +1,5 @@
+years has, not ironically, buried us in data. Fortunately, digital modelling and statistical analyses can offer a useful way to package
+ever-growing databases into a more manageable form. As part of a wider study on the comparative labour of Late Bronze Age
+tombs, I explore investment primarily in the construction and reuse of chamber tombs. Here, I present the results of correspondence analyses that group architecturally similar tombs at two large Mycenaean cemeteries in Achaea. The results carry methodological and contextual implications concerning the changes that occurred generations after the collapses of palatial centres in
+southern Greece. Clustering of multi-use, rock-cut tombs suggests many were constructed with size and shape classes in mind,
+and relative indexes ease future comparisons of tombs that reveal little on raw measurements alone.

@@ -1,0 +1,11 @@
+CO-CREATING A DIGITAL TOOL FOR ARCHAEOLOGICAL FINDS: A CITIZEN SCIENCE EXAMPLE FROM
+FINLAND
+Author(s): Wessman, Anna (University of Helsinki)
+Presentation Format: Oral
+Massive digitalization projects are currently going on in Europe and they have direct consequences for how we work within the
+cultural heritage sector. By opening up new digital collections of archaeological material we are making them accessible to everyone. This means that also non-professionals, citizen scientists, can start to use this data.
+An undergoing citizen science project called SuALT (The Finnish Archaeological Finds Recording Linked Open Database) is
+currently developing a digital web service for the discoveries of archaeological material made by the public, which are mainly
+non-professional metal detectorists. Once the database is open it will give completely new access also to researchers and other
+find experts.
+SuALT is collaborative project combining specialisms from different disciplines such as archaeology, semantic computing, cultural heritage studies and archaeological heritage management. Citizens are encouraged not only to help out with the develop-

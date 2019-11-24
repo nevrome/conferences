@@ -1,0 +1,10 @@
+ONLY WHAT IS KNOWN CAN BE PROTECTED
+Author(s): Steigberger, Eva (Bundesdenkmalamt)
+Presentation Format: Oral
+Austria’s Monuments Authority (BDA) is a federal institution with a statutory mandate to catalogue Austria’s monuments. The
+Authority is working on georeferenced mapping of this inventory in context with Austria’s offensive towards more digitalization. Austria’s administrative procedure for example in process of monument protection includes a mandatory identification of
+objects via political community, cadastral community and lot. Exact identification is obligatory, as this is a procedure for each
+individual object. In order to comply with legal obligations on the basis of INSPIRE the Authority has to provide mapping of all objects – archaeological and other – accessible by the public via cooperation with State authorities enables for easy access to this
+geo data, that facilitates a simplification in administrative procedure. Casefiles are presented, that highlight the benefit for the
+Authority on the one hand and the public, for example land owner, developer or planning commissions as the data provided by the
+Authority create a better understanding and better knowledge on exact locations of archaeological monuments.

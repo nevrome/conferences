@@ -1,0 +1,14 @@
+FROM MICRO- TO MACROSCALE: INTRODUCTION
+Author(s): Brönnimann, David (Integrative Prehistory and Archeological Science - IPAS, University of Basel; Archäologische
+Bodenforschung des Kantons Basel-Stadt) - Shillito, Lisa-Marie (School of History, Classics and Archaeology, Newcastle University) - Lo Russo, Sarah - Pümpin, Christine - Ismail-Meyer, Kristin - Rentzel, Philippe (Prehistory and Archaeological Science
+- IPAS, University of Basel)
+Presentation Format: Oral
+Many archaeological research projects today are interdisciplinary and combine different research traditions, questions, perspectives, and types of data. Such an approach is indispensable when answering complex questions; however, it also necessitates a complex working practice. Combining and correlating the results from various disciplines as well as representing them
+appropriately can be especially challenging.
+How to overcome these challenges of combining different scales and kinds of data is a major point for discussion. Research at
+the micro-scale like soil micromorphology, phytolith analysis or palynology provides unique insights into archaeological sites or
+landscape archives. However, such observations usually are based on samples of a few square centimetres. But are they really
+representative for an entire layer, profile or even for a whole site or landscape? More generally, how can data that has been gained
+at a microscale be transposed onto a meso- or even macroscale, and how can results originating from different disciplines be
+correlated?
+This introductory lecture gives an overview of the topic and the questions of the session.

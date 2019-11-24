@@ -1,0 +1,14 @@
+TOWARDS A SPATIAL DATA INFRASTRUCTURE FOR ARCHAEOLOGY
+Theme: Digital archaeology, science and multidisciplinarity: new methods, new challenges
+Organisers: McKeague, Peter (HES: Historic Environment Scotland) - Corns, Anthony (The Discovery Programme) - Moreau,
+Anne (INRAP: Institut National de Recherches Archéologiques Préventives)
+Format: Regular session
+Through the INSPIRE Directive (2007) public organisations across Europe are required to share environmentally-related spatial
+datasets to support decision making and management of the environment. As a result heritage agencies responsible for the
+designation and management of Protected Sites across Europe have released Web Map and Web Feature Services through the
+INSPIRE Geoportal.
+In contrast to datasets mandated by INSPIRE, which are underpinned by consistent data standards, little consideration has been
+given to the wealth of spatial data created through archaeological fieldwork and research. Digital technologies now enable the
+high-precision recording of archaeological excavations and surveys, placing these activities in their wider landscape, whilst advances in remote sensing techniques combined with processing power allow recording to be undertaken over many hectares
+compared to the targeted, site-specific surveys of the early 21st century. Ground and Airborne Laser Scanning offer new opportunities for the recording and analysis of our past. This is data that ultimately informs our understanding and management of
+sites and archaeological landscapes, from informing the planning process to measuring the long-term impact of climate change.

@@ -1,0 +1,15 @@
+WHAT PASTORAL NOMADS LEFT BEHIND: GIS & SATELLITE REMOTE SENSING COMBINED WITH
+GEOARCHAEOLOGICAL FIELDWORK IN THE HIGH ATLAS MOUNTAINS, MOROCCO
+Author(s): Zickel, Mirijam (Archaeobotany, Department of Prehistoric Archaeology, University of Cologne; GIS & Remote Sensing, Institute of Geography, University of Cologne) - Röpke, Astrid (Archaeobotany, Department of Prehistoric Archaeology,
+University of Cologne) - Bareth, Georg (GIS & Remote Sensing, Institute of Geography, University of Cologne) - Reitmaier,
+Thomas (Institute of Archaeology, University of Zurich)
+Presentation Format: Oral
+Geoarchaeological investigations of pastoral livelihood structures in high mountain regions not only pose challenges in the field
+but can also imply issues in remote sensing. The main objective of the study is a scientific insight into pastoral land use strategies in the semi-arid high mountains, particularly for archaeological purposes. In Azilal, a district of Morocco in the High Atlas, the
+Aït Atta pastoralists used, and to some extent still use, the summer pastures to sustain their pastoral mode of life as they did
+for centuries. In combination with the results of geoarchaeological prospections carried out in the study area in the year 2017,
+the application of GIS and remote sensing techniques proved to be a valuable part of the survey. Taken the extreme mountainous
+terrain conditions into account, the use of standardized radiometric indices, e.g. the NDVI Normalized difference vegetation
+index, combined with a semi-automated structure detection, was a preferable toolkit to conduct a land use pattern analysis.
+The results give a scientific view on past and present ways of pastoral land use and constitute the basis of future GIS/remote
+sensing supported geoarchaeological research in the study area.

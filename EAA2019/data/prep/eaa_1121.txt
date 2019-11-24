@@ -1,0 +1,11 @@
+DECEPTIVE COLOURS - AN X-RAY CASE STUDY
+Author(s): Gfeller, Frank (Free Researcher)
+Presentation Format: Oral
+To examine the unusual findings of yellow Roman tiles in several archeological sites close to Zürich, the responsible archeological department initiated a pXRF based provenance research. The point in question was whether the yellow tiles show the same
+elemental pattern, if they might share the same origin, and how they differ from red tiles found in the same contexts. Moreover,
+reference material taken from the clay-mortar of a Roman kiln in Wettswil-Josenmatten should show if the source of the yellow
+tiles was close to Wettswil. Although the questions addressed above seem perfectly tailored for a pXRF-study the results were
+highly ambiguous and none of the issues could be solved without leaving doubts. However, subsequent experiments, including
+re-burning of sample material and X-Ray diffraction (XRD), led to additional insights and a better understanding of the XRF-Data.
+Based on the mineralogical phase composition we were able to explain the question of the yellow colour, to determine the approximate burning temperature and to infer why yellow Roman tiles are rare in this region.
+As a consequence we would like to emphasiwe the benefit of a combined XRF/XRD study and to discuss what additional information we can obtain from ceramic material.

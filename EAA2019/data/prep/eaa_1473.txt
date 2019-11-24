@@ -1,0 +1,6 @@
+For that, the work was conduct with the idea that we do not know if spatial analysis methods provided by other research fields
+(e. g. geography or ecology) and software were consistent with our study’s object. Also, after extensive research, it appears, for
+example, it is sometimes better to work with language R (especially for 3D distribution) rather than with the tools provided by
+some GIS software. It also appears that the recording tool created was very useful and accurate to study quantification and cut
+marks and fractures patterns, still combining “old-fashioned” methods, R language and GIS.
+Ultimately, with the trace elements analyse, and soon with DNA and isotope anylysis, this work allows us to propose solid hypotheses regarding the process by which these heads were produced (i. e. means of recuperation, treatment, disposal, and deposition). This work also suggests which avenues of research will or will not be useful to pursue in future projects of a similar nature.

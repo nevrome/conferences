@@ -1,0 +1,17 @@
+INFRASTRUCTURES FOR ARCHAEOLOGY IN NORWAY
+Author(s): Uleberg, Espen - Matsumoto, Mieko (Museum of Cultural History, University of Oslo) - Ore, Christian-Emil (Department of Linguistics and Scandinavian Studies, University of Oslo) - Kile-Vesik, Jakob (Museum of Cultural History, University
+of Oslo)
+Presentation Format: Oral
+The Norwegian university museums have worked together in the organization MUSIT since 2007 with the aim to create common
+database systems. MUSIT continues the work started in earlier projects from the 1990s. MUSIT is now a national infrastructure
+used for sharing information as open data through unimus.no. Currently around 1.4 million entries representing over 80% of the
+archaeological collections in Norway have in this way been published at unimus.no. Most of the finds are georeferenced, often
+with links to the national SMR. Images are published as CC 4.0, BY-SA.
+The einfrastucture project ADED (Archaeological Digital Excavation Documentation) started in 2018. The aim is to present excavation documentation in Norway as open data. The documentation from rescue excavations can be published in this way soon
+after the field work. The university museums have used Intrasis (http://www.intrasis.com/) for excavation documentation since
+2011. This gives a good starting point for gathering the core data from all projects and to create a system that allows queries
+across all earlier projects.
+The museum of Cultural History also publishes all excavation reports at DUO, the research archive at the University of Oslo (duo.
+uio.no).
+The Directorate for Cultural Heritage in Norway is partner in ADED. The system created by ADED will link the excavation documentation and the Norwegian SMR. An offspin of the ADED-project will be deep linking between museum collections, excavation
+documentation, excavation reports and photographs.

@@ -1,0 +1,12 @@
+MACHINE LEARNING TO DETECT VIKING-AGE CULTURAL HERITAGE SITES ON A NATIONAL SCALE
+Author(s): Kristiansen, Søren (Department of Geoscience, Aarhus University; Centre for Urban Network Evolution - UrbNet,
+Aarhus University) - Stott, David (Department of Geoscience, Aarhus University; Moesgaard Museum, Højbjerg) - Sindbæk,
+Søren (Centre for Urban Network Evolution - UrbNet, Aarhus University; Department of Culture and Society, Aarhus University)
+Presentation Format: Oral
+Ring fortresses in southern Scandinavia are a significant, if short-lived, phenomena of the formation of the early medieval kingdom of Denmark. Together with the contemporary fortified towns they arguably represent a systemic expression of centralized
+authority, and the regular spacing of the five known examples suggests that undiscovered sites may exist. Establishing whether
+more ring fortresses existed would be of great importance to our understanding of the Northern European political circumstances of the late 10th Century CE. In the last years novel mathematical approaches have proven useful in other scientific fields, with
+machine learning and artificial intelligence being most successful, whereby large datasets and large areas can automatically
+be investigated to detect and classify features of interest. However, successful applications of these methods in archaeology
+seems so far limited. In this paper we discuss the utility and results of machine learning approaches to automatically detect
+candidate sites for Trelleborg-type ring fortresses from the entire country of Denmark using airborne laser scanning data.

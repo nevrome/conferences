@@ -1,0 +1,15 @@
+RECOGNISING, STORING, AND SHARING. COULD AN APP SOLVE THE PROBLEM?
+Author(s): Gattiglia, Gabriele - Anichini, Francesca (University of Pisa)
+Presentation Format: Oral
+Every archaeologist knows how pottery is of fundamental importance for the comprehension and dating of archaeological contexts, and for understanding the dynamics of production, trade flows, and social interactions. Today, two main obstacles have to
+be dealt with in archaeological studies of pottery: (1) the characterisation and classification of ceramics is carried out manually,
+through the expertise of specialists and the use of analogue catalogues held in archives and libraries; (2) the storage and display of a wider and wider amount of such material are becoming more and more difficult due to the insufficient space available
+both in archaeological storehouses and museums. The ArchAIDE project (archaide.eu), funded by the European Union’s Horizon
+2020 research and innovation programme, has developed a new app that aims to improve the practice of pottery recognition in
+archaeology, using the latest automatic image recognition technology. ArchAIDE supports the classification and interpretation
+work of archaeologists (during both fieldwork and post-excavation analysis) with an innovative app for tablets and smartphones,
+designed to be an essential tool for archaeologists. Pottery fragments are photographed, their characteristics sent to a comparative collection, which activates the image recognition system, resulting in a response with all relevant information linked, and
+ultimately stored, within a database that allows sharing online. The system currently supports shape-based recognition of Terra
+Sigillata and Roman Amphorae, and decoration-based recognition of Majolica of Montelupo and Majolica from Barcelona e Valencia, as a proof-of-concept. The possibility to digitally store all the information related to every single potsherd (fabric, location,
+etc.) together with images, drawings, 3D models, etc. could be a way for planning a new strategy for analysis, preservation and
+display of both digital and real potsherds.

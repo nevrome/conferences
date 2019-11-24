@@ -1,0 +1,15 @@
+COMBINING DENDROCHRONOLOGY, GIS ANALYSIS AND RADIOCARBON: A NEW APPROACH FOR
+SPATIAL ELABORATION OF PILE-DWELLING STRUCTURES AT LUCONE DI POLPENAZZE (BS-ITALY)
+Author(s): Baioni, Marco (Museo Archeologico della Valle Sabbia - Gavardo) - Martinelli, Nicoletta (Laboratorio Dendrodata,
+Verona) - Saletta, Emanuele (Professional Archaeologist) - Quirino, Tommaso (SABAP per la città metropolitana di Milano) - Capano, Manuela (CEREGE, Aix-Marseille University, CNRS, IRD, INRA, Collège de France, Technopôle de l’Arbois, Aix-en-Provence)
+Presentation Format: Oral
+Since the ‘980 dendrochronology proved to be an invaluable tool for the identification of wooden elements prepared at the same
+time, thus allowing to recognize the original structure of houses in the « fields of piles ». In Italy such a kind of study had a limited
+approach becouse of the restricted areas of excavations and the few numbers of samples analysed. The few exceptions are the
+sites of Bande di Cavriana, Sabbione and Bodio centrale. The research carried out at Lucone D since 2005, where around 400
+wooden elements were dendrochronologically analized in an area of 190 m2 , highlighted a new kind of problem. Numerous felling
+episodes occurred frequently over time, at least 19 from 2034 to 1967 BC, many in the coming years. This situation makes the
+analysis of the planimetric distribution extremely difficult, since it is not possible to distinguish the main phases of the restructuring process. The suspicion that the practice of storage has been used arose too. Therefore only by combining dendrochronological dating and spatial analysis through GIS can the relationships between posts can be more easily found.
+Moreover, more than 50 analyzed posts have not been dated because of their very short tree-ring sequences, from 15 to 35
+years, which show more possible cross-dating positions against the mean curve. The possibility of identification of the right dating of these elements thanks to the wiggle-matching 14C dating would help archaeologists to identify the correct cross-dating
+and correlate them with already dated posts.

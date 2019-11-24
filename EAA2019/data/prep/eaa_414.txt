@@ -1,0 +1,20 @@
+A MULTISPECTRAL IMAGING APPROACH INTEGRATED INTO THE STUDY OF ARCHAEOLOGICAL TEXTILE
+COLLECTIONS AT THE BRITISH MUSEUM
+Author(s): Dyer, Joanne - Tamburini, Diego (The British Museum)
+Presentation Format: Oral
+Multi-analytical approaches, combining the use of non-invasive and micro-invasive techniques, are increasingly being applied to
+the study of historical and archaeological textile collections, with particular attention to the technology of textile production,
+dye stuff sources and dyeing practices. By contrast, although the use of multispectral imaging (MSI) techniques is well-established in the study of polychrome surfaces, these have only been sparingly, and often unsystematically, applied to the investigation of textiles.
+This work summarises some of the research recently undertaken at the British Museum that applied MSI techniques to the
+investigation of two groups of archaeological textiles from the British Museum’s collections: Some examples of Late Antique (c.
+250-800 AD) textiles from Antinoupolis and Wadi Sarga, Egypt, and a series of textile fragments from Dunhuang,China, dated
+from the late 7th to the early 10th century (Tang to Five Dynasties period). The aim is to show how this non-invasive, relatively
+inexpensive, portable methodology can be used to map the photoluminescence and reflective characteristics of textiles under
+different wavelengths of light. Standardised acquisition and post-processing methods were applied to produce a series of images that provided preliminary indications of the colourants used and their spatial distribution.
+To assess the potential and limitations of relating multispectral data to chemical properties, the information derived from these
+images was compared to the more detailed information provided by complementary non-invasive techniques, such as fibre optic
+reflectance spectroscopy (FORS), and micro-invasive approaches, such as high-performance liquid chromatography mass spectrometry (HPLC-MS).
+Two salient points emerge: MSI techniques show a high degree of potential for the investigation of textiles in museum/historic
+collections, particularly as part of a protocol combining digital microscopy, FORS, SEM-EDX and HPLC-MS. Secondly, that within
+this protocol, MSI is an excellent aid in planning more targeted and effective sampling strategies and facilitates comparisons
+between objects.

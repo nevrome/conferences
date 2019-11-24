@@ -1,0 +1,12 @@
+obtained on two stationary ED-XRF systems.
+Two questions are asked, and tentatively answered: is pXRF currently up to the task as specified, and how does is perform compared to older, stationary systems?
+Samples analysed were :
+a) Nabataean fine and common ware from the Nabatean capital, Petra (Jordan) (Swiss-Liechtenstein excavations at the habitation quarters on az-Zantur, Petra; University of Basel, Switzerland).
+b) Nabataean fine ware samples found in the Nabatean border settlement Hegra (Saudi Arabia), distant some 500 km from Petra
+(French-Saudi excavations in Hegra; CNRS – Orient et Méditerranée; University of Paris 1, France; and University of Hâ’il, Saudi
+Arabia).
+The author worked as ceramologist on both excavations. The samples from Petra are known to be produced locally. For the Hegra
+samples, the question was: local or imported? A preliminary provenance hypothesis based on typology was tested.
+Petra samples had been previously analysed by the author on two different ED-XRF systems. Those measurements served as
+reference. They were analysed again, in pXRF, together with the Hegra samples. A statistical analysis of the resulting chemical
+classification and its typo-chronological correspondence is presented. A-priori and a-posteriori attributions are confronted. Reproducibility, accuracy, precision and practicality of current pXRF for this kind of analysis are critically assessed.

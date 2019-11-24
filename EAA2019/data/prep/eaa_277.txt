@@ -1,0 +1,14 @@
+THE ISSUES ABOUT ANALYSIS AND ASSESSMENT OF MEDIEVAL POTTERY IN CZECH REPUBLIC –
+CURRENT PROBLEMS AND FUTURE TRENDS
+Author(s): Capek, Ladislav (University of West Bohemia)
+Presentation Format: Oral
+The issue deals with the general problems of analysis of pottery assemblages recovered from excavations of medieval sites in
+the Czech Republic and approaches of their processing and assessment. The analysis of medieval pottery is mostly based on the
+detailed characterization of ceramic fabrics, morphology of rims and decoration elements that are usually converted to alphanumeric codes which enter the database systems. For comparison of pottery assemblages, simple quantification methods, exploratory data analysis and multidimensional statistical methods (seriation, correspondence analysis, factor analysis) are used
+to create validated type-chronology. The phasing of ceramic horizons is based on the interaction of pottery dating elements and
+contexts (stratigraphic data). For the purpose of pottery studies, in the Czech Republic have been creating very detailed descriptive systems and database software based on different approaches to pottery analysis, differing between pottery specialists
+and institutions and that are not fully compatible with each other. For this reason, we can not carry out comparative research
+to study modes of pottery distribution between different production centers than in broader geographically defined regions. A
+certain solution is the creation of standards of pottery processing for project design and open descriptive systems, which is currently being developed within the framework of a project obtained from the Ministry of Culture of the Czech Republic. The project
+includes the creation of a digital archive (repository) with comparative medieval pottery collections and the archaeological 3D
+virtual museum that will make the result of the pottery studies available in the form of modern media and serve as methodological and educational support for pottery specialists and students.

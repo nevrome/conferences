@@ -1,0 +1,17 @@
+UNDERSTANDING HUMAN BURIAL TAPHONOMY THROUGH ACTUALISTIC EXPERIMENTS AND 3D DATA
+COLLECTION AND ANALYSIS TECHNIQUES
+Author(s): Mickleburgh, Hayley (Forensic Anthropology Center Texas State University) - Klinkenberg, Victor (Faculty of Archaeology Leiden University) - Gluschitz, Sarah (St. George’s University Grenada)
+Presentation Format: Oral
+This paper presents some results of an ongoing actualistic experimental study of human decomposition and skeletal disarticulation at an outdoor human decomposition facility in Texas. Taphonomic data on the natural sequence of joint disarticulation and
+spatial distribution of bones in buried and surface depositions of 20 willed-donated human cadavers were collected (2015-present). The results are used to examine taphonomic models used in archaeothanatology, a field of study in archaeology that aims
+to reconstruct mortuary practices in the past. Archaeothanatology uses a model of the relative sequence of natural joint disarticulation during decomposition and the spatial configuration of the bones in the burial environment to distinguish natural
+processes from mortuary treatment. Actualistic experiments provide the possibility to assess the effects of different variables
+on joint disarticulation and bone movement under controlled conditions, allowing us to improve existing models and develop new
+taphonomic methods for studying mortuary treatment.
+In this paper, we present the methods and workflow we developed for the documentation and analysis of human decomposition
+and burial taphonomy (taphonomy of the grave) in the actualistic experimental project. We discuss how we used Structure from
+Motion photogrammetry, 3D animation, and 3D GIS to visualize complex taphonomic processes and collect quantitative data on
+bone movement throughout decomposition. Our method produces highly detailed information on the spatial relation of human
+remains and other objects within the burial environment. The use of this method across a larger sample will provide measurements which could potentially yield ‘signature’ disarticulation patterns related to specific variables (i.e. natural or human). The
+collection of further actualistic data in this ongoing experimental project will provide a significant source of taphonomic data for
+mortuary archaeology.

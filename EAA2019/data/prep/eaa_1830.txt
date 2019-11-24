@@ -1,0 +1,10 @@
+INTERNATIONAL ACCESSIBILITY AND ISSUES OF OWNERSHIP OF 3D ARTIFACT REPRESENTATIONS
+Author(s): Garstki, Kevin (University at Buffalo, SUNY) - Frie, Adrienne (University of Wisconsin-Oshkosh)
+Presentation Format: Oral
+During the late 19th and early 20th centuries, antiquarian excavations in Southeastern Europe and the Mediterranean took place
+under the auspices of the German, Ottoman, and Austro-Hungarian Empires. Such excavations provided the foundational archaeological collections of many museums in Europe and the United States. These artifacts are still held by these museums,
+and due to issues of distance and limited research funds, have remained largely unavailable to local scholars and the public in
+the countries of origin. This has been the case with the Mecklenburg Collection, which was excavated prior to World War I by the
+Duchess of Mecklenburg when the territory of Slovenia was part of the Austro-Hungarian Empire. The project, Visualizing Antiquarian Excavations: Digital Repatriation of the Mecklenburg Collection, aims to provide digital access to this collection through
+an open access data publisher that will include digital 3D representations, high resolution photographs, and scans of the archival
+excavation documentation. Yet this collection, which spans multiple institutions and countries, is a nexus for numerous stakeholder groups who differ on views of accessibility of artifacts through digital media. In this paper we will discuss how dissemination, ownership, and data preservation is being approached with digital 3D representations of cultural heritage in this project.

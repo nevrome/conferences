@@ -1,0 +1,12 @@
+CASTLES AND MONASTERIES IN LOWER SAXONY - ARCHAEOLOGICAL RESEARCH, NATURE
+CONSERVATION AND HERITAGE MONITORING BY UAV
+Author(s): Blaich, Markus C. (Lower Saxony State Office for Monument Preservation)
+Presentation Format: Oral
+Since 2016, the Lower Saxony State Office for Monument Preservation has been using various UAVs for the documentation of
+archaeological excavations or archaeological monuments. This is mainly done by aerial photography. Encouraged by the cooperation with the UNESCO-certified GeoPark Harz, the UNESCO World Heritage Foundation Harz and ICOMOS (German section), the
+State Office has begun to expand the criteria for monitoring especially medieval monuments. Since 2017, aspects developed in
+environmental and nature conservation have been integrated, for example theuse of the process „Structure from Motion“. This
+was initially tested at archaeological sites, but will also be used for architectural monuments.
+A further aspect is the future linking of the monitoring of monuments (buildings) and archaeological sites in one work step. In
+this paper, examples of the targeted combination of infrared images (IR), LIDAR-Scans and various archaeological prospection
+methods will be presented and the possibilities of monitoring for large listed areas will be discussed.

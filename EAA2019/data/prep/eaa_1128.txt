@@ -1,0 +1,11 @@
+A CRITICAL NOTE ON PROVENANCE STUDIES IN ARCHAEOLOGY
+Author(s): Brandl, Michael (Austrian Academy of Sciences, OREA-Institute, Vienna) - Martinez, Maria (Smithsonian Institution,
+National Museum of the American Indian - NMAI, Washington DC; The University of Texas at Austin, Department of Anthropology)
+Presentation Format: Oral
+The booming application of pXRF for analyzing archaeological materials calls for a critical review of the potentials and risks of a
+method, which may appear as a panacea considering the plethora of scientific contributions celebrating its successful implementation. This is mainly due to its non-destructive nature and relatively easy handling of the XRF gun. Exmples include material
+determinations in the context of fieldwork and museum based research, e.g. conservation science and its value in the repatriation process, of soils, mineral pigments, heavy metals, ceramics, rocks, and metals. For this type of analyses, pXRF is well
+established.
+A more critical application however concerns provenance studies. Although capable to obtain elemental data for geochemical
+analyses, the suitability of this analytical tool highly depends on the material analyzed. Since the use of pXRF for lithic provenance studies constitutes an especially challenging issue, this contribution will examine its application from this perspective.
+As such, we will present case studies which demonstrate limitations as well as well-grounded future prospects of pXRF in archaeometry.

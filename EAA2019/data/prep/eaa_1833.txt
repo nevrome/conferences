@@ -1,0 +1,12 @@
+ISOMEMO: A PARTNERSHIP-BASED MODEL FOR BIG ISOTOPIC DATA
+Author(s): Rosenstock, Eva (Einstein Center Chronoi, Berlin; Institute of Prehistoric Archaeology, Freie Universität Berlin) Fernandes, Ricardo (Max Planck Institute for the Science of Human History; School of Archaeology, University of Oxford; Faculty of Arts, Masaryk University)
+Presentation Format: Oral
+IsoMemo (http://www.isomemo.com) is a Big Data initiative bringing together several repositories of isotopic data from various
+research fields including archaeology. IsoMemo follows a partnership-based model in which autonomous repositories are responsible for defining metadata and collecting data according to specific research needs. Within archaeological research this
+implies that repositories select data for collection according to cultural, geographical, and chronological criteria.
+The IsoMemo initiative promotes the production and open access to isotopic data and the development of new databases having
+developed the concept of source recognition for both data producers and compilers. It also coordinates data collection among
+partners and develops open access tools for data search and data mirroring to ensure its long-term accessibility.
+Another major feature of IsoMemo is the development of new statistical tools for the analysis of Big isotopic Data and data
+integration of isotopic and non-isotopic datasets leading to the development of large-scale interdisciplinary projects. In this paper, the IsoMemo organizational model will be described and several examples will be presented to illustrate the archaeological
+potential of the initiative.

@@ -1,0 +1,8 @@
+electron and digital microscopy) to score, describe, and analyze oral pathologies in a sample of 23 individuals of both sexes and
+various ages. This assemblage comes from the Chalcolithic collective burial of El Mirador Cave (Sierra de Atapuerca, Spain) dated
+between 4000 ± 30 BP (4550-4390 cal. BP) and 4120 ± 30 BP (4880-4480 cal. BP).
+The identified oral pathologies, disorders, and additional comorbidities include dental caries, abscesses, cysts, linear enamel
+hypoplasia, periodontal disease, dental calculus, supernumerary teeth, misalignment, antemortem tooth loss, exostoses and
+arthritis of the temporomandibular joint (TMJ) related to inflammatory lesions, developmental stress conditions, and infections.
+The analysis of some of these pathologies beyond the traditional macroscopic analysis allows a more in-depth characterization
+and improved precision of differential diagnoses. Also, the images and data resulting from microscopic, CBCT, and microCT analysis provide useful information not only for research but also for teaching and outreach dissemination purposes.

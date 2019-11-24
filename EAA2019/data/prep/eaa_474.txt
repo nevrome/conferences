@@ -1,0 +1,6 @@
+Despite its potential, the data is largely inaccessible beyond illustrations fossilised and siloed within individual final published reports. The underlying primary data is difficult to find, access and reuse. The data structure not only differs across but also within
+organisations, hindering efficient reuse. Then there are questions of who should collate, manage and publish spatial datasets,
+as well as access rights.
+The Amersfoort Agenda recognises the need to share, connect and provide access to archaeological information through digital
+technologies, with the aspiration to improve collaboration, yet examples of a collaborative approach to managing and publishing
+spatial data pooled from archaeological projects are rare. We welcome papers that discuss the challenges and solutions to finding, compiling and accessing spatial data across multiple projects.

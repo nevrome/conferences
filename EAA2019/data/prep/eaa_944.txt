@@ -1,0 +1,7 @@
+THE INFORMATIONAL CAPACITY AND COMPLEX CULTURAL BEHAVIOR IN PREHISTORY
+Author(s): Diachenko, Aleksandr (Institute of Archaeology of the NAS of Ukraine) - Sobkowiak-Tabaka, Iwona (Institute of Archeology and Ethnology of the Polish Academy of Sciences, Centre for Prehistoric and Medieval Studies, Poznań)
+Presentation Format: Oral
+Archaeology approaches numerous issues of innovations spread, interaction and communication in prehistory through the set
+of quantitative approaches, mainly the graph theory and network analysis. The related applications usually include parametrized
+characteristics of agents (nodes), including their place in network structure, and intensiveness of interactions between them
+measured by the weighted edges. Questioning the most general properties of cultural dynamics in prehistory, this paper sup-

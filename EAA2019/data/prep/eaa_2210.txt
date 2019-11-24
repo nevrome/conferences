@@ -1,0 +1,7 @@
+whether the spatial distribution of flakes after a knapping session could give information about the handedness of the knapper.
+Two knappers (one left-handed and one right-handed) used three different types of raw material (ignimbrite, basalt, and chalcedony) to create 2x2 meter experimental knapping sites. Photogrammetry of the experimental site was used to build orthomosaic models that were then imported into QGIS to map the coordinates of the flakes. Optimized Hot-Spot Analyses (OHSA)
+were conducted to determine if materials are clustered within a specific area. OHSA results of samples made by both knappers
+overlap and a paired T-test confirmed there were no separations of pattern for any raw material (p = 0.78 for ignimbrite, p = 0.92
+for chalcedony, and p = 0.79 for basalt). Future studies should take into consideration the size class of the flakes included in the
+sample. There is the possibility that a difference in the spatial distribution is related to artifact size. Larger flakes may reflect a
+pattern in the spatial distribution that is not reflected in the smaller debitage pieces.

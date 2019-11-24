@@ -1,0 +1,13 @@
+ADDRESSING THE CHALLENGES OF DISASSOCIATED ARCHAEOLOGICAL TEXTILES WITH
+MULTIVARIATE CLASSIFICATION OF SPECTROSCOPIC AND CHROMATOGRAPHIC DATA
+Author(s): Alcantara-Garcia, Jocelyn (University of Delaware) - Weldon, Marianne (Bryn Mawr College) - Booksh, Karl - Miller,
+Amelia (University of Delaware)
+Presentation Format: Oral
+The chemical analysis of archaeological textiles faces four major challenges: contamination, sample size, degraded constituent
+materials, and the likelihood of ancient cultures using plants that are now extinct. These troubles are oftentimes exacerbated
+by occasional dubious provenance. Innumerable archaeological textiles were illegally traded to private collections in the early
+20th century, and some of such objects have been donated to educational institutions such as Bryn Mawr College, Pennsylvania, in the United States. Now part of the College’s collections, hundreds of archaeological textiles, ranging from Coptic to
+Andean, have been classified by style only. Using a combination of chromatographic and spectroscopic techniques, we studied
+a statistically representative number of likely Peruvian textiles at Bryn Mawr. Multivariate analysis allowed us to see differences
+in constituent materials across textiles of Pre Columbian Peru. Our early results will likely serve as a model, and probably aid in
+giving provenance to other disassociated, similar, textiles.

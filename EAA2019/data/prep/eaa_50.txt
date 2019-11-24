@@ -1,0 +1,14 @@
+A SPATIAL INVESTIGATION OF THE DISTRIBUTION OF LATE BRONZE AGE SETTLEMENTS IN WESTERN
+ANATOLIA
+Author(s): Asinmaz, Alper (Dokuz Eylul University)
+Presentation Format: Oral
+Due to its favorable geographical condition, the Western part of Anatolia harboured numerous settlements during the Late
+Bronze Age. Although only few Late Bronze Age centers were previously known in detail, now we know more about the minor
+settlements in the region thanks to the increasing number of researches and growing interest. Also, recent researches and new
+interpretations on the material culture have changed some aspects of the former theories. In this context, since the number of
+known LBA sites have increased, attention to the settlement patterns and settings of the sites has indispensably increased
+likewise. Thus, this situation brings new perspectives to the concept.
+Spatial analyses, spatial thinking and statistics in archaeology have been good methods to understanding settlement patterns
+and underlying reasons of settlement distributions. In this sense, GIS has been a useful tool for analysing the mentioned phenomenon. In this paper I will analyse the patterns and the distributional organization of LBA settlements in Western Anatolia.
+Thus, relying on the results of the analysis, inferences regarding the settlement patterns will be made. Also, the effect of geography on the regionalization will be discussed. Since analysing the whole region will be too complex for this type of study, a certain
+part of the region -namely Inner West Anatolia- won’t be included in the study area.

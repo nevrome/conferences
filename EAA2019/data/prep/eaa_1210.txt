@@ -1,0 +1,11 @@
+BRONZE AGE COMMUNITIES OF THE RUSSIAN STEPPES: RECONSTRUCTIONS BASED ON DISTANCEINTERACTION PRINCIPLES
+Author(s): Sharapov, Denis (Tyumen State University)
+Presentation Format: Oral
+This presentation discusses an approach to regional settlement pattern analysis that supersedes the labels of ‘village’, ‘hamlet’,
+‘town’, and even ‘archaeological site’. All of the above definitions are problematic due to their subjectivity and the resulting difficulty when it comes to using settlement types as analytical units in comparative studies. In order to overcome this issue, a number of archaeologists have been outlining communities based on a quantitative procedure that measures the intensity of human
+interaction across a landscape (Peterson and Drennan 2005). Firstly, local communities are outlined based on Murdock’s (1949)
+classical definition of ‘community’ – a group of people that interact face-to-face on a virtually daily basis. Secondly, supra-local
+communities are outlined as distinct clusters of smaller local communities, inside of which people interact more intensely than
+outside. Methodologically, communities are outlined by selecting appropriate isolines on a raster surface that reflects continuous interpolated values of population density in a given region. IDW-interpolated population densities are taken to reflect the
+intensity of human interaction. My presentation illustrates how this methodology was used to analyze the processes of longterm social change in the southern Urals region of Russia during the Bronze Age period (2100-1400 BC). Among other things, we
+found that some local communities (or “villages”) had a peculiar spatial layout. In particular, they consisted of a few occupation

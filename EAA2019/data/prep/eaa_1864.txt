@@ -1,0 +1,15 @@
+YOU DON’T KNOW WHAT YOU’VE GOT TILL IT’S GONE: PRESERVATION AND DETERIORATION OF
+HISTORIC SHIPWRECKS
+Author(s): Gregory, David (The National Museum of Denmark) - Quinn, Rory (University of Ulster) - Matthiesen, Henning (The
+National Museum of Denmark) - Dam, Mogens - Normann, Gert (Sea War Museum Jutland)
+Presentation Format: Oral
+UNESCO estimate that there are over three million shipwrecks lying on the bottom of the world’s seas and oceans. International
+(UNESCO, 2001; ICOMOS, 1996) and European (Valletta, 1992) legislation all advocate that underwater cultural heritage should,
+where possible, be protected in situ. However, such legislation cannot protect underwater cultural heritage from the potential
+ravages of nature. Since their time of sinking, shipwrecks will be exposed to a multitude of physical, chemical and biological
+processes, as well as cultural impacts that will affect their preservation. It is thus essential to be able to assess the effect the
+natural environment has had and will have on shipwrecks in the future should they be preserved in situ. This paper will present an
+ongoing project to investigate the preservation of wrecks in the North sea. The project draws on an unprecedented multibeam
+echosounder dataset of over 400 wrecks. The ultimate goal of the project is to correlate the observed seabed distribution of
+these wrecks with natural and cultural formation processes in a GIS platform in order to better understand the deterioration of
+shipwrecks and facilitate the future preservation and management of this resource.

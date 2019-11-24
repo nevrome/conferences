@@ -1,0 +1,17 @@
+TWINKLE, TWINKLE LITTLE STAR: REVEALING METHODS THAT UNCOVERED THE RELEVANCE OF
+CIRCUMPOLAR BODIES IN PREHISTORIC SCOTLAND
+Author(s): Higginbottom, Gail (Incipit, Consejo Superior de Investigaciones Científicas; University of Adelaide; Australian National University) - Mom, Vincent (Digital Preservation Projects Foundation)
+Presentation Format: Oral
+Traditional archaeological location modelling, whilst very informative about spatial patterns across a 2D spectrum, can be limited
+in its contribution to understanding human choice about location. Therefore, whilst we use 2D models, our primary approaches
+also adapt and use statistical analyses, 3D GIS and immersion software. In this way, we have a far better chance of understanding the choices people made in regards to place and confirming the likelihood of these apparent choices, including their connection to astronomical phenomena. We use topographic, astronomic, and atmospheric data, along with information on human
+vision and 3D-rendering techniques, to create 3 main outputs: (i) 2-D, 360o visible horizon profiles, (ii) 3D, 360o models with
+visual topographic depth and layered astronomical information, where a change in time accurately alters what can be seen astronomically, as well as the position of astronomical phenomenon in relation to the landscape and (iii) data files. This is done
+using the valuable software called ‘Horizon’. These data files contain topographic data, allowing us to test the likelihood of site
+locations being deliberately chosen. We have used 3D models to view how things were seen at each site from the viewpoint of
+an individual after statistically testing the likelihood that monuments were erected with astronomy in mind regionally, as in the
+case of simpler standing stone monuments, and individually, as in the case of stone circles. We have expanded these useful
+and highly adaptive methodologies to include the fruitful application of the software ‘Stellarium’. This turns the 3D panorama
+observations of Horizon into a cinematographic-like experience, with 360-degree views of photo-realistic night skies as could be
+viewed 3,500 years ago. We will discuss the methodological challenges and revelations, which ultimately allowed us to discover
+the relevance of circumpolar bodies in prehistoric Scotland.

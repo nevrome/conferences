@@ -1,0 +1,21 @@
+100 YEARS OF REMOTE SENSING AND URBAN SPRAWL: MULTI-TEMPORAL, MULTI-SENSOR MAPPING
+OF A HISTORIC CITY
+Author(s): Kristiansen, Søren (Department of Geoscience, Aarhus University; Centre for Urban Network Evolution - UrbNet,
+Aarhus University) - Stott, David (Department of Geoscience, Aarhus University, Denmark; Moesgaard Museum, Højbjerg) - Lichtenberger, Achim (Westfälische Wilhelms Universität Münster, Institut für Klassische Archäologie und Christliche Archäologie) - Rubina, Raja (Centre for Urban Network Evolution - UrbNet, Aarhus University)
+Presentation Format: Oral
+Archaeological remains embody vital information about how humans have adapted to macro-scale economic and environmental
+change in the past, and can inform how we in the present can adapt to these changes. However, these very processes of change
+directly threaten these remains. To mitigate the impact of implacable economical development on the historic environment we
+need to urgently map and characterize as much of it as possible. Doing this is only feasible using remote sensing methods to
+cover large areas. However, making sense of the fragmentary remains in the present can be challenging, as often much has been
+lost already, and interpreting fragments without their wider context is difficult. This can, however, be addressed by tapping the
+vast archives of remote sensing imagery available, including aerial photography, Cold War surveillance imagery and satellite data.
+These enable us to both contextualize what remains and to quantify what has been lost.
+Here we will explore the application of state of the art remote sensing techniques for the mapping of cultural heritage threatened by urban encroachment during the last century. We demonstrate this using the ancient city of Jerash, Jordan, as a case
+study, using aerial photography dating back to 1917 in conjunction with modern airborne laser scanning. The archaeological site
+is representattive for modern cities as the 20th and 21st centuries rapid demographic expansion and population movement
+caused by geopolitical instability in the region has led to much of the ancient city and its environs being obliterated by modern
+development.
+This paper present the recent work of Stott et al. (doi.org/10.1073/pnas.1721509115) and serves to highlight these issues and
+argues that, by adopting these approaches and making the resulting mappings available to researchers and decision makers as
+open data, a more sustainable future for such irreplaceable cultural heritage information can be assured.

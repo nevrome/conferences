@@ -1,0 +1,17 @@
+ESTABLISHING THE POTENTIAL OF 3D MODELLING AND SPATIAL ANALYSIS FOR INTERPRETING WILD
+PLANTS PROCESSING
+Author(s): Zupancich, Andrea - Caricola, Isabella - Mutri, Giuseppina - Carra, Maria (Diet and Ancient Technology Laboratory DANTE, Sapienza Università di Roma) - Radini, Anita (Department of Archaeology University of York) - Cristiani, Emanuela (Diet
+and Ancient Technology Laboratory - DANTE, Sapienza Università di Roma)
+Presentation Format: Oral
+In this contribution, we discuss the scientific benefits of an experimental approach integrating 3D modeling performed through
+close-range photogrammetry and the use of GIS software in order to establish a methodology for interpreting the use of groundstones exploited to process different species of wild plant foods. In recent years, 3D modeling and spatial analysis have shown
+their scientific reliability in the study of archaeological stone tool use. By monitoring changes in surface morphometry resulting
+from the use of lithic tools, these two approaches have the potential to strengthen qualitative data achieved through the observation of use wear at low and high magnifications. Moreover, the geomatic analysis of tools’ surfaces allows to objectively
+quantify patterns of surface-modifications associated to specific activities (e.g. grinding, crushing and pounding) and/or worked
+materials. Additionally, the combination of surface morphometry and use wear analysis has also the potential of foreseeing patterns of residue distribution over the groundstone surfaces hence providing a key aid in establishing sampling strategies applied
+to archaeological specimens. For this reason, our experimental protocol was also aimed to monitor the distribution of starch
+granules over the experimental groundstone surfaces and its variation in relation to the state of the worked material and the
+action performed. The results here presented constitute part of a dedicated experimental framework carried out within the ERC
+project HIDDEN FOODS (GA 639286) and provide one of the first experimental dataset focused on the use of groundstones for
+wild plant processing, and a reliable methodology for further studies related to the exploitation of stone technology and wild
+vegetal substances in the past.

@@ -1,0 +1,12 @@
+MINOR OBJECTS - BIG DATA. HOW TO ADEQUATELY DESCRIBE EVERYDAY OBJECTS
+Author(s): Langner, Martin - Janda, Manuel (Georg-August-Universität Göttingen)
+Presentation Format: Poster
+In relation to Material Culture Studies event based structures are already implemented to Collection Management Systems.
+These give the possibility to describe the whole lifespan of an object. The problem is that we are usually not able to reconstruct
+the complete ‘biography’ of an artefact, and in relation to function the shape (e.g. of a ring or a jug) is more often irrelevant than
+archaeologists use to believe: form does not necessarily follow function!
+The results of a BA thesis concerning a multimodal approach to archaeological databases will be presented answering questions
+like: Which criteria of categorisation are needed for things of every day life? How does the fluidity of use can be modelled? What
+can be learnt from actual discussions in Design and Marketing Studies? What kind of help comes from Big Data approaches like
+Image Content Exploration or Cultural Analytics? Which statistical approach is most appropriate for household studies in terms
+of every day life?

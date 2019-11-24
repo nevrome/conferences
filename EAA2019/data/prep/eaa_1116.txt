@@ -1,0 +1,19 @@
+THE RECONSTRUCTION OF NEOLITHIC CERAMICS – MULTI-SCALE MEASUREMENT ANALYSIS FROM
+P-ED-XRF SIGNATURES VIA X-RAY FLUORESCENCE ANALYSIS TO X-RAY MICROTOMOGRAPHY SCANS
+Author(s): Menne, Julia (Institute of Pre- and Protohistoric Archaeology, Christian-Albrechts-University of Kiel) - Heilmann,
+Christopher - Holzheid, Astrid (Institute of Geosciences - Experimental and Theoretical Petrology, Christian-Albrechts-University Kiel)
+Presentation Format: Oral
+It is assumed that the p-ed-XRF measurements provide sufficient and accurate results. The investigation of ancient pottery
+with regard to their material composites allows insights into the material structures, production techniques and manufacturing
+processes. For this reason, additionally to conventional microscopic examination and petrographic thin sections, multi-element
+analyses of portable ed-XRF (p-ed-XRF) have become more and more important for archaeological research questions. As a result, the number of ceramic studies using this method has increased enormously in recent years.
+In this paper, a comparison of the different methods is made to evaluate the methodological limitations and the comparability of
+these ceramic analysis. We want to investigate the measurement accuracy and compare the quantitative measurements of a
+portable Niton XL3t900-ed-XRF-device to the conventional quantitative data from a wavelength XRF device (w-d-XRF) to determine the limits of precision. In addition, material structures using x-ray microtomography scans (μ-CT) were studied, which made
+it possible to extract the temper components and the related porosity non-destructively. The aim of this study is to investigate
+the methodological relationship between the various established methods of ceramic analysis in order to evaluate the quality of
+these measurement techniques for a precise comparison of their reliability and applicability. In our opinion, this approach offers
+the possibility to verify and extend the proven methods and to open up new fields of application.
+As a case study, the elemental contents of the ceramics of megalithic tombs were measured. The used samples derive from
+megalithic tombs of the Funnelbeaker Westgroup in northwestern Germany. For the first time, a comprehensive methodological
+investigation of the geochemical analyses and their limits can be carried out on this Neolithic ceramic.

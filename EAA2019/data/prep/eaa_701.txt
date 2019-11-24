@@ -1,0 +1,31 @@
+RESEARCH DATA AND DIGITAL CORPORA: FROM ARCHAEOLOGICAL FINDINGS TO ARTEFACTS OF
+THE FUTURE
+Theme: Digital archaeology, science and multidisciplinarity: new methods, new challenges
+Organisers: Wigg-Wolf, David (Römisch-Germanische Kommission - RGK- des Deutschen Archäologischen Instituts) - May,
+Keith (Historic England; University of South Wales) - Hofmann, Kerstin (Römisch-Germanische Kommission - RGK - des
+Deutschen Archäologischen Instituts) - Nimura, Courtney (School of Archaeology, University of Oxford)
+Format: Regular session
+Corpora are central epistemic instruments for studying the ancient world. In an age of discussion about post-factualism, they
+can make the production of knowledge more transparent. But while corpora of ancient texts (‘text-editions’) have established a
+science of their own, to date there have been few studies of the epistemological basis and practices of knowledge production for
+corpora of ancient objects (‘thing-editions’). Such studies are all the more important given that we are currently faced with the
+challenge of how archaeological remains can be (re)presented digitally in their materiality and rich diversity.
+During the course of digitisation, it is important to revisit questions that already arose in the 19th century. On the other hand,
+the EAC’s Amersfoort Agenda (Schut et al. 2015) sets out some very useful pointers for addressing the challenges of the 3rd
+science revolution and highlights the need for some serious reconsideration, or “re-engineering”, of archaeological processes
+that were established in a different era when many of the tools we now have for data recording; analysis; research synthesis; and
+publication, were simply not available.
+With such considerations in mind, our session aims to direct attention towards both the history of knowledge and the digital
+future of ‘thing-editions’. A particular focus will be placed on the role of digital corpora as an important tool for the preservation
+of cultural heritage internationally. Inasmuch as publishing research data make a substantial contribution towards the democratisation of knowledge and information, a discussion of the ethics and governance of digitisation is vital. This session will also
+consider ways of encouraging and supporting better sharing and re-use of heritage data, including:
+•
+cooperative and multidisciplinary research tools;
+•
+open access data and publication;
+•
+wider use of open source software;
+•
+Communities of Practice for IT users;
+•
+FAIR digital data standards.

@@ -1,0 +1,13 @@
+SKYCULTURES IN STELLARIUM: REQUEST FOR COMMENTS
+Author(s): Zotti, Georg (Ludwig Boltzmann Inst. f. Archaeological Prospection and Virtual Archaeology)
+Presentation Format: Oral
+The free and open-source desktop planetarium Stellarium has become a popular simulation environment for astronomical phenomenology, both for scientific research and outreach. One unique feature allows to exchange the traditional European constellations of Greek/Roman tradition by constellations of other ethnic groups, as long as they are formed in the same way, i.e.,
+by connecting bright stars into ”stick figures”, optionally augmented by artwork like scanned copperprints from old atlases or
+modern drawings guided by ethnographic research.
+However, the current software infrastructure does not allow representing several important features found in non-European
+cultures. For example, ”dark constellations” formed by the dust clouds of the Milky Way cannot be represented, and there is no
+way to display the Lunar stations which are important in many Asian cultures. Also the current solution for multilingual translation
+may require additions.
+As member of the Stellarium development team I would like to present the current solutions and some of the shortcomings
+known to the team, and then open a round of discussion about which features should be added to future versions of Stellarium
+to fulfill scientific demands of today’s ethnoastronomers.

@@ -1,0 +1,18 @@
+DENTAL MICROWEAR ANALYSIS AS AN INDICATOR OF THE DIET: CASE STUDY OF A 17TH CENTURY
+NECROPOLIS FROM IAȘI, ROMANIA
+Author(s): Petraru, Ozana-Maria (Romanian Academy – Iasi Branch, “Olga Necrasov” Center of Anthropological Research; “Alexandru Ioan Cuza” University of Iaşi, Faculty of Biology) - Groza, Vasilica-Monica - Popovici, Mariana (Romanian Academy – Iasi
+Branch, “Olga Necrasov” Center of Anthropological Research) - Bejenaru, Luminița (Romanian Academy – Iasi Branch, “Olga
+Necrasov” Center of Anthropological Research; “Alexandru Ioan Cuza” University of Iaşi, Faculty of Biology)
+Presentation Format: Poster
+In 2008, during a rescue archaeological excavation in Iaşi (Iaşi County, Romania), a necropolis of 17th century was discovered.
+From the necropolis were recovered 111 well-preserved skeletons, generating interest for a dietary study. Dental microwear has
+been used in attempts to characterize diet and it refers to the microscopic marks left on the enamel and dentine which reflects
+the mechanical properties of food and abrasives consumed in the weeks or months before death.
+The aim of the present study is to characterize the dental microwear in order to approach the past peoples dietary related to
+environmental context and cultural hierarchy. The second molar (M2) was chosen for analysis. The contaminants were previously removed from dental surface in a supersonic cleaner. After a gold coating procedure, three micrographs were taken upon
+the paracon/paraconid with a Tescan Vega II SBH scanning electronic microscope (SEM) at an acceleration voltage of 30 kV. On
+each digitized micrograph, micromorphological features such as small pits, large pits, fine scratches and coarse scratches were
+analysed through MicroWear R package. Our results reveal a significant high number of scratches compared to the number of
+pits (p<0.01) examined on the occlusal surfaces, in both males and females. The number of fine scratches is related with soft
+food, a high component of meat or processed food; although the scratches are predominantly, the presence of pits may induce
+a mixed dietary.

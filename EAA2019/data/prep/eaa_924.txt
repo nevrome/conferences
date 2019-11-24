@@ -1,0 +1,13 @@
+A NEW SPATIAL ANALYSIS SYSTEM AND 3D MICROSTRATIGRAPHIC VISUALISATION AT PORTA
+NOCERA (POMPEII): 3D NOT ONLY FOR THE SHOW
+Author(s): Fouriaux, François (École française de Rome)
+Presentation Format: Oral
+The excavation carried out in 2018 by W. Van Andringa, T. Creissen & H. Duday at Porta Nocera, Pompeii, brought to light a new funerary enclosure. During the excavation of this enclosure, a homogeneous layer was unearthed right below the eruptive deposit
+layers of 79 AD. This stratum revealed several traces of occupation linked to the funerary enclosure.
+The material collected in this stratum was heterogeneous and very fragmented. Besides, it presented a very particular distribution. Several concentrations of fragments belonging to the same objects (glass or ceramics) were lying against some steles.
+These steles were partially covered with different occupations layers but were still visible when the aforementioned objects
+were dropped off. A very fine excavation was realized while the position and form of every single fragment unearthed was methodically recorded in situ to supplement the multidisciplinary studies done by specialists. This work method allowed us to implement an innovative 3D spatial analysis of the objects and their fragmentation.
+The purpose of this communication is to present the work method we developed. This method, which relied on graph theory, spatial analysis and 3D visualization, enables us to address the history of the objects after their primary drop off and breaking. The
+specific use of 3D documentation, based on photogrammetric and topographical survey help us to lead a very accurate study of
+this deposit.
+Though the study of this funerary enclosure is still on-going, preliminary results already enable us to address the history of funerary enclosures’ frequenting considering microstratigraphy.

@@ -1,0 +1,16 @@
+THE MYCENAEAN AEGEAN: NEGOTIATING TOO MUCH AND TOO LITTLE DATA
+Author(s): Price, Henry (Imperial College London) - Gheorghiade, Paula (University of Toronto) - Evans, Tim - Rivers, Ray (Imperial College)
+Presentation Format: Oral
+Archaeological data is so voluminous that it looks to be the ‘big data’ of contemporary usage while, paradoxically, it is too sparse
+when addressing particular questions to be simply representative. In fact, rather than ‘big data’ we have ‘lots of stuff’, much not
+usefully catalogued or just too poorly understood to fully address the problems in hand. Nonetheless, often we need the details
+of very few artefacts to make it possible to progress our understanding of some aspects of the large-scale behaviour of societies and their networks of interactions.
+For example, despite the lack of systematic archaeological material, a recent attempt to model Phoenician Mediterranean interactions [1] makes use of little more than maritime geography to form the basis for comparison. This is an example of ‘theory
+modelling’ in which assumptions are made about the agency behind the formation of what, in practice, are exchange networks.
+It is challenging to find a middle ground between theory modelling like the above and detailed structuring of data (data modelling), from which agency is inferred rather than assumed. In this talk we discuss one approach using a 13,000+ ceramic data set
+from Late Bronze Age (LBA) Crete put together by one of us (PG) from published catalogues.
+This data is too much for generic theory modelling, but with only 1500+ ceramic entries identified as imports, also too little for
+true data modelling. Nonetheless, combining the data with geography, technology, assumptions about ceramic use and context,
+together with general network analysis provides a dynamic avenue through which to explore the role of key Cretan sites at this
+period.
+J. D. Bakker, S. Maurer, J-S Pischke and F. Rauch, “Of Mice and Merchants: Trade and Growth in the Iron Age,” The Centre For Economic Performance, Discussion Paper No. 1558, (July 2018): 1-56.

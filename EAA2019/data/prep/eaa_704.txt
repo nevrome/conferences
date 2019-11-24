@@ -1,0 +1,19 @@
+MASS FINDS FROM THE FORCED LABOUR CAMP TEMPELHOF, BERLIN: EXPLOITING NEW
+POSSIBILITIES OF INTERPRETATION USING A RELATIONAL DATABASE
+Author(s): Misterek, Kathrin - Stern, Judith (Freie Universtität Berlin)
+Presentation Format: Oral
+The access to large quantities of archaeological artefacts can often only be established using new methods of inventory.
+Although mass finds make up the majority of the objects recovered on modern excavations, they seem inaccessible for further
+examination due to their sheer volume and are therefore rarely included in studies. Their potential to provide useful information
+has been little researched so far. This applies in particular to excavations dealing with contexts from the 20th century, the finds
+from which pose new challenges to the excavators, not only because of their quantity but also because of their diversity.
+The project ”Excavation of the Forced Labour Camps on the Tempelhof Airfield, Berlin: Digital Corpus, Analysis and Reconstruction of Living Conditions” examines finds and structures from the Nazi period when thousands of people were forced to build
+aircraft for the German Luftwaffe. The artefacts consist of a modest number of unique objects and tens of thousands of mass
+finds, including nails, fragments of glass and porcelain.
+The aim of this talk is to present some solutions to the aforementioned challenges as applied within our project. The basis for our
+evaluation is a specially programmed relational database, which facilitates a systematic recording of finds according to defined
+categories and criteria. The excavation plan, information on excavated structures and other background data (such as images
+and text sources) are also available in the database.
+This combined approach opens up new possibilities of interpretation. At the same time, however, there is a risk that investigators
+will become alienated from their objects of investigation: The tens of thousands of finds are primarily accessible as digital datasets, while the physical objects can no longer be accessed, due to their large number or because they cannot all be kept within
+reach due to limited storage capacity.

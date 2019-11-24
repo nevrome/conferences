@@ -1,0 +1,12 @@
+ANALYSIS OF FUNERARY PRACTICE THROUGH INTERPRETATION OF FRACTURE PATTERNS ON
+CREMATED HUMAN REMAINS: A PILOT STUDY
+Author(s): Monetti, Lisa (UCL Institute of Archaeology)
+Presentation Format: Oral
+By reconstructing the practical and ritual acts of a funeral, a better understanding of how the living interacted with and treated
+the dead can be realised. Through the analysis of cremated bones from Roman Britain, this research attempts to develop an
+understanding of the funerary ritual of the time. Cremated human bone is an abundant resource in the archaeological record, and
+with the proper analysis, it can contribute to the understanding of all stages of the funeral process.
+The project identifies differential burning on the skeleton through a novel analysis of fragment size and shape using a method
+borrowed from potsherd analysis. Utilising the software ImageJ and a script adapted for cremated bone, the shape and size
+of burned bone fragments are measured from photographs. These data are recorded with information about the fragment and
+skeleton. Then, all measurements (area, circularity, maximum length, and solidity) of fragments are analysed by group (bone,

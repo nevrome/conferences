@@ -1,0 +1,6 @@
+the project ”Bestandesaufnahme Kulturgut” was started to transfer site-specific information of analogue archives to the digital
+database. Reviewed coordinates are displayed in a GIS-Service as point features along with polygons for sites with a spatial
+extent. For the operational management of archaeological sites the ultimate aim is to provide a platform that allows a quick
+assessment of the local situation when working on applications for planning permissions. Along the way, choices concerning the
+standards and the selection of sites had to be made constantly. In regard to the question of public access to this data, it will be
+essential to balance the gain of open data with the potential risks involved.

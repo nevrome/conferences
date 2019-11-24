@@ -1,0 +1,18 @@
+BATHING IN THE POMPEIAN LIGHT - INTEGRATING SFM TECHNOLOGY IN EXCAVATION AND STANDING
+REMAINS ASSESSMENT
+Author(s): Rummel, Christoph (RGK - Romano-Germanic Commission DAI) - Brünenberg, Clemens (Technische Universität
+Darmstadt)
+Presentation Format: Oral
+Since 2015, the Freie Universität Berlin has conducted a major research project under the direction of Prof. Monika Trümper
+within the TOPOI Excellence Cluster framework, investigating the development of Roman bathing culture at Pompeii. The work
+involved excavation and standing remains assessment at two key bathing complexes of the city, the Republican and Stabian
+Baths. During the fieldwork carried out from 2015-2018, structure from motion technology was used for several aspects of
+the project, from archaeological documentation in the trenches to detailed assessments of the impressive standing remains,
+particularly so for the Stabian Baths.
+Building on this experience, this paper seeks to address some key points of importance for the work with large SFM data sets
+that were encountered over the past years. In addition to addressing the themes highlighted by the session organisers, this will
+include a discussion of the development of standards for the creation and use of SFM models, with particular regard to accuracy,
+LOD (Level of Detail), Scientific Value, and georeferencing, among other aspects – although experience shows that demands
+vary from project to project. In addition, the paper will address the different needs (and possibilities) faced by the excavators and
+the standing remains assessors involved in the project and highlight the potential the technology offers for reconstruction of
+technical and engineering aspects of complex buildings such as Roman Baths.

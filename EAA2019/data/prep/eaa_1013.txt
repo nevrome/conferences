@@ -1,0 +1,21 @@
+GEOCHEMICAL CHARACTERISATION OF JADEITITE IN THE GREATER CARIBBEAN AND SOURCE
+DISCRIMINATION APPLYING MULTICLASS-REGRESSION ANALYSES: IMPLICATIONS FOR PRECOLONIAL
+INTER-ISLANDS EXCHANGE NETWORKS
+Author(s): Knaf, Alice (Geology and Geochemistry Research Cluster, Free University Amsterdam) - Habiba, Habiba (CSIRO’s
+Data61) - Koornneef, Janne (Geology and Geochemistry Research Cluster, Free University Amsterdam) - Harlow, George (Department of Earth and Planetary Sciences, American Museum of Natural History, New York) - García Casco, Antonio (Department of Mineralogy and Petrology, University of Granada) - Hertwig, Andreas (Earth, Planetary and Space Sciences, UCLA)
+- Schertl, Hans-Peter (Institute of Geology, Mineralogy and Geophysics, Ruhr-University Bochum) - Hofman, Corinne (Faculty
+of Archaeology, Leiden University) - Brandes, Ulrik (Chair of Social Networks, ETH Zurich) - Davies, Gareth (Geology and Geochemistry Research Cluster, Free University Amsterdam)
+Presentation Format: Oral
+Knaf, A.C.S., Habiba, H., Koornneef, J.M., Hertwig, A., Cárdenas Párraga, J., Harlow, G.E., García Casco, A., Schertl, H.-P., Maresch,
+W.V., Hofman, C.L. , Brandes, U. and Davies, G.R.
+Jadeitite was highly valued and used by pre-colonial Amerindian societies throughout the Greater Caribbean to produce daily
+and ceremonial objects. Regionally, jadeitite sources are only known in Guatemala, north and south of the Motagua Fault Zone
+(GM, NMFZ and SMFZ), eastern Cuba (CU) and the northern Dominican Republic (DR). Finds of exotic/non-local jadeitite artefacts
+establishes exchange and transport over vast distances and provides fundamental information about former trading and mobility networks between different Caribbean islands and the mainland. Despite general geological similarities among the jadeitite
+source rocks, different ages, protoliths, P-T conditions of jadeite formation and (re-)mobilization of different fluid compositions
+offer the potential to geochemically discriminate the sources.
+This paper provides a novel geochemical database of currently known Caribbean jadeitite and jadeite-omphacite-rich source
+rocks to determine local and regional variation. The geochemical data are subjected to a multiclass-regression analysis to establish quantitatively how effectively the provenance of archaeological Caribbean lithic artefacts can be determined. The first
+approach was to assess 3 jadeitite source regions (DR, CU, GM) based on trace element ratios and subsequently see if it was
+possible to resolve 4 (DR, CU, GM NMFZ, GM SMFZ). Here we present the results of the discrimination model. The successful
+analyses can be applied to artefacts of jadeititic composition of unknown provenance in the Greater Caribbean.

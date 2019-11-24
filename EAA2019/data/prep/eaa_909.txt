@@ -1,0 +1,9 @@
+Working with these techniques, we face an abundant amount of data not only to be analyzed but also to be stored. Do we need to
+archive all the raw data for future analyses or could we reduce the amount of bytes to store? How can a large quantity of data be
+handled for easy exchange between different researchers and different software-solutions? And how do we prevent information
+loss for future generations?
+In this session, we invite researchers working with 3D-scanning techniques to tackle these pressing questions and to share
+Open Source solutions for data sharing, further analysis and storage.
+The aim of the session is to discuss and to evaluate how to manage 3D-data in a meaningful way for scientific purposes and to
+find new ways to address the risks and challenges posed by digitalization.
+In short: Where are we, where are we going, and how do we want to design the handling of 3D-data in Archaeology?

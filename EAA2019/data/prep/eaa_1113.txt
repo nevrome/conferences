@@ -1,0 +1,25 @@
+FROM ELEMENT CONCENTRATION TO (PRE)HISTORY – PXRF AS TOOL FOR AN INTERPRETIVE ARCHAEOLOGY
+Theme: Digital archaeology, science and multidisciplinarity: new methods, new challenges
+Organisers: Stapfer, Regine (Institute of Archaeological Sciences, University of Bern; Archäologischer Dienst des Kantons
+Bern) - Brandl, Michael (Austrian Academy of Sciences, OREA-Institut, Raw Material Lab) - Hinz, Martin - Heitz, Caroline (Institute of Archaeological Sciences, University of Bern)
+Format: Regular session
+In addition to the established laboratory methods, pXRF has experienced a real boom in archaeology in recent years. Due to further development of instrument technology and miniaturisation of the devices, today it is possible to conduct analyses directly
+in situ in the field or in archaeological collections. On one hand, the fast and cost-effective measurements also allow the processing of large series of objects, which enables statistical evaluation. On the other hand, non-destructive pXRF analyses can
+also be used to sample outstanding and thus particularly meaningful cultural objects that need to be undamaged for the future.
+While pXRF is well established in some areas - e.g. for provenancing obsidian or volcanic rock as well as metallurgical analysis the method is less common regarding other artefact categories. While also considering the significant variation in the analytical
+performance of pXRF compared to highly sensitive laboratory methods for different materials, this session will specifically focus
+on the potential of analytical data obtained by this method to reconstruct the past.
+We invite speakers to present the applications of pXRF in archaeology, in particular for raw material analysis and provenancing,
+which are embedded in further considerations of manufacturing and socio-historical aspects.
+•
+What do different concentrations of elements mean with regard to the mobility of objects and people?
+•
+In which circumstances can we speak of “foreign objects”?
+•
+How can different raw materials be incorporated into stylistic differences that we can conceive archaeologically?
+•
+Which models of social and cultural anthropology are suitable to better understand the use of foreign raw materials?
+•
+Can general trends – e.g. of raw material preferences, “trade routes” etc. – be identified?
+With this session we aim to highlight the high potential of pXRF as an intrinsic archaeological research tool in the context of
+interpretative assessment and to open up new perspectives.

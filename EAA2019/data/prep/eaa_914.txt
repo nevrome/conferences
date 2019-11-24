@@ -1,0 +1,17 @@
+PEOPLE OF LEPENSKI VIR: SHARING AND CARING FOR THE 3D OSTEAOARCHAEOLOGICAL RECORD
+Author(s): Pendic, Jugoslav (Biosense Institute, University of Novi Sad) - Jovanovic, Jelena (Department of Archaeology, Laboratory for Bioarchaeology, University of Belgrade; Biosense Institute, University of Novi Sad) - Markovic, Jelena (Department
+of Archaeology, Laboratory for Bioarchaeology, University of Belgrade) - Stefanovic, Sofija (Biosense Institute, University of
+Novi Sad; Department of Archaeology, Laboratory for Bioarchaeology, University of Belgrade; Medical faculty, University of
+Novi Sad) - Stojanovic, Dragoslav (Department of Archaeology, Laboratory for Bioarchaeology, University of Belgrade)
+Presentation Format: Oral
+In the past years, means of acquisition of 3D information became all present - the requirements to successfully create an accurately reconstructed copy of an object in 3D dramatically plummeted and made the process broadly available to both professionals and enthusiasts alike. The IBM (Image Based Modelling) on it’s basic levels required only a camera and some overcast sky
+or studio light, to have your site, your trench or a newly uncovered artifact, preserved as accurately scaled digital copy, for as
+long as the storage units would hold the data. The more important question has been treated as of late - what to do with created
+models, and what value do they add to the research work, if any?
+Project ”People of Lepenski Vir: protocols for digitalization of bioarchaeological heritage” used number of techniques to capture
+and store 3D data of the osteoarchaeological record from Danubian gorge, dated to Mesolithic and Neolithic period. Laboratory
+for Bioarchaeology aimed to provide open access to the so created 3D models. In order to enrich the experience, basic functions
+of metric data collection, surface model visualizations, model section analysis were added; but more importantly a robust database structure was created and populated to provide for metadata for each scanned fragment of bone. This structure allowed
+for further expansion of the collection, to other sites and periods.
+In this paper, we present experiences gained, with special note on the benefits of having an open access to 3D collections of the
+archaeological material, for the purposes of education and information exchange.

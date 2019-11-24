@@ -1,0 +1,24 @@
+USING STANDARDISED SAMPLES AND CONTROLLED EXPERIMENTS TO EVALUATE THE ROLE OF RAW
+MATERIAL IN LITHIC EDGE DURABILITY AND EFFICIENCY
+Author(s): Pedergnana, Antonella (TraCEr, Laboratory for Traceology and Controlled Experiments at MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM) - Malinsky-Buller, Ariel (MONREPOS Archaeological
+Research Centre and Museum for Human Behavioural Evolution, RGZM) - Gneisinger, Walter (TraCEr, Laboratory for Traceology
+and Controlled Experiments at MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution,
+RGZM) - Marreiros, Joao (TraCEr, Laboratory for Traceology and Controlled Experiments at MONREPOS Archaeological Research Centre and Museum for Human Behavioural Evolution, RGZM; ICArEHB, Interdisciplinary Center for Archaeology and
+Evolution Human Behaviour, University of Algarve)
+Presentation Format: Poster
+The organisation of hunter-gatherer lithic technologies entails decision-making regarding the raw material selection, integration
+of strategies for producing, using, transporting, and discarding tools. Thus, lithic assemblages are the outcome of long chains
+of decision-making processes. A less studied perspective on those decision-making processes is the role that raw material
+performance had on the past blank selection for tool use. The goal of this project is to evaluate the efficiency of lithic cutting
+edges according to raw material. Much work has been done to understand which parameters influence the efficiency and durability of cutting edges (e.g., Collins, 2008; McPherron et al., 2014; Dogandžić et al., 2015; Eren and Lycett, 2015; Key and Lycett,
+2015). However, these studies were generally based on the use of knapped samples. In this way, edge morphology and surface
+topography diverge among samples.
+In this study, we aim to assess the role of raw material in edge durability and efficiency during use. The novelty of this work is the
+use of a mechanical setup which allows testing one variable at a time while the others are kept constant. In such a set-up, factors
+such as force, friction, number of strokes, and velocity can be measured and quantified.
+The first step of our experimental programme is to compare four fine and coarse-grained lithologies. Standardised samples
+(i.e. machine-cut) have been used to perform longitudinal unidirectional movements (in a whittling motion) on selected wooden
+specimens.
+A 3D High-resolution scanner and a 3D digital microscope have been used to document the loss of material as well as changes in
+edge measurements and outline before use and after different stages of use (250, 500 and 1000 strokes).
+Our observations on the analysed sample allowed us to evaluate the influence of the different properties of different raw materials on edge fracturing modes.

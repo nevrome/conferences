@@ -1,0 +1,10 @@
+MAKING ARCHAEOLOGICAL DATA FAIR
+Author(s): Richards, Julian (Archaeology Data Service, University of York)
+Presentation Format: Oral
+My contribution will discuss recent developments in European e-infrastructures for research, including ARIADNEplus, E-RIHS
+(European Research Infrastructure for Heritage Science) and SSHOC (Social Sciences and Humanities Open Cloud). These initiatives are helping foster an Open Access approach to data, and a FAIR approach to data management, but it is important that archaeologists engaged with these organisations, so that the importance of our research is reflected in wider European agendas.
+The Archaeology Data Service (ADS) is playing a part in each, and I will briefly introduce our contribution and seek feedback on
+the best ways for archaeologists to engage with them. For ARIADNEplus I will introduce the task forces charged with surveying,
+collecting, creating and managing multilingual domain thesauri and vocabularies which are essential for data integration within
+the ARIADNE e-infrastructure. These cover fields as diverse as human palaeo-biology and paleo-environments, analytical investigations, archaeological prospection, standing structures, fieldwork, metal-detector surveys, and archaeological finds and
+inscriptions.

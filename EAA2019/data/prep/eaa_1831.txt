@@ -1,0 +1,14 @@
+DUSTING OFF ANCIENT ANTHROPOMETRIC DATA BANKS: INTEGRATION OF THE MAINZ ARCHIVE AND
+GENEVA ADAM WITHIN THE LIVES COSTA ONLINE DATABASE
+Author(s): Ebert, Julia - Rosenstock, Eva (Institute of Prehistoric Archaeology, Freie Universität Berlin)
+Presentation Format: Oral
+The research project LiVES (living conditions and biological standard of living in prehistoric Europe and South West Asia) focuses
+on human stature as a possible reflection of general living conditions, health and diet in prehistory. While during the first few
+years the project maintained its own original database compiled from literature, datasets from two already existing, slightly
+antiquated data collections were later acquired and converted in order to obtain a sufficient amount of data relating to prehistoric body heights: the Mainzer Lochkartenarchiv für prähistorische und historische Anthropologie (Mainz punch card archive
+for prehistoric and historic anthropology) and the Geneva-based Anthropological Data Acquisition and Management (ADAM). All
+three collections were integrated within a new and updated online database LiVES-COSTA (LiVES Collection of Osteological Anthropometry) which, aside from our own purposes, is intended for future use by academic institutions and individual researchers
+around the world. With checked and published data from 6449 skeletal individuals dating up to 600 cal BC, and a total of 18.127
+unchecked, unpublished skeletal entries mostly dating to later periods, it is currently the largest digital collection of prehistoric
+and historic long bone and stature data from Europe and Southwest Asia. In this talk we will give a detailed report on the data
+acquisition and integration process and describe the structure, as well as the state of the database and address questions regarding lasting data accessibility, correct crediting of data producers and compilers and ethical issues with modern data.

@@ -1,0 +1,15 @@
+LINKING THE ARTEFACTS OF THE FUTURE: HERITAGE LINKED DATA
+Author(s): May, Keith (Historic England; University of South Wales - Visiting Research Fellow)
+Presentation Format: Oral
+Considerable advances have been made through research in exploring ways to develop greater semantic interoperability between existing or newly developed archaeological datasets. In the academic and research domains, where free information exchange and interoperability are more readily adopted principles, the use of semantically enabled data and tools for its creation,
+such as Natural Language Processing (NLP), has been growing. New approaches to Heritage Data Analytics are also emerging
+which pose questions about the application of machine learning algorithms to historical and archaeological texts and related
+data resources, and how the outputs of such work can best be sustained.
+With this in mind it will be important for heritage organisations to consider how existing data and digital resources could be kept
+up to date with such developments, and plan for new data to be recorded and stored in ways that best enable this form of interoperability, so that the digital information remains re-useable by, and relevant to, others into posterity. Research as a result of
+this, while including new aspects of information management, may go further and open archaeological data up for new areas of
+cross-domain and interdisciplinary research and data science, including the ability to search and data-mine semantically related
+information resources that have not been previously interoperable e.g. much greater potential to access and synthesise the
+information held in, or related by, online archaeological reports produced by many different projects and organisations.
+Heritage vocabularies are at the core of many of the recent advances in the interoperability of archaeological information. This
+paper will give a brief overview of work undertaken in these areas and consider the opportunities and challenges when transforming archaeological vocabularies into Linked Open Data such as those seen at http://www.heritagedata.org

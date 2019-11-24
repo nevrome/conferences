@@ -1,0 +1,15 @@
+MIXED METHODS? MAKING CERAMIC COLLECTIONS AVAILABLE IN A DIGITAL AGE
+Author(s): Regner, Elisabet (National Historical Museums)
+Presentation Format: Oral
+Mixed methods research can be defined as research which combines qualitative and quantitative data to answer a given research question. Within archaeology, most research happily contains both types of data. However, digitization and the availability of more data and new types of data poses its own challenges in this type of research, and perhaps the mixed nature of
+archaeological data itself constitutes a challenge for digitization as well.
+The archaeological collections of the National historical museums in Stockholm span most time periods from the stone age up to
+the 19th century and have been collected from the late 17th century onwards. Today, modern rescue archaeology provides the
+single most important mode of collection development as large amounts of archaeological finds are accessioned to the museum
+every year. Ceramics not only form a large part of the finds in our stores, but it is often a key finds category for both chronology
+and social interpretation.
+In a digital age, our aim is to make these collections including ceramics available for research not just through visits to our stores
+but also through digitization. Retrospective documentation and digitization of the collections forms a large part of our collections management. We also provide as much contextual and other information from the excavation as possible. We make this
+information available online, open access.
+But is this enough? Field collection practices can vary greatly from one excavation to another making quantitative analysis difficult. Consistently applied terminology from field collection to museum database remains a challenge. In this paper, I will address
+some of our experiences in making large quantities of data on ceramics available for research, and outline some of the challenges moving forward towards innovative, data-driven mixed method research based on archaeological ceramics.

@@ -1,0 +1,21 @@
+IN SEARCH OF INVISIBLE BURIAL MOUNDS ON THE LANDS OF NORTH-EASTERN RUS’
+Author(s): Krasnikova, Anna (State Historical Museum) - Erokhin, Sergey (Institute of Archaeology, Russian Academy of
+Sciences) - Medvedev, Andrey (Institute of Geography, Russian Academy of Sciences) - Makarov, Nikolay (Institute of Archaeology, Russian Academy of Sciences) - Modin, Igor (Moscow State University) - Shorkunov, Ilia (Institute of Geography, Russian
+Academy of Sciences) - Pelevin, Andrey (Moscow State University) - Ugulava, Nani - Milovanov, Sergey (Institute of Archaeology, Russian Academy of Sciences)
+Presentation Format: Oral
+Suzdal Opolie, the central region of North-Eastern Rus’, is known as the territory where barrow cemeteries were widespread in
+the Viking and Post-Viking period. However, recent field investigations and evaluation of the maps of medieval necropolises and
+settlements have shown that the number of mounds is much smaller than the estimated population that could master this
+space. Can we explain this disproportion by the fact that significant part of the necropolises were destroyed by long-term plowing and other anthropogenic interventions or remained undetected? Our task was to identify remains of leveled barrows, invisible
+on the present surface at one of the strongly destroyed necropolises.
+Several approaches were tested for the identification and mapping the necropolis’s structure: areal drone imaging, geophysical techniques and traditional archaeological methods. It turned out, that implied separately these methods are not effective
+enough for the search of the structures. The reason is in the variety of natural conditions and anthropogenic processes masking
+archaeological features, large volume and low speed of archaeological works. Therefore, the task is generally in the delimitation
+(automatic or not) of the results of all those processes.
+Two principles were developed to make investigations productive. The first is collecting maximum types of measurement data
+possible within each survey level, regardless of their direct connection to archaeology. In remote sensing it is a multi-temporal
+and thermal imaging, in geophysics-electrical and magnetic surveys. The set of different type data reflecting the target as well
+as the masking structures makes the classification task much likely to be solved. In some areas the non-destructive surveys
+results enabled to perform some archaeological spatial analysis tasks. The second principle is integration of excavation and
+soil-survey results as training dataset for the interpretation other methods. The efficiency of this integration has substantive
+influence on data interpretation.

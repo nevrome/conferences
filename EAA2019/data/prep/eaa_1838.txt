@@ -1,0 +1,10 @@
+DEVELOPMENT OF A UNIFIED DATABASE OF ANCIENT POTTERY FRAGMENTS
+Author(s): Makino, Kumi (Kamakura Women’s University)
+Presentation Format: Poster
+This study focuses on the elaboration of a unified database for pottery sherds found in archaeological sites in Palestine. The
+author originated the basic concept for use with the Hellenistic materials discovered at the ancient site of Ein Gev on the eastern shore of the Sea of Galilee in Israel, then revised it recently to detail the typology of lids in the Hellenistic and Roman periods
+(Makino 2015, 2017, 2018).
+Known as POTSH1, this is a relational database holding images of the pottery fragments as well as verbal information. A user
+can compare sherds without having to go through cumbersome excavation reports from the various digs. Side-by-side images
+of pottery fragments along with the relevant data from several sites lead to new insights towards the interpretation of the fragments.
+The author’s recent studies on lids are good examples of the validity of this database. Lids are among the most frequent finds;

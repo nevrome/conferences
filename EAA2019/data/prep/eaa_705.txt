@@ -1,0 +1,17 @@
+IMAGE AND OBJECT RECOGNITION AS A BASIS OF DIGITAL CORPUS FORMATION
+Author(s): Langner, Martin - Zeckey, Alexander (Georg-August-Universität Göttingen)
+Presentation Format: Oral
+The goal of these two case-studies is not only to develop procedures for automatically generating corpora using image and 3D
+pattern recognition, but also to reflect on the associated schematisations and how they can be applied in computer science and
+visual sciences.
+Based on 200 terracottas of the late 4th and 3rd centuries BC, which are quite similar to each other, a classification system
+will be elaborated with digital methods, which is able to meet the complexity of the artefacts. For this purpose, methods of
+object-mining in 3D data are to be developed, which support the search for a suitable classification and categorisation of the
+images. The same holds true for a corpus of 80,000 Athenian Vase-Paintings, which are examined in relation to composition and
+content. A newly set up project is also trying to automatically attribute a vase to a certain painter.
+In close cooperation between computer science and archaeology, these experimental processes thus lead to a fundamental
+examination of the concept of pattern recognition as a humanities category.
+For the question of the relevance of the similarity networks for concrete relationships between the figurines or vases, the use
+of computers can also provide impulses because it is possible to describe the type and degree of similarity in a comprehensible way. A further goal is to test digital image classification methods by fundamentally investigating the relationship between
+archaeological hermeneutics, intuitive connoisseurship and data-based objectification of cognition in a central and intensively
+researched area of Classical Archaeology.

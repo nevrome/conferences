@@ -1,0 +1,20 @@
+WHY WE NEED A SPATIAL DATA INFRASTRUCTURE FOR ARCHAEOLOGY
+Author(s): McKeague, Peter (HES Historic Environment Scotland)
+Presentation Format: Oral
+Through the INSPIRE Directive (2007) public organisations across Europe are required to share environmentally-related spatial
+datasets to support decision making and management of the environment. As a result heritage agencies responsible for the
+designation and management of Protected Sites across Europe have released Web Map and Web Feature Services through the
+INSPIRE Geoportal.
+However there is no requirement to collate, manage or share spatial data created through fieldwork. As a result there is often
+little or no consistency across data created from separate fieldwork projects and the data is not easily accessible or reusable
+beyond the lifespan of the project. At best the data, often only the project report, may be deposited as part of a project archive.
+However, too often the spatial data – site locations, geophysical survey grids, excavation trenches etc - is fossilised in the pages
+of the report severely constraining the ability to reuse and combine data from different projects. There is often little consistency
+in both the data structure attribution from different projects, hindering efficient reuse. For more specialist data, such as remote
+sensing datasets, the technical metadata required to assess the data quality is incomplete or in pdf format. Data rights may also
+inhibit reuse. Can the data be reused without infringing the Intellectual Property Rights and copyright of the depositor or third
+party data (such as background mapping). There are also questions of who should collate, manage and publish spatial datasets,
+functions outside the remit of traditional archives.
+This paper will explore the challenges and opportunities presented by spatial data from archaeological projects. In proposing that
+we need to think beyond individual projects to make efficient use of the spatial data we create, we need to consider the potential
+value to be gained and benefits from managing spatial data more effectively.

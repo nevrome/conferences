@@ -1,0 +1,8 @@
+Astronomical data in ancient Egypt and Mesopotamia were mainly documented for religious purposes in the 2nd millennium
+BCE. Thus, the data have to be extracted from texts and interpreted – different views about their nature (observed, calculated
+or predicted) and their interpretation are the most common source of disagreement between different scholars that may lead
+to diverging chronological solutions. Another point of concern is the fact that calculations of astronomical events far in the past
+are subject to uncertainties (e.g. the slowing down of Earth’s rate of rotation). Additionally, since most documented ancient
+astronomical data are concerned with events occurring close to the horizon, they are especially susceptible to the prevailing
+seeing conditions. Dust in the air, fog and slight cloud coverage can easily prevent a successful sighting of a first lunar crescent
+or a heliacal rising of a star or a planet. The influence of all these factors and possible ways to deal with them will be presented.

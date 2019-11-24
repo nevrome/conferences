@@ -1,0 +1,12 @@
+3D LASER SCANNING CONTRIBUTIONS TOWARD UNDERSTANDING AND PRESERVING MEDIEVAL
+TUNNELS OF THE FRENCH MASSIF CENTRAL
+Author(s): Surmely, Fred (DRAC ARA) - Chalin, Jean-Baptiste (Association Terre Ancienne)
+Presentation Format: Poster
+The estimated number of medieval tunnels in France is in the tens of thousands. Nearly 500 have been recorded in the Auvergne
+region. Traditional surveys were carried out using measuring tapes, topography lasers, compasses, and clinometers. Using modern topographical instruments such as theodolites or GPS, is impossible because of the tight spaces in the tunnels and lack
+of satellite access. Therefore, we tried a new measuring instrument, a 3D laser scanner. Its capacity to render high precision
+surveys by associating stations and combining inside and outside measurements allows for connecting these subterranean
+structures with their external environments. The small size of the 3D laser scanner is ideal in confined spaces. Our work in the
+Auvergne represents a pioneering experiment. Two tunnels of the south Cantal (Mourjou and Montvert) were our experimental
+sites. By crossing internal and external scans, a tunnel can be positioned in reference to the surface offering useful data which
+aids in the preservation and understanding of these widely known but poorly researched underground structures.

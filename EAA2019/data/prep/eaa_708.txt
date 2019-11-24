@@ -1,0 +1,11 @@
+FOSTERING FAIR AND OPEN DATA IN SOUTH AMERICAN ARCHAEOLOGY. THE ARGENTINEAN CASE
+Author(s): Izeta, Andres - Cattaneo, Roxana (CONICET)
+Presentation Format: Oral
+Since 2010 various initiatives have been carried out in Argentina in order to establish the bases of repositories dedicated to
+preserving and sharing data of scientific interest. Archaeology as a scientific discipline has been represented in those spaces
+by the Digital Archeology Program, which in 2015 established the first thematic repository dedicated to archaeological data.
+Following the ADS model, databases, images, publications, cartography and grey literature are managed, preserved and hosted among other types of digital objects. Three years after this milestone, the Digital Archeology Program (which is partner of
+Ariadne Plus) together with the Williams Foundation and CONICET (Argentina’s National Research Council) have begun to work
+on a program aimed at generating interest in the subject of repositories by offering the possibility of generating new spaces or
+include new information in those already available. This task, based in the notions of open acces, open science and data FAIRness, has just begun but it appears as promising and has undoubtedly changed at the national level the way of seeing, using and
+preserving archaeological data.

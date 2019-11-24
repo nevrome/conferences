@@ -1,0 +1,15 @@
+DID THE ANCIENT EGYPTIANS INDEED RECOGNIZE THE VARIABILITY OF ALGOL (β PERSEI) ?
+Author(s): Krauss, Rolf (Humboldt-University Berlin)
+Presentation Format: Oral
+Jetsu, Porceddu et al. published between 2008 and 2016 a series of articles in prestigious journals (Cambridge Archaeological
+Journal 2008; The Astrophysical Journal 2013; Plos One 2015; Open astronomy 2018) arguing that the ancient Egyptians noticed the variability of Algol. The document on which they base their study is a kind of almanac from the 13th cen. BC with prognoses for a lucky or unlucky course of events during an Egyptian civil year, each day divided into three parts with its own prognosis.
+The authors expressed the sequence of prognoses as a series of time points and checked with the Rayleigh test whether the
+points are randomly distributed or show periodicity. They found a period which is apparently lunar, but also a period of 2.85 days
+which they explain as corresponding to the period of Algol’s change in brightness.
+Any reference to Algol would create a serious Egyptological problem. Very few stars which are mentioned in ancient Egyptian
+sources are identifiable and Algol is not one of them. Considering that the variability of Algol was first recognized in 1669 it would
+be somewhere between beyond belief and marvellous should the ancient Egyptians had monitored Algol’s variability closely and
+furthermore used the results as basis for prognostication of good or bad luck in every day life. Under these circumstances one
+may ask whether there is a flaw in the argument of Jetsu et al. Assuming that the Rayleigh test has been employed faultlessly,
+the question is whether the basic data – i.e. the expression of the series of prognoses as series of time points – is error free. This
+question is the subject of the suggested paper.

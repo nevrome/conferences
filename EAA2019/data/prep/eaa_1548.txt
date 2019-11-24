@@ -1,0 +1,15 @@
+ANALYSING NETWORKS TO STUDY CULTURAL TRANSMISSION PROCESSES FROM THE UPPER
+MAGDALENIAN TO THE LATE MESOLITHIC IN IBERIA
+Author(s): Cucart-Mora, Carolina - Gómez Puche, Magdalena - Romano, Valeria - Lozano, Sergi - Fernández López de Pablo,
+Javier (Institut Català de Paleoecologia Humana y Evolució Social - IPHES; Universitat Rovira i Virgili)
+Presentation Format: Oral
+Social networks are a well-established concept in Palaeolithic Archaeology to interpret different degrees of regional and interregional interactions among hunter-gatherer populations. However, the heuristic power of the networks approach has been traditionally biased towards its social dimension, empirically grounded in the reconstruction of exchange systems using ornaments
+and lithic raw materials. Much less attention has been paid to the use of networks approaches to study diachronic patterns
+of cultural transmission and their demographic context. In this contribution, we present aspects of a long-term research programme in the context of the PALEODEM project (ERC-CoG-2015 Ref. 683018), aimed to study cultural transmission processes
+from the Upper Magdalenian to the Late Mesolithic in Iberia using formal network approaches and computational methods. In
+particular, the work presented here is concerned with the construction of a new georeferenced database of archaeological sites
+and cultural attributes which will be used to build spatio-temporal networks. Three categories of artefacts-ornaments, bone and
+antler projectiles (harpoons, points and sagaies) and lithic projectiles- have been systematically recorded using bibliographic
+sources. The final database compiles the archaeological record from more than 300 Iberian sites.
+By constructing and analyzing spatial networks from these robust empirical data, we aim to contribute to the research topic of
+the spatial organization of hunter-gatherer groups into regional social networks and its influence on cultural change.

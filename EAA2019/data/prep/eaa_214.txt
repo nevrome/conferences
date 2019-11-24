@@ -1,0 +1,19 @@
+PROCESSES OF BECOMING NEOLITHIC: A MULTI-SCALAR APPROACH USING GIS AND
+MICROMORPHOLOGY TO UNDERSTAND EARLY BUILT ENVIRONMENTS
+Author(s): Guaggenti, Alessandro (University of Reading)
+Presentation Format: Oral
+Research on the transition to more sedentary forms of living in south-west Asia has increasingly identified the complexities
+and multiplicities of human experiences in ‘becoming Neolithic’. These experiences were contingent on numerous factors, at
+multiple spatial and temporal scales.
+Although the suite of benchmarks which we have used to measure this transition are themselves rather fluid, the move to increasing ways of sedentary living has been a defining feature of studying the Neolithic. The built environment, therefore, provides us with key foundations on which to study this critical time in human history.
+However, the view at which archaeologists have examined this has often been rather two dimensional. There is a need to look
+at this subject from a more three dimensional perspective. This research will create a more holistic perspective in which to examine human interaction and movement, and how these endow and acquire meaning to spaces. These spaces, environments
+and landscapes are mutable, and influence human decision making. Furthermore, such environments are continually undergoing
+processes of being made and re-made by people.
+It has become evident that more integrated, multi-scalar and interdisciplinary approaches are required to unpack the wealth of
+information related to different datasets of the archaeological record. Furthermore, an approach such as this will allow scholars
+to compare and integrate past projects with more recent data.
+This contribution presents preliminary results of PhD research undertaken in the Central Zagros Region, as part of the ERC MENTICA project. This work aims in particular to address the issues outlined above by incorporating micromorphology with multiple
+approaches in spatial analysis at the meso- and macro-scale, alongside examination of vernacular architecture and sustainable
+communities. In doing this, a wide range of data can be incorporated, organised and critically analysed in GIS, to piece together
+the complex lifeways of Neolithic communities.

@@ -1,0 +1,16 @@
+SETTLEMENT PATTERN AND LAND USE UNDER THE FRANKISH FEUDAL SYSTEM IN NW
+PELOPONNESE, GREECE (13TH-MID 15TH C.)
+Author(s): Simoni, Eleni (University of Patras) - Papagiannopoulos, Konstantinos (Institute of Local History) - Kontolaimos,
+Panagiotis (Independent Researcher)
+Presentation Format: Oral
+Following the conquest of Constantinople during the 4rth crusade in 1204, Latin hegemony was established in major parts of the
+dissolved Byzantine Empire. The principality of Achaea was one of the Frankish states that was founded in this period. It engulfed
+the Peloponnesian peninsula, in southern Greece, and it was divided into twelve secular baronies, which were subdivided in fiefs,
+run by knights. A strict hierarchy consisting of the prince, the barons, and the fief-knights enabled a feudal system quickly to
+develop and be imposed on the locals.
+The erection of a castle as central landmark of each fief is known from literary sources and archaeological research. Beyond the
+castles lay series of villages and small rural sites, strongly connected to the activities of the fiefs and often relocated, in order to
+better serve the new masters. Nowadays, one comes across evidence that ranges from standing structures to scattered debris
+and pottery in the fields. Literary sources offer additional information about sites that haven’t been discovered yet.
+Fieldwork which has taken place in northwestern Peloponnese, within the confines of the barony of Patras, has focused on identifying the implementation of the feudal system at the scale of a fief. Data are drawn from surface survey, and from historical
+records such as Frankish estate documents, the Chronicle of the Morea, and Ottoman tax registers. Spatial analysis in GIS is

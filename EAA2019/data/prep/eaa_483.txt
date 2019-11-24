@@ -1,0 +1,18 @@
+SHARING GEO-SPATIAL CULTURAL HERITAGE LANDSCAPE DATA IN IRELAND: THE OPEN TOPOGRAPHIC
+DATA VIEWER
+Author(s): Corns, Anthony (The Discovery Programme/CHERISH) - John, Gareth (Department of Culture, Heritage and Gaeltach’s National Parks and Wildlife Service - NPWS) - Keane, Margaret (Department of Culture, Heritage and Gaeltacht’s National Monuments Service - NMS) - Shaw, Robert (The Discovery Programme/CHERISH) - Verbruggen, Koen - Lee, Monica - Carey,
+Shane (Geological Survey of Ireland - GSI) - Stanley, Michael - Swan, Ronan (Transport Infrastructure Ireland - TII)
+Presentation Format: Oral
+Remote sensing data such as geophysics, satellite and Lidar data has revolutionized the prospection, management and visualization of archaeological monuments and landscapes. However this data is expensive and sometime difficult to acquire. Often different organisations sometimes duplicating data collection, which has already occurred in some locations within Ireland.
+Organisations will also generally commission data collection campaigns over focused areas for a specific project aims whilst
+secondary reuse of the data is often not considered in the original specification.
+Over the past 10 years, efforts to improve the sharing and reuse of geo-spatial data within the archaeological and cultural heritage community within Ireland have been developed in order to make best use out of this data. One such initiative is The Open
+Topographic Data Viewer project: a collaboration between Geological Survey Ireland (GSI), the Department of Culture, Heritage
+and Gaeltacht’s National Monuments Service (NMS) and National Parks and Wildlife Service (NPWS), Transport Infrastructure
+Ireland (TII) and The Discovery Programme: Centre for Archaeology and Innovation Ireland within the remit of the Heritage Council.
+The aim of this viewer is to host Lidar from all interested government and non-government organisations and to build up a mosaic
+of available data across the country. This high quality topographic data has many applications beyond the original capture focus,
+and making them freely available will definitely stimulate new research and improve existing products and techniques.
+This paper will explore how this initiative was established, what has been achieved with the roll out of the Open Topographic Data
+Viewer within the archaeology community and explores effort in making additional remote sensing data sets available through
+initiatives such as ARIADNEPlus, Europeana, CHERISH and E-RIHS.

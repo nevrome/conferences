@@ -1,0 +1,15 @@
+BRING OUT YOUR DEAD: THE TRIALS AND TRIBULATIONS OF USING COMPUTER VISION TO STUDY THE
+HUMAN REMAINS TRADE
+Author(s): Huffer, Damien (Stockholm University) - Graham, Shawn (Carleton University)
+Presentation Format: Oral
+Computer vision applications are being rolled out into general society with little oversight and broad ethical concerns. We discuss what we see as some of the immediate ethical dimensions to the use of computer vision as a means to map cultural heritage/property trafficking networks and investigate cases, specifically within the confines of our ‘Bone Trade’ project (https://
+bonetrade.github.io/). This project seeks to understand and map the trade in licit and illicit human remains, a trade that sits within
+an ethical and legal gray zone as a wide variety of archaeological, historic, ethnographic and anatomical human remains are transformed from cultural or medical heritage into commodities. We address the ethical and moral dilemmas that can confound the
+use of neural network approaches to computer vision to classify and sort thousands of images, in this case ‘scraped’ from public,
+anonymized social media accounts and e-commerce platforms on which human remains are bought and sold. The categories
+used to ‘train’ the machine are self-determined by the researchers and so naturally replicate human bias ab initio. How do these
+neural network approaches break to create false positives or false negatives when attempting to classify photographs taken
+from social media sales records as either old authentic items or recent forgeries made using remains sourced from unknown
+locations? What potential do they have to be exploited by dealers or forgers as a way to ‘authenticate the market’? We generate
+‘new’ images of human remains based on what the neural networks ‘learn’ to get a sense of what attracts the attention of the
+neural network as a way to explore these issues.

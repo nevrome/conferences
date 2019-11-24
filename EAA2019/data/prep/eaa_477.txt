@@ -1,0 +1,13 @@
+TRAVERSING MOUNTAINS, VALLEYS AND ARCHIVES - A DIGITAL INVENTORY OF THE
+ARCHAEOLOGICAL RECORD OF THE CANTON GRISONS, SWITZERLAND
+Author(s): Mohr, Franziska - Sele, Raphael - Flück, Hannes (Archäologischer Dienst Graubünden)
+Presentation Format: Oral
+The Amersfoort Agenda encourages actors in archaeology from all over Europe to start sharing archaeological information. Yet
+to be able to share any data with new technologies, this data needs to exist digitally. For this critical first step, a case study is
+presented that discusses an approach enabling digital access to the archaeological data of the canton Grisons, Switzerland.
+The archaeological service of Grisons has recently started to use digital documentation techniques on excavations. Thus, from
+the past couple of years there is a rich collection of spatial information that is joinable to an existing archaeological database.
+However, most records of the archaeological work – starting at the end of the 19th century – only exist in analogue form. To
+optimize planning processes and to stimulate research questions, it is crucial to allow digital access to basic information of all
+known 3500 archaeological sites - spanning from Palaeolithic stone tools to defence structures of the First World War. In order
+to create a digital inventory, it was necessary to define standards for archaeological as well as spatial data. Based upon these,

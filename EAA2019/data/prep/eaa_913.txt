@@ -1,0 +1,11 @@
+resolution, without geometrical distortions, including its third dimension and without the influence of a subjective factor. Also,
+work with the rock drawings in the field could be non-invasive and less time-consumed, and the results of the laboratory work
+would become reproducible on the basis of primary photographic materials. Having a three-dimensional model, it is possible to
+create a side-illumination of a drawing with program methods, programmatically measure the parameters of an object, including
+the depth of the mark, etc.
+To represent three-dimensional models, a specialized information system in the web was developed with 3d-viewer based on
+the open source three.js library. Using such a self-written software product, it is possible to make a flexible adjustment of the
+functionality and design of the information system, including the implementation of an individual role-based data access model,
+tools for analyzing archaeological images in 3D form, etc. At the core of the data storage model there is modern and one of the
+most lightweight 3D formats – Draco from Google Open Source.
+This work was supported by the Russian Science Foundation (project 18-78-10079).

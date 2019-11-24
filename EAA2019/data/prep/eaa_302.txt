@@ -1,0 +1,20 @@
+PROFESSIONALS OF CULTURAL HERITAGE: RECENT UPDATE IN ITALIAN LAW SYSTEM AND FUTURE
+PERSPECTIVES FOR ARCHAEOLOGISTS
+Author(s): Taloni, Maria - Venditti, Caterina Paola (Ministry of Cultural Heritage and Activities)
+Presentation Format: Oral
+The reorganization of the Ministry of Cultural Heritage created the General Direction for Education and Research.
+The law decree gives to it, along with other competences, the redaction and the updating of national lists of qualified professionals expected by Code of Cultural Heritage and Landscape (art. 9bis). The law article was introduced by our first law (L. 110/2014)
+regarding professionals of cultural heritage: archaeologists, archivists, librarians, demo-ethno-anthropologists, anthropologists, restorers, diagnosticians, art historians.
+The connected law decree is going to be approved, according with the Ministry of Education, University and Research and in respect with the Directive 2013/55/UE. However the national lists that will be published are not professional registers and signing
+up is not compulsory for working. Such a change leads a complex situation without precedents in the Italian law where ordinistic
+professions, regulated and not regulated professions coexist. The role of professional associations, as for the law approval, is
+fundamental.
+The Ministry is booting the preliminary phase for creating the national lists that regards also the IT management, developing
+an high level software architecture. The aim is to organize an hub for Ministry, companies and professionals with an advanced
+searching tool for each professional category and specific queries that give differentiate information depending on the associated metadata. It will be much more than a repository for lists thanks to its interoperable section infrastructure with multiple
+access points and multilayers architecture.
+Professionals will have a reserved area for customizing their profiles with contact details, scientific interest topics, chosen
+working areas and cv.
+In addition, the users’ submitted data will connected to shape a national scale professionals “map”, possibly managed by a GIS.
+Indeed the ongoing system could be an interesting example in Europe to tackle common problems for qualified professionals of
+cultural heritage, among which archaeologists are a considerable part.

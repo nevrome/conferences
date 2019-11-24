@@ -1,0 +1,16 @@
+ARCHIVING THE THIRD DIMENSION: PRODUCTION, USAGE AND MAINTENANCE OF STRUCTURE FROM
+MOTION MODELS IN CULTURAL HERITAGE MANAGEMENT
+Author(s): Kruse, Kristin - Schoenenberger, Esther (Canton of Zurich, Archaeology and Cultural Heritage)
+Presentation Format: Oral
+In 2017 the office for cultural heritage management of the Canton of Zurich has defined 3D-documentation with structure from
+motion (SfM) in Agisoft Photoscan as a new standard. The past two years have shown the advantages of the method, especially
+when documenting complex 3D structures, like skeletons or ruins, on site. The technology is also used for the capturing of whole
+sites by drone. The resulting orthophotos serve as background for mapping in ArcGis.
+While generating 3D-models was a path well paved, the storage of 3D-models needed some exploration. The first challenge
+was to include the SfM-data into the current old-fashioned archive system and IT-infrastructure. The second challenge was to
+secure an easy access for everyone and long-term storage at the same time. The current solution treats access and storage as
+two separate matters. In order to view the content without limitations, each model will be available as a stand-alone application
+(e.g. 3D-PDF, Potree-Model). As for the long-term storage, the same models are maintained in a normalised geometry file (e.g.
+STL/OBJ-file). Long-term standards for 3D-data have yet to be established. Therefore, a backup-system was added by keeping
+the raw-data (photos) along with the processing report for replication purposes. Our solution comes with a lot of redundancy.
+However, this is still a trial and error approach, one that we would like to discuss with fellow 3D-enthusiasts.

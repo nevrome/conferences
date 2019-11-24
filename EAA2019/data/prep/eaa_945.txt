@@ -1,0 +1,6 @@
+ported by the grant 2018/29/B/HS3/01201 from the National Science Centre of Poland aims at the introduction of a parameter
+‘informational capacity’ into simulations. More specifically, the following issues are addressed. Can the information capacity be
+weighted or should it be involved into modelling as some unknown? How the informational capacity corresponds to systems of
+memory in prehistory? What social, economic and spatio-demographic parameters influence the increase or decrease in the
+informational capacity? The related tests make possible to link the culture theory and complexity theory, allowing the application
+of well-known models from the latter to archaeological data and re-framing the basic concepts of our discipline.

@@ -1,0 +1,15 @@
+DECODING OF FUNCTION - A CRITICAL GEOSPATIAL APPROACH
+Author(s): Girotto, Chiara (Goethe University Frankfurt)
+Presentation Format: Oral
+The function and meaning of places are cognitive features of society, subjective, and often symbolic. However, in the absence
+of written sources research is based on traces acquired through material remains, settlement patterns, the environment, and
+human remains. Following Simmel, ideas of dominance in prehistory are spatially often connected to elevated locations and a
+theoretical framework of society and it’s indicators of economic and political power.
+This chosen set of interest factors encodes perceptions on the meaning of features but also the intrinsic assumption of the
+applied algorithm to a seemingly objective spatial analysis. Moreover, most archaeological research focuses on homogeneous
+estimators, parametric functions, and non Bayesian probability approaches. Execution and Validation of explanatory analysis is
+as scarce as the application of non-parametric, inhomogeneous point processes.
+This theoretical paper aims to challenge the traditional use of geostatistics in archaeology by exemplifying on the inability to reconstruct the function of Urnfield Culture hilltop settlements based on the associated theoretical framework of interest factors
+alleged in the literature. It highlights that spatial correlation, if it is even significant, does not imply causation in the absence of
+stable testable data. How can we deal with the special nature of archaeological data and variables without a priori assumptions
+to combine them with the power of spatial analysis?

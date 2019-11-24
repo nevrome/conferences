@@ -1,0 +1,16 @@
+YOU ARE WHAT YOU EAT: ISOTOPIC MIXING MODELS APPLIED TO DATA FROM NEOLITHIC EUROPE
+Author(s): Sebald, Sidney (Ludwig Maximilian University) - Papathanasiou, Anastasia (Greek Ministry of Culture) - Richards,
+Michael (Simon Fraser University) - Grupe, Gisela (Ludwig Maximilian University)
+Presentation Format: Oral
+Collagen stable isotopes (delta13C, delta15N) in archaeological human bones are commonly used to assess the trophic level
+(delta15N) and the vegetal food source (C3-plants vs. C4-plants, marine vs. terrestrial; delta13C). The results of isotopic analysis are usually interpreted by bivariate plots and univariate statistics. However, an isotopic sourcing reveals much more information about the biomass contribution of selected food sources.
+Since it is assumed that the Neolithic Transition was accompanied by dietary change, stable isotopic ratios of human and animal
+bones from Neolithic sites are especially attractive for an in-depth diet reconstruction. Indeed, the Neolithic was a time of extensive transformation. The Neolithic Transition started in the Fertile Crescent and came to Europe at around 6800 BC, starting
+in Greece and from there on expanding to the Balkan. Previously published isotopic data were re-interpreted by use of concentration-dependent mixing models provided by IsoConc and SISUS.
+For the reconstruction of palaeodiet, the Neolithic Greek sites Alepotrypa, Franchthi, Mavropigi, Theopetra and Xirolimni and the
+Meso/Neolithic Serbian sites Lepinski Vir and Vlasac were examined. These sites are characterized by different environmental
+parameters, leading to different resources. While Greece with its Mediterranean climate and environment provides a C3-plant
+based diet augmented by animal protein like meat and marine fish, the Serbian sites have access to the Danube and exploited
+freshwater resources.
+While the largely freshwater diet of the humans from the Serbian sites was confirmed, new staples became visible in the later
+Greek populations indicative of changing subsistence economies.

@@ -1,0 +1,7 @@
+ment and design phase of the database, but they will also be the end users of the database, which means that they will produce
+the majority of its content.
+By engaging the users in a democratic way, we are offering a possibility to make a true impact on the end product. We are currently doing user experience research amongst different stakeholders and end users. Through this research we will be able to ensure
+that the database is accessible, easy to use and offers a great experience to its users.
+We are aiming for a genuine partnership between the different user groups instead of falling into a merely consultation-like
+approach. Our hypothesis, borne out by our UX research data so far, is that learning will be a major motivator for the metal detectorists to use SuALT. By fostering learning we can address some of the problems in this kind of citizen science systems, namely
+low quality of metadata.

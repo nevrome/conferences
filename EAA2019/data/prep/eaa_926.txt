@@ -1,0 +1,19 @@
+HOW TO SCAN A MAMMOTH. RECORDING, ANALYZING AND PRESENTING CT SCANNED 3D DATA OF A
+LATEGLACIAL PROBOSCIDEAN FROM ROTKREUZ, SWITZERLAND
+Author(s): Reinhard, Jochen - Huber, Renata (Amt für Denkmalpflege und Archäologie)
+Presentation Format: Poster
+In 2015, a tusk and several bones of the postcranial skeleton of a woolly mammoth (Mammuthus primigenius) have been found
+during construction work in Risch-Rotkreuz (Canton Zug, Switzerland). Dating to around 15’000 B. C., the capital bull is one of the
+latest known mammoth finds from the Swiss plateau shortly before the species went extinct regionally. Though fragmented, the
+impressive size of the tusk and the nearly perfect condition of the bone substance demanded a scientific and museum presentation from early on. To make them available to both researchers and the wider public alike, all finds were subjected to computer
+tomography scans. The bones could be fitted into a clinical CT scanner at the local hospital (Siemens Somatom Definition AS)
+with good results. Subsequently, image segmentation was performed on the standardized DICOM image stacks using the open
+source software ‘3DSlicer’ to export 3D models. The sheer size of the tusk made clinical CT impossible – it was scanned with
+an industrial CT scanner by Qualitech AG, Mägenwil. Even here, four scans were necessary to record the whole specimen. The
+resulting data is of significantly higher resolution compared to the clinical scans, but lower and changing contrast as well as
+scanning artefacts resulted in difficulties for image segmentation and the analysis of the tusk’s inner structure. Albeit this, the
+CT data allow the assessment of the ivory’s banding of varying density commonly interpreted as incremental (annual?) growth of
+the tusk. Through the hosting platform ‘Sketchfab’ all 3D data is, in slightly reduced complexity, made publicly available to view,
+interact with and download for everyone. QR codes interlink the web presentation with conventional publication and museum
+exhibition. In addition, the 3D models and printed copies of the mammoth finds are used as educational material at the local
+Museum für Urgeschichte(n) in Zug.
